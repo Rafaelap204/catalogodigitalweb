@@ -1,0 +1,1 @@
+{"statusmsg":"Ran adminbin Cpanel/ftp/LISTSTORE","mode":"simple","status":1,"version":"2.4","error":0,"exit_code":0,"data":[{"homedir":"/backup/ilinkbiocom","type":"main","user":"ilinkbiocom"},{"type":"logaccess","homedir":"/etc/apache2/logs/domlogs/ilinkbiocom","user":"ilinkbiocom_logs"}],"timeout":0,"action":"fetch"}

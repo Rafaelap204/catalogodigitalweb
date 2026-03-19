@@ -1,0 +1,1178 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202511 will be lost/reset.
+# Last config file used to build this data file was /backup/ilinkbiocom/tmp/awstats/ssl/awstats.ilinkbio.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2092                
+POS_TIME 2774                
+POS_VISITOR 21900               
+POS_DAY 25652               
+POS_DOMAIN 3669                
+POS_LOGIN 4096                
+POS_ROBOT 4251                
+POS_WORMS 5043                
+POS_EMAILSENDER 5174                
+POS_EMAILRECEIVER 5317                
+POS_SESSION 26406               
+POS_FILESIZE 30656               
+POS_REQUESTTIME 30808               
+POS_SIDER 26613               
+POS_FILETYPES 5452                
+POS_DOWNLOADS 5792                
+POS_OS 5950                
+POS_BROWSER 6168                
+POS_SCREENSIZE 7341                
+POS_UNKNOWNREFERER 7415                
+POS_UNKNOWNREFERERBROWSER 8138                
+POS_ORIGIN 8543                
+POS_SEREFERRALS 8686                
+POS_PAGEREFS 8849                
+POS_SEARCHWORDS 9155                
+POS_KEYWORDS 9307                
+POS_MISC 2437                
+POS_ERRORS 9366                
+POS_CLUSTER 3952                
+POS_SIDER_404 9570                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20251201000010 541 80956 9035711131617
+FirstTime 20251101071251
+LastTime 20251130141145
+LastUpdate 20251201090714 541 0 540 0 0
+TotalVisits 118                 
+TotalUnique 87                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 96                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+AddToFavourites 0 11 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 17484 743 772 2356758
+1 2 2 16262 766 794 1434747
+2 36 55 5923578 788 815 187249
+3 1 1 12620 779 788 61376
+4 0 0 0 832 870 3298331
+5 7 7 84107 740 758 407202
+6 3 4 1211010 785 797 76006
+7 9 9 57558 784 804 197100
+8 20 22 1600451 914 929 324604
+9 72 366 25615081 1248 1300 6157377
+10 31 53 927694 785 855 592795
+11 52 106 23145178 833 899 1358648
+12 4 4 18248 1065 1160 2099821
+13 10 46 13857430 1156 1168 2075170
+14 56 195 17080564 849 879 226834
+15 46 125 9253217 916 937 542746
+16 37 50 7289418 807 834 129592
+17 168 218 10141237 1446 1561 705095
+18 13 59 15121074 870 899 997655
+19 57 136 3105947 868 944 3737217
+20 178 362 11432849 1323 1440 4738407
+21 293 619 15049368 1262 1426 1491233
+22 204 342 8033112 1399 1512 6682894
+23 20 129 32201733 717 732 69346
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 15
+br 1004 1990 87229357
+us 270 872 110936256
+pt 14 15 568125
+de 9 9 62593
+ru 6 6 52452
+se 5 5 43710
+gb 4 4 29972
+bg 2 2 17484
+ca 2 2 46892
+ni 1 1 8742
+ip 1 1 12620
+ar 1 1 8742
+ir 1 1 8742
+in 1 2 984749
+it 0 1 1184784
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 18
+Wget/ 17244 181067 20251130235007 0
+no_user_agent 422 12345870 20251126212714 0
+bingbot/ 276 17003921 20251130124103 9
+Googlebot/ 240 1953008 20251130221339 0
+GPTBot/ 164 3942955 20251122212542 0
+robot 7 104 20251126082820 7
+bot[\s_+:,\.\;\/\\-] 6 33555 20251113024413 3
+checker 5 43710 20251125125239 0
+unknown 4 49756 20251127222042 4
+Googlebot\-Image/ 4 301236 20251130221341 0
+facebookexternalhit/ 3 22560 20251126182759 0
+survey 2 50577 20251114232030 0
+scrapy 2 24967 20251101134908 0
+DuckDuckBot 1 8742 20251121165656 0
+curl 1 12616 20251118022625 0
+Applebot/ 1 3433 20251117202614 1
+Go\-http\-client/ 1 0 20251124091151 0
+link 1 8742 20251113084912 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+json 16 3424 0 0
+woff 13 835209 0 0
+html 473 3375030 0 0
+jpg 466 27181765 0 0
+woff2 72 6071333 0 0
+png 215 153115310 0 0
+jpeg 40 1434558 0 0
+css 490 2121914 0 0
+js 378 2949951 0 0
+ttf 14 1029073 0 0
+xml 12 454500 0 0
+Unknown 16 200167 0 0
+txt 2 50361 0 0
+php 705 2372625 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 4
+/sitemap.txt 2 0 5972
+/sitemap.xml.gz 2 0 5972
+/license.txt 1 0 12486
+//wp-includes/ID3/license.txt 1 0 37875
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+android12 3 3
+Unknown 23 14
+win7 2 1
+macosx13 2 2
+win10 617 250
+linux 202 44
+macosx15 9 9
+android 36 3
+macosx10 1 1
+android10 1959 982
+ios_iphone 58 12
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 56
+chrome101.0.4951.61 2 2
+mozilla 6 6
+chrome138.0.0.0 52 4
+Unknown 14 5
+chrome91.0.4472.114 2 2
+chrome130.0.0.0 1 1
+chrome121.0.0.0 3 3
+chrome131.0.0.0 2 2
+chrome95.0.4638.69 15 14
+safari17.3.1 1 1
+chrome141.0.7390.122 36 3
+chrome124.0.0.0 1 1
+chrome134.0.0.0 6 2
+chrome52.0.2743.116 1 1
+chrome99.0.4844.84 1 1
+safari 1 1
+chrome12.0.750.0 1 0
+chrome122.0.0.0 1 1
+chrome13.0.782.20 1 1
+chrome129.0.0.0 164 29
+chrome139.0.0.0 4 4
+chrome135.0.0.0 1 1
+chrome101.0.4951.64 1 1
+safari16.4 2 2
+iphone 27 4
+chrome136.0.7103.49 2 0
+chrome86.0.4240.198 1 1
+chrome140.0.0.0 27 4
+chrome103.0.5060.66 48 7
+firefox50.0 1 1
+safari15.4 1 1
+chrome110.0.0.0 6 6
+chrome99.0.4859.172 2 0
+firefox127.0 1 1
+firefox110.0 4 4
+edge18 28 5
+firefox139.0 3 3
+chrome141.0.0.0 8 6
+firefox144.0 1 1
+chrome76.0.3809.100 2 2
+chrome136.0.0.0 36 3
+chrome114.0.0.0 2 2
+chrome58.0.3029.110 5 5
+chrome88.0.4324.181 1 1
+sonyericsson 1 1
+safari14.0.3 27 4
+chrome91.0.4472.124 5 5
+safari13.1.2 1 1
+firefox135.0 1 1
+netscape5.0 2 2
+safari18.7 2 2
+opera85.0.4341.79 1 1
+chrome92.0.4515.107 34 30
+opera36.0.2130.46 1 1
+chrome90.0.4430.85 2 2
+chrome142.0.0.0 2310 1126
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+SonyEricssonK550i/R1JD_Browser/NetFront/3.3_Profile/MIDP-2.0_Configuration/CLDC-1.1 20251125081940
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20251120164142
+WhatsApp/2.23.20.0 20251114154334
+Mozilla/5.0 20251125141709
+\ 20251118104254
+python-httpx/0.24.1 20251121093102
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20251117162527
+NetworkingExtension/8621.3.11.10.3_Network/4277.140.33_iOS/18.6.2 20251111083549
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20251130141145
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+WhatsApp/2.23.20.0 20251114154334
+\ 20251118104254
+NetworkingExtension/8621.3.11.10.3_Network/4277.140.33_iOS/18.6.2 20251111083549
+python-httpx/0.24.1 20251121093102
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20251117162527
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 140 161
+From1 2 2
+From2 1 2
+From3 27 164
+From4 1151 2583
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 1 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+https://valarts.ilinkbio.com.br 25 96
+http://cpanel.ilinkbio.com.br 1 1
+http://webmail.ilinkbio.com.br 1 1
+https://flashburguerepizzaria.ilinkbio.com.br 0 66
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+403 1430 1111594
+206 2 106029
+302 385 1168156
+406 4 3116
+400 423 21944
+500 2 768
+401 1329 49804
+301 275 216240
+404 1612 1283152
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 564
+/.docker/config.json 1 -
+/assets/vendor/bootstrap/css/bootstrap.min.css 1 -
+/atomlib.php 1 -
+/admin/info.php.save 1 -
+/vendor/phpunit/phpunit/phpunit.xsd 1 -
+/config/.env.save 2 -
+/application.properties 1 -
+/storage/.env.bak 1 -
+/vendor/.env 2 -
+/site/.env 1 -
+/themes/.env.save 1 -
+/phptest.php 1 -
+/assets/vendor/aos/aos.css 1 -
+/painel/produtos/copiar/src/image-uploader.js 1 https://ilinkbio.com.br/painel/produtos/copiar/
+/includes/.env.old 1 -
+/config/app.yml 1 -
+/secrets.yml 1 -
+/bless2.php 1 -
+/app/.env.bak 2 -
+/app/.env 2 -
+/great.php 1 -
+/35.php 1 -
+/.env.tmp 2 -
+/conheca/xmlrpc.php 14 -
+/class9.php 1 -
+/public/info.php 1 -
+/x.php 1 -
+/.api_keys 1 -
+/wp-login.php 12 -
+/error.log 1 -
+/aa17.php 1 -
+/conheca/wordpress/wp-includes/wlwmanifest.xml 14 -
+/_debug 1 -
+/js 3 -
+/lock360.php 1 -
+/13.php 1 -
+/api/.env 3 -
+//shop/wp-includes/wlwmanifest.xml 2 -
+/api/.env.bak 2 -
+/7.php 1 -
+/apple-touch-icon-precomposed.png 3 -
+/info.php.swp 1 -
+/debug.log 1 -
+/667.php 1 -
+/cgi-bin/phpinfo.php 1 -
+/lib/.env.old 1 -
+/.env.test 2 -
+/bluejackets.php 1 -
+/wsr2.php 2 -
+/dev/phpinfo.php 1 -
+/test.php.save 1 -
+/wp-content/ 4 -
+/application.yml 1 -
+/test/info.php.save 1 -
+/painel/produtos/editar/src/image-uploader.js 19 https://ilinkbio.com.br/painel/produtos/editar/index.php
+/pass.php 1 -
+/lo.php 1 -
+/backup.tar.gz 1 -
+/settings.json 2 -
+/ef.php 1 -
+/site/info.php.save 1 -
+/up.php 1 -
+/css.php 1 -
+/wp-update.php 1 -
+/02.php 1 -
+/fm.php 1 -
+/nqsa.php 1 -
+/wp-su.php 1 -
+/web/.env 1 -
+/7h.php 1 -
+/rsnu.php 1 -
+/php_info.php.old 1 -
+/core/.env.old 1 -
+/includes/.env 2 -
+/app/.env.save 2 -
+/sitemaps.xml 2 -
+/debug.php 2 -
+/src/.env.old 2 -
+/num.php 1 -
+/goods.php 2 -
+//wp-includes/ID3/license.txt 2 -
+/robots.txt 109 -
+/cgi-bin/phpinfo.php.save 1 -
+/get.php 1 -
+/admin/phpinfo.php 1 -
+/public/.env.old 2 -
+/conheca/2020/wp-includes/wlwmanifest.xml 5 -
+/phpinfo 3 -
+/assets/.env 2 -
+/phpinfo.php.old 1 -
+/phpinfo.php.backup 1 -
+/adminer.php/adminer.php 2 -
+/wp-admin/css/ 2 binance.com
+/we.php 1 -
+/asd67.php 1 -
+/.gcloud/credentials 1 -
+/auth.json 1 -
+/conheca/media/wp-includes/wlwmanifest.xml 9 -
+/aaaa.php 1 -
+/api/.env.save 2 -
+/.env.local 4 -
+/Dockerfile 1 -
+/dex.php 1 -
+/admin/.env.bak 2 -
+/wp-content/plugins/fix/up.php 1 https://www.google.com/
+/modules/.env 1 -
+/fifii.php 1 -
+/core/.env 2 -
+/system/.env 1 -
+/bv3.php 1 -
+/configuration 1 -
+/s3.yml 1 -
+/php_info.php.save 1 -
+/info.php~ 1 -
+/ioxi-o.php 1 -
+/test.php 4 -
+/test.php.bak 1 -
+/blurbs8.php 1 -
+/oiepfuav.php 1 -
+/c4.php 1 -
+/conheca/news/wp-includes/wlwmanifest.xml 14 -
+/bin.php 1 -
+/conheca/2018/wp-includes/wlwmanifest.xml 9 -
+/.azure/credentials 1 -
+/x4.php 1 -
+/conheca/website/wp-includes/wlwmanifest.xml 14 -
+/.env.staging 2 -
+/application/.env.bak 1 -
+/cf.php 1 -
+/configuration.json 1 -
+/jga.php 1 -
+/sitemap.xml 2 -
+/filemanager.php 1 -
+/wp-config.php~ 1 -
+/ot.php 1 -
+/admin/info.php 1 -
+/rdfe.php 1 -
+/themes/.env.old 1 -
+/modules/.env.old 1 -
+/assets/vendor/swiper/swiper-bundle.min.css 1 -
+/.aws/credentials 1 -
+/phpinfo.php.tmp 1 -
+/admin/.env 2 -
+/assets/vendor/glightbox/js/glightbox.min.js 5 -
+/database/.env 1 -
+/mjq.php 1 -
+/info.php.tmp 1 -
+/lib/.env 2 -
+/conheca/web/wp-includes/wlwmanifest.xml 14 -
+/lib/.env.bak 1 -
+/past1.php 1 -
+/aa8.php 1 -
+/.env.swp 2 -
+/aws.json 1 -
+/config.yaml 2 -
+/api/.env.old 2 -
+/painel/pedidos/ultimo_pedido.php 1 https://ilinkbio.com.br/painel/pedidos/
+/site-backup.zip 1 -
+/conheca/cms/wp-includes/wlwmanifest.xml 14 -
+/.env.dev 2 -
+//2021/wp-includes/wlwmanifest.xml 2 -
+/uploads/ 2 binance.com
+/sad.php 1 -
+/aa.php 1 -
+/config/.env.old 2 -
+/assets/vendor/bootstrap/js/bootstrap.bundle.min.js 1 -
+/.env.orig 2 -
+/asserter.php 1 -
+/naxc.php 1 -
+/web/phpinfo.php 1 -
+/ahax.php 1 -
+/700.php 1 -
+/rh.php 1 -
+//2019/wp-includes/wlwmanifest.xml 2 -
+/info.php.orig 1 -
+/test.php.backup 1 -
+/wp-content/plugins/hellopress/wp_filemanager.php 2 -
+/assets/.env.bak 2 -
+/src/.env.save 2 -
+/t3x.php 1 -
+/dropdown.php 1 -
+/app/.env.old 2 -
+/php_info.php 3 -
+/wp-admin/setup-config.php 2 -
+/app/logs/dev.log 1 -
+/conheca/shop/wp-includes/wlwmanifest.xml 14 -
+/settings 1 -
+/13k.php 1 -
+/v1/.env 1 -
+/witmm.php 1 -
+/axx.php 1 -
+/racs3.php 1 -
+/wp-admin/ 1 https://wordpress.org/
+/web.config 1 -
+/.env.sample 2 -
+/system/.env.bak 1 -
+/public/phpinfo.php 1 -
+/.env.prod 2 -
+/conheca/wp2/wp-includes/wlwmanifest.xml 14 -
+/zc.php 1 -
+/gifclass4.php 1 -
+/.wp-config.php.swp 1 -
+/config.php 2 -
+/file2.php 1 -
+/azure.json 1 -
+//web/wp-includes/wlwmanifest.xml 2 -
+/config/secrets.yml 1 -
+/4563.php 1 -
+/nxx.php 1 -
+/modules/.env.save 1 -
+/.env.dist 2 -
+/an.php 1 -
+/psnlink/.env 1 -
+/slo.php 1 -
+/lib/.env.save 1 -
+/cgi-bin/info.php.save 1 -
+/l.php 1 -
+/public/.env.save 2 -
+/test.php.old 1 -
+/vendor/.env.bak 1 -
+/env.yaml 1 -
+/phpinfo.php.save 1 -
+/env.json 1 -
+/config.zip 1 -
+/sites/default/settings.php 1 -
+/plugins/.env.bak 1 -
+/admin/.env.save 2 -
+/.env.backup 2 -
+/php_info.php.tmp 1 -
+/assets/vendor/boxicons/css/boxicons.min.css 1 -
+/xl.php 1 -
+/xo.php 1 -
+/includes/phpinfo.php.save 1 -
+/tmp/phpinfo.php 1 -
+/co.php 1 -
+/wp-config.php.bak 1 -
+/www/phpinfo.php 1 -
+/r4f_1.php 1 -
+/includes/info.php 1 -
+/serverinfo.php 1 -
+/modules/mod_simplefileuploadv1.3/elements/wpxadmin.php 1 -
+/sitemap.txt 2 -
+/unity.php 1 -
+/yee.php 1 -
+/.env.remote 1 -
+/docker-compose.yaml 1 -
+/admin 1 -
+/new.php 1 -
+/cgi-bin/info.php 1 -
+/keys.json 1 -
+/wp-config.php.save 1 -
+/src/.env.bak 2 -
+/src/.env 2 -
+/config.json 2 -
+/config.ini 1 -
+/conheca/wp-includes/wlwmanifest.xml 14 -
+/epinyins.php 1 -
+/2020.php 1 -
+/sarang.php 1 -
+/v3.php 1 -
+/shlo.php 1 -
+/cronlab/.env 1 -
+/phpversion.php 2 -
+/php_info.php.backup 1 -
+/.env~ 2 -
+/wp-signup.php 1 -
+/core/app/.env 1 -
+/app.config 1 -
+/tcp.php 1 -
+/server.php 1 -
+/sh.php 1 -
+/plugins/.env.old 1 -
+/nij.php 1 -
+/yzkvrell.php 1 -
+/zc-749.php 1 -
+/wp-config.php 2 -
+/dev/info.php 1 -
+/bb5.php 1 -
+/en/.env 1 -
+/conheca/wp/wp-includes/wlwmanifest.xml 14 -
+/php_info.php~ 1 -
+/images/ 2 binance.com
+/settings.yml 1 -
+/vendor/.env.old 1 -
+/assets/vendor/glightbox/css/glightbox.min.css 1 -
+/gmo.php 1 -
+/config/config.yml 1 -
+/ads.txt 1 -
+/test.php~ 1 -
+/backup.zip 1 -
+/tmp/phpinfo.php.save 1 -
+/.env 17 -
+/file17.php 1 -
+/filei.php 1 -
+/3.php 1 -
+/gg.php 1 -
+/wp-confiq.php 1 www.google.com
+/scripts/phpinfo.php.save 1 -
+/www/phpinfo.php.save 1 -
+/info1.php 1 -
+/info.php.bak 1 -
+/info.php 4 -
+/secrets.json 1 -
+/wp-rss4.php 1 -
+/check.php 1 -
+//xmlrpc.php 5 -
+/asasx.php 1 -
+/efile.php 1 -
+/.well-known/info.php 1 -
+/bless3.php 1 -
+/database.sql 1 -
+/env.yml 1 -
+/lab/.env 1 -
+/cfile.php 1 -
+/cool.php 1 -
+/lc.php 1 -
+/cron/.env 1 -
+/gcp-credentials.json 1 -
+/pp.php 1 -
+/wp-mn.php 1 -
+/btufulhs.php 1 -
+//2020/wp-includes/wlwmanifest.xml 2 -
+/userfuns.php 1 www.google.com
+/nc4.php 1 -
+/thh.php 1 -
+/tmp/info.php.save 1 -
+/assets/vendor/aos/aos.js 5 -
+//sito/wp-includes/wlwmanifest.xml 3 -
+/v2/.env 1 -
+//wp-includes/wlwmanifest.xml 3 -
+/www/info.php.save 1 -
+//site/wp-includes/wlwmanifest.xml 4 -
+/storage/.env 1 -
+/phpinfo.php.swp 1 -
+/tokens.json 1 -
+/errors.log 1 -
+/lhh2.php 1 -
+/css/index.php 1 -
+/plugins/.env.save 1 -
+/apple-touch-icon-120x120.png 2 -
+/configuration.php 1 -
+/uploads/.env 1 -
+/sid.php 1 -
+/php.php 1 -
+/conheca/blog/wp-includes/wlwmanifest.xml 14 -
+/php_info.php.swp 1 -
+/wp-config.php.old 1 -
+/admin.php 1 -
+/nxac.php 1 -
+/sitemap.xml.gz 2 -
+/aws-config.json 1 -
+/gfile.php 1 -
+/php_info.php.orig 1 -
+/admin/controller/extension/extension/ 2 binance.com
+/themes/.env.bak 1 -
+/tinyfilemanager.php 1 -
+/2.php 1 -
+/test.php.swp 1 -
+/app/logs/prod.log 1 -
+/docker-compose.yml 1 -
+/456.php 1 -
+/docker/.env 1 -
+/conheca/wp1/wp-includes/wlwmanifest.xml 14 -
+/sder52u.php 1 -
+/application/.env 1 -
+/yasnu.php 1 -
+/modules/.env.bak 1 -
+//test/wp-includes/wlwmanifest.xml 2 -
+/wp-content/themes/pridmag/db.php 1 -
+/12.php 1 -
+/.env.bak 3 -
+/media/system/js/core.js 4 http://ilinkbio.com.br/media/system/js/core.js
+/web/phpinfo.php.save 1 -
+/z.php 1 -
+/fifi.php 1 -
+/.env.old 2 -
+/ee.php 1 -
+/ffile.php 1 -
+/kill-9-1.php 1 -
+/phpinfo.php 4 -
+/info.php.save 1 -
+/scripts/info.php.save 1 -
+/assets/.env.old 2 -
+/sites/default/files/ 2 binance.com
+/.dockerenv 1 -
+/w3llstore.php 1 -
+/zt2.php 1 -
+/public/.env 2 -
+/config/.env.bak 2 -
+/trd.php 1 -
+/admin/phpinfo.php.save 1 -
+/lufix.php 1 -
+/.secrets 1 -
+/s.php 1 -
+/baxa1.phP8 1 -
+/sitemap_index.xml 2 -
+/assets/vendor/bootstrap-icons/bootstrap-icons.css 1 -
+/application/.env.save 1 -
+/oauth.json 1 -
+/xpas2.php 1 -
+/.env.save 2 -
+/assets/js/main.js 6 -
+/system/.env.old 1 -
+/config.yml 2 -
+/php_error.log 1 -
+/Thumbs.db 1 -
+/scripts/info.php 1 -
+/web/info.php.save 1 -
+/core/.env.bak 1 -
+//feed/ 2 -
+/assets/vendor/remixicon/remixicon.css 1 -
+/apikeys.json 1 -
+/.env.development 3 -
+/sitemaps/.env 1 -
+/.aws/config 1 -
+/storage/logs/laravel.log 1 -
+/ol.php 1 -
+/application/.env.old 1 -
+/public/phpinfo.php.save 1 -
+/pi.php 1 -
+/abcd.php 1 -
+/rak.php 1 -
+/themes/.env 1 -
+/apple-touch-icon-120x120-precomposed.png 2 -
+/admin/.env.old 2 -
+/includes/.env.bak 2 -
+/kubernetes/.env 1 -
+/_profiler/phpinfo 3 -
+/info2.php 1 -
+/v2.php 1 -
+/.well-known/xin1.php 1 -
+/ava.php 1 -
+/includes/phpinfo.php 1 -
+/diagnostic.php 1 -
+/config.js 1 -
+/witm.php 1 -
+//wp1/wp-includes/wlwmanifest.xml 2 -
+/zr.php 1 -
+/site/phpinfo.php 1 -
+/ant.php 1 -
+/aua.php 1 -
+/php_version.php 1 -
+/.gitignore 1 -
+/.well-known/ws.php 1 -
+/public/wsr2.php 1 -
+/vendor/.env.save 1 -
+/kk.php 1 -
+/bu5.php 1 -
+/phpinfo.php.bak 1 -
+/_core/_cdn/sidebar/js/jquery.sidebar.min.js 482 https://ilinkbio.com.br/painel/categorias/adicionar/
+/config/.env 3 -
+/public/.env.bak 2 -
+/php_info.php.bak 1 -
+/.well-known/fm.php 1 -
+/wp-includes/buy.php 1 -
+/phpinfo.php~ 1 -
+/web/info.php 1 -
+/api_keys.json 1 -
+/ws.php 1 -
+/ar.php 1 -
+/site/info.php 1 -
+/aw.php 1 -
+/10.php 1 -
+/conheca/sito/wp-includes/wlwmanifest.xml 14 -
+/upload.php 1 -
+/wander.php 1 -
+/exapi/.env 1 -
+/scripts/phpinfo.php 1 -
+/info.php.old 1 -
+/config/database.yml 1 -
+/f35.php 1 -
+/administrator/.env 1 -
+/cache.php 1 -
+/credentials.json 1 -
+/app.config.js 1 -
+/assets/vendor/purecounter/purecounter.js 5 -
+/app/etc/env.php 1 -
+/phpinfo.php.orig 1 -
+/db_backup.sql 1 -
+/i.php 1 -
+/wp-gr.php 1 -
+/api/shared/config/config.env 1 -
+/re.php 1 -
+/includes/.env.save 2 -
+/xojryvch.php 1 -
+/site/phpinfo.php.save 1 -
+//cms/wp-includes/wlwmanifest.xml 4 -
+/saas/.env 1 -
+/conheca/test/wp-includes/wlwmanifest.xml 14 -
+/conheca/2019/wp-includes/wlwmanifest.xml 14 -
+/dump.sql 1 -
+/app/etc/local.xml 1 -
+/.config 1 -
+/ggs.php 1 -
+/test/phpinfo.php.save 1 -
+/assets/css/style.css 1 -
+/backup.sql 1 -
+/env 1 -
+/.DS_Store 1 -
+/winkel.php 1 -
+/.s3cfg 1 -
+/conheca/site/wp-includes/wlwmanifest.xml 14 -
+/assets/.env.save 2 -
+/bqcheck.php 1 -
+/tools/.env 1 -
+/logs/application.log 1 -
+//wp/wp-includes/wlwmanifest.xml 2 -
+/conheca/index.html 1 -
+/unzip.php 1 -
+/dev/info.php.save 1 -
+/gold.php 1 -
+/as.php 1 -
+/makeasmtp.php 1 -
+/test/info.php 1 -
+/Okxob.php 1 -
+/postnews.php 1 www.google.com
+/Sanskrit.php 1 -
+/apps/.env 1 -
+/content.php 1 -
+/storage/.env.old 1 -
+/config 1 -
+/ss.php 1 -
+/wp-includes/js/jquery/jquery.js 2 http://ilinkbio.com.br/wp-includes/js/jquery/jquery.js
+/fb.php 1 -
+/assets/vendor/php-email-form/validate.js 6 -
+/includes/info.php.save 1 -
+/222.php 1 -
+/www/info.php 1 -
+/core/.env.save 1 -
+/apple-touch-icon.png 3 -
+/storage/.env.save 1 -
+/conheca/assets/img/cta-bg.jpg 21 https://ilinkbio.com.br/conheca/assets/css/style.css
+/6.php 1 -
+/core/Datavase/.env 1 -
+/tmp/info.php 1 -
+/wp.php 1 -
+/.env.example 2 -
+/kubernetes.yml 1 -
+/public/info.php.save 1 -
+/test.php.tmp 1 -
+/test/phpinfo.php 1 -
+/assets/vendor/swiper/swiper-bundle.min.js 5 -
+/dev.php 1 -
+//installer.php 1 -
+/laravel/.env 1 -
+/plugins/.env 1 -
+/dev/phpinfo.php.save 1 -
+/mo.php 1 -
+/alam.php 1 -
+/reyna.php 1 -
+/files/ 2 binance.com
+//blog/wp-includes/wlwmanifest.xml 2 -
+//wordpress/wp-includes/wlwmanifest.xml 2 -
+/index.html 1 -
+/thai.php 1 -
+/bypass.php 1 -
+/CLA.php 1 -
+/system/.env.save 1 -
+/blue.php 1 -
+/.env.production 4 -
+/akc.php 1 -
+/test.php.orig 1 -
+/info.php.backup 1 -
+/new4.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 96
+201.149.126.8 780 1294 62962768 20251113163500
+201.149.125.140 186 556 14972525 20251126214119
+45.7.26.71 122 307 17493829 20251110192214
+138.0.54.9 30 106 8867383 20251114154850
+143.244.57.120 30 34 424523 20251118022638
+74.125.151.193 15 71 16439279 20251129110043
+82.102.18.222 14 15 568125 20251116081631
+34.211.2.241 8 54 15073498 20251127184950
+74.125.151.194 7 52 16644605 20251129141755
+74.125.151.195 7 41 15649114 20251129110049
+62.146.238.71 6 6 32496 20251128055630
+54.146.189.38 4 27 7536749 20251126235537
+3.228.3.131 4 25 3663573 20251126235536
+157.245.63.215 4 4 24971 20251114223958
+3.91.180.171 4 27 7549383 20251126235240
+45.5.233.184 3 36 396380 20251108224203
+170.231.133.0 3 16 210857 20251121220654
+201.149.126.255 3 17 210843 20251129104210
+98.86.171.88 3 23 6429541 20251126235230
+170.231.133.184 3 36 398931 20251109195413
+206.127.196.195 3 3 13534 20251112142016
+200.195.155.196 3 15 210024 20251126212531
+54.69.203.4 2 2 17484 20251127184940
+147.185.41.135 2 2 25229 20251124180651
+170.231.134.93 2 3 6227 20251106102740
+162.142.125.216 1 1 8742 20251119131311
+66.249.88.73 0 11 22444 
+157.173.122.176 1 1 8742 20251113144611
+3.88.147.103 1 1 8742 20251110080305
+198.235.24.102 1 1 38150 20251117162527
+66.249.88.72 0 10 33856 
+13.212.48.240 1 1 8742 20251125092547
+2a06:98c0:3600::103 1 1 12620 20251118031613
+68.183.132.228 1 1 12489 20251130090121
+104.218.55.248 1 1 7520 20251120012919
+40.77.179.158 0 1 819 
+157.245.245.246 1 1 12609 20251113082751
+45.191.241.28 0 1 976007 
+191.10.39.152 2 2 5814 20251101071252
+13.222.254.175 1 1 8742 20251113180348
+165.232.169.60 1 1 759 20251123174207
+192.121.135.97 1 1 8742 20251112222611
+213.173.102.225 0 1 1184784 
+147.182.251.180 1 1 12482 20251103224553
+138.255.203.205 2 2 13030 20251111074350
+186.158.228.77 1 1 8742 20251108113420
+185.247.137.33 1 1 8742 20251129201116
+217.160.202.182 1 1 8742 20251122212129
+44.252.40.187 1 1 46280 20251129212048
+167.172.240.177 1 1 12488 20251116075403
+192.71.10.105 1 1 8742 20251109002126
+66.102.6.197 1 7 56151 20251110093116
+100.26.252.251 0 1 1939364 
+44.193.254.10 1 1 8742 20251114200009
+151.241.38.176 1 1 8742 20251119055555
+27.58.201.158 1 1 8742 20251104055614
+213.209.143.43 2 2 21355 20251125141709
+3.90.104.229 1 1 8742 20251122080641
+52.201.212.227 1 1 8742 20251119075828
+199.45.154.142 1 1 8742 20251120164142
+3.12.152.101 1 1 8742 20251122163410
+192.36.109.98 1 1 8742 20251125235956
+155.94.163.116 1 1 759 20251123141428
+93.159.230.84 2 2 17484 20251115162812
+143.198.195.84 0 2 24878 
+104.28.47.132 1 1 7520 20251106205954
+204.76.203.25 1 5 302125 20251118052835
+54.226.38.11 1 1 8742 20251101071529
+195.178.110.54 2 2 17484 20251102183256
+35.153.98.201 1 1 8742 20251104071334
+54.71.102.89 2 2 17484 20251113151135
+100.26.49.6 1 1 8742 20251107065050
+93.158.91.241 1 1 8742 20251119224051
+64.227.110.161 1 1 12615 20251102091816
+35.93.133.122 1 1 8742 20251128062541
+185.12.149.40 1 1 8742 20251101163109
+104.28.63.129 1 1 7520 20251107140320
+137.184.75.42 1 1 12490 20251101214857
+66.102.6.196 0 6 21228 
+137.184.116.98 1 1 12491 20251118100332
+34.230.89.183 1 1 8742 20251125081940
+185.247.137.4 1 1 8742 20251130141145
+50.17.61.120 1 1 8742 20251127061445
+191.98.246.85 1 1 8742 20251117220611
+23.106.205.115 1 1 8742 20251118104254
+170.231.134.158 2 2 5218 20251106120357
+85.11.167.4 2 2 17484 20251125171629
+13.250.16.179 2 10 45111 20251121093103
+3.92.186.30 1 1 8742 20251128085903
+66.102.6.198 1 6 17657 20251110093114
+40.77.177.117 0 1 819 
+52.23.159.45 1 1 8742 20251116081340
+159.89.174.191 1 1 8742 20251119113923
+141.98.11.182 2 2 8742 20251124075906
+165.22.2.34 1 1 8742 20251105015515
+66.249.88.71 2 12 126733 20251110093116
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20251101 8 30 7045787 6
+20251102 3 3 30099 3
+20251103 1 1 12482 1
+20251104 2 2 17484 2
+20251105 1 1 8742 1
+20251106 5 6 18965 3
+20251107 2 2 16262 2
+20251108 4 38 1589906 2
+20251109 9 65 7951942 4
+20251110 147 441 26037708 12
+20251111 684 972 44529677 4
+20251112 26 31 499364 5
+20251113 61 224 12675732 7
+20251114 37 113 8913584 4
+20251115 1 1 8742 1
+20251116 20 35 6080071 4
+20251117 2 4 71770 2
+20251118 38 59 7808455 7
+20251119 7 7 51230 6
+20251120 2 6 272107 2
+20251121 5 26 255968 2
+20251122 7 20 6330645 6
+20251123 3 3 10260 3
+20251124 3 3 25229 2
+20251125 7 7 65065 6
+20251126 204 673 40361795 6
+20251127 11 57 15099724 3
+20251128 4 4 29972 3
+20251129 15 76 15355222 7
+20251130 2 2 21231 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 2
+2mn-5mn 1
+15mn-30mn 2
+0s-30s 100
+5mn-15mn 3
+30s-2mn 5
+30mn-1h 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 101
+/painel/_layout/style.php 482 1031963 0 17
+/painel/produtos/adicionar/ 214 1409545 0 0
+/painel/produtos/index.php 156 891420 1 0
+/conheca/ 79 722736 66 56
+/painel/produtos/ 29 159454 0 0
+/_core/_cdn/lineicons/fonts/LineIcons.woff2 28 1392701 5 3
+/painel/inicio/ 27 283098 6 0
+/ 19 191807 14 13
+/login/manifest.json 16 3424 0 3
+/conheca/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2 15 1380060 2 3
+/comece/ 15 45105 4 2
+/conheca/assets/vendor/boxicons/fonts/boxicons.woff2 15 1544820 1 2
+/conheca/assets/vendor/remixicon/remixicon.woff2 14 1753752 3 5
+/_core/_ajax/cidades.php 14 156202 0 0
+/painel/categorias/adicionar/ 12 44229 1 0
+/_core/_cdn/lineicons/fonts/LineIcons.ttf 12 729860 0 1
+/_core/_cdn/lineicons/fonts/LineIcons.woff 12 711801 2 1
+/painel/produtos/editar/ 11 74609 0 0
+/painel/categorias/adicionar/index.php 9 34184 0 0
+/login/ 8 11006 2 0
+/painel/produtos/editar/index.php 8 55117 0 0
+/administracao/inicio/ 6 29700 0 1
+/administracao/estabelecimentos/editar/ 5 46880 0 0
+/_core/_ajax/check_subdominio_actual.php 5 80 0 0
+/administracao/estabelecimentos/ 5 32096 0 0
+/conheca/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff 1 123408 0 1
+/wp-admin/admin-ajax.php 1 12488 0 0
+/wp-admin/profile.php 1 12484 0 0
+/wp-json/wp/v2/types/post 1 12481 0 0
+/_core/_ajax/check_subdominio.php 2 32 0 0
+/wp-json/wp/v2/taxonomies 1 12494 0 0
+//blog/wp-includes/wlwmanifest.xml 1 37875 0 0
+//wordpress/wp-includes/wlwmanifest.xml 1 37875 0 0
+/wp-json/wp/v2/plugins 1 12486 0 0
+//feed/ 1 37875 1 0
+/wp-admin/index.php 1 12489 0 0
+/painel/categorias/ 1 4259 0 0
+/.well-known/ 2 1518 2 2
+/wp-admin/admin.php 1 12487 0 0
+/_core/_ajax/variacoes.php 1 578 0 0
+/painel/configuracoes/ 2 20920 0 0
+/_core/_ajax/check_email_actual.php 4 64 0 0
+/wp-json/wp/v2/settings 1 12485 0 0
+/wp-json/wp/v2/themes 1 12484 0 0
+/painel/plano/contratar/ 2 11878 0 0
+/login/index.php 5 4278 2 0
+/_core/_ajax/check_email.php 1 16 0 0
+/conheca/assets/vendor/remixicon/remixicon.ttf 1 163424 0 1
+//test/wp-includes/wlwmanifest.xml 1 37875 0 0
+/wp-json/wp/v2/post-types 1 12489 0 1
+/xmlrpc.php 1 12484 0 0
+/wp-json/wp/v2/categories 1 12487 0 0
+/wp-content/themes/ 1 12483 0 0
+/wp-json/wp/v2/comments 1 12490 0 0
+//wp/wp-includes/wlwmanifest.xml 1 37875 0 0
+/wp-admin/install.php 1 12483 0 0
+/administracao/vouchers/ 4 18286 0 1
+/wp-admin/options-general.php 1 12481 0 0
+//web/wp-includes/wlwmanifest.xml 1 37875 0 0
+/conheca/assets/vendor/boxicons/fonts/boxicons.ttf 1 135789 0 1
+/wp-admin/users.php 1 12484 0 0
+/administracao/planos/adicionar/ 1 5698 0 0
+/wp-content/ 1 12485 0 0
+/painel/produtos/limitado/ 1 3077 1 0
+//cms/wp-includes/wlwmanifest.xml 1 37875 0 1
+/administracao/vouchers/adicionar/ 2 5940 0 0
+/comece/cadastrar/ 3 49149 0 0
+/painel/configuracoes/index.php 2 21198 0 0
+/administracao/assinaturas/editar/ 1 3486 0 0
+/wp-json/wp/v2/block-types 1 12483 0 0
+/wp-json/wp/v2/statuses 1 12487 0 0
+//site/wp-includes/wlwmanifest.xml 1 37875 0 0
+//shop/wp-includes/wlwmanifest.xml 1 37875 0 0
+/painel/categorias/editar/ 1 3735 0 0
+/wp-json/wp/v2/tags 1 12486 0 0
+/wp-admin/ 1 12489 0 0
+/wp-content/plugins/ 1 12489 0 0
+//2020/wp-includes/wlwmanifest.xml 1 37875 0 0
+/painel/categorias/index.php 1 4086 1 0
+/administracao/vouchers/adicionar/index.php 2 6166 0 0
+/wp-json/ 1 12485 0 0
+/wp-login.php 1 12484 1 0
+/painel/plano/index.php 2 7561 0 1
+/wp-json/wp/v2/pages 1 12480 0 0
+/readme.html 1 12490 0 0
+/painel/plano/listar/ 2 8370 0 0
+/painel/produtos/copiar/ 1 6533 0 0
+/administracao/estabelecimentos/editar/index.php 1 9441 0 0
+//xmlrpc.php 1 37875 0 0
+//2019/wp-includes/wlwmanifest.xml 1 37875 0 0
+//wp1/wp-includes/wlwmanifest.xml 1 37875 0 0
+/painel/pedidos/ 1 5777 0 0
+//2021/wp-includes/wlwmanifest.xml 1 37875 0 0
+/wp-includes/ 1 12485 0 0
+/wp-json/wp/v2/media 1 12486 0 0
+/administracao/assinaturas/ 4 17504 0 0
+/administracao/subdominios/ 3 10590 1 0
+/.git/config 3 37849 2 2
+/administracao/planos/ 1 3521 0 0
+/painel/plano/ 2 6758 0 0
+/wp-content/uploads/ 1 12485 0 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+44-100 563
+1K-2K 323
+100-500 273
+500-1K 3344
+5K+ 2631
+0-44 18788
+2K-5K 863
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

@@ -1,0 +1,705 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202603 will be lost/reset.
+# Last config file used to build this data file was /backup/ilinkbiocom/tmp/awstats/ssl/awstats._wildcard_.ilinkbio.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2103                
+POS_TIME 2789                
+POS_VISITOR 17241               
+POS_DAY 22608               
+POS_DOMAIN 3666                
+POS_LOGIN 4076                
+POS_ROBOT 4231                
+POS_WORMS 4802                
+POS_EMAILSENDER 4933                
+POS_EMAILRECEIVER 5076                
+POS_SESSION 23041               
+POS_FILESIZE 25721               
+POS_REQUESTTIME 25873               
+POS_SIDER 23254               
+POS_FILETYPES 5211                
+POS_DOWNLOADS 5526                
+POS_OS 5597                
+POS_BROWSER 5806                
+POS_SCREENSIZE 6347                
+POS_UNKNOWNREFERER 6421                
+POS_UNKNOWNREFERERBROWSER 6921                
+POS_ORIGIN 7488                
+POS_SEREFERRALS 7632                
+POS_PAGEREFS 7795                
+POS_SEARCHWORDS 16568               
+POS_KEYWORDS 16720               
+POS_MISC 2453                
+POS_ERRORS 16779               
+POS_CLUSTER 3932                
+POS_SIDER_404 16916               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20260313085230 1439 407968 10595403507726
+FirstTime 20260301031129
+LastTime 20260313044559
+LastUpdate 20260313091403 1439 0 1439 0 0
+TotalVisits 346                 
+TotalUnique 119                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 134                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 31 176 2178890 30 127 935747
+1 14 74 670052 0 9 0
+2 30 182 1572439 5 32 1481325
+3 31 180 1590171 7 14 319622
+4 46 290 2693263 18 122 975182
+5 33 215 1898874 16 61 304190
+6 8 42 449270 13 130 631876
+7 36 249 5166678 11 59 1499368
+8 94 632 8855321 6 24 1120069
+9 117 469 6188036 23 148 882189
+10 282 1237 37383351 24 63 1405299
+11 155 709 10291477 2 19 270076
+12 215 729 20121191 22 85 423027
+13 244 973 23358833 10 50 1288741
+14 62 331 5647047 3 18 950803
+15 321 871 26732815 36 64 244304
+16 446 1224 34581345 20 105 1153720
+17 440 1447 51347071 23 68 342856
+18 382 1054 25471710 16 85 944889
+19 152 491 13737344 1 15 411648
+20 88 507 9225431 12 78 557369
+21 102 454 14627036 3 13 131175
+22 90 335 4041004 5 35 172011
+23 51 345 8207513 12 50 637697
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 11
+us 1794 7382 145789117
+br 1047 3587 96110189
+ar 457 1246 35907532
+cl 70 327 12512994
+ch 50 275 9091865
+in 20 131 7057265
+mx 12 111 4436939
+ie 8 41 639041
+nl 6 58 1073788
+ru 5 57 3413525
+ua 1 1 3907
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+Googlebot/ 738 3537567 20260313040529 116
+bingbot/ 144 1395842 20260312183936 16
+Applebot/ 117 611242 20260310201827 4
+Googlebot\-Image/ 56 8645636 20260313040530 0
+facebookexternalhit/ 50 1123057 20260313073506 22
+AdsBot\-Google[\x20]\( 31 188788 20260302005514 0
+feed 13 338 20260306103925 0
+survey 13 456255 20260313045015 0
+bot[\s_+:,\.\;\/\\-] 3 12553 20260312003452 1
+unknown 3 13806 20260312205335 3
+Adsbot 2 8074 20260302005511 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+jpg 881 22706461 0 0
+png 1767 226198484 0 0
+html 341 2788219 0 0
+Unknown 1072 3537374 0 0
+ttf 224 159216 0 0
+json 10 37610 0 0
+woff2 239 11362732 0 0
+php 1581 2284035 0 0
+xml 3 1318 0 0
+js 2905 19088156 0 0
+css 3394 9204041 0 0
+jpeg 799 18668516 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/sitemap.txt 4 0 15666
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+ios_iphone 3900 1040
+macosx15 3 3
+android10 2781 573
+android 44 5
+os/2 48 0
+win10 3057 1286
+linux 3341 534
+Unknown 41 28
+androidmarshmallow 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 24
+chrome124.0.0.0 7 4
+safari26.3 2713 822
+chrome136.0.7103.49 3 0
+chrome131.0.0.0 2 2
+Unknown 83 27
+safari18.1.1 1 1
+chrome136.0.0.0 449 56
+safari16.6 56 5
+iphone 72 11
+samsung 5 0
+mozilla 1 1
+safari26.2 701 143
+chrome142.0.0.0 50 8
+chrome145.0.0.0 4751 1563
+chrome145.0.7632.116 2106 346
+chrome144.0.7559.132 1122 168
+safari 152 26
+chrome144.0.0.0 86 30
+safari18.6 210 32
+chrome145.0.7632.120 1 0
+chrome138.0.0.0 606 219
+chrome145.0.7632.113 37 5
+chrome145.0.7632.79 1 0
+chrome139.0.0.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+WhatsApp/2.23.20.0 20260312210704
+MercadoPago_WebHook_v1.0_payment 20260306103925
+Iframely/1.3.1_(_https://iframely.com/docs/about)_Canva 20260305144618
+GoogleAssociationService 20260312003511
+Chrome_Privacy_Preserving_Prefetch_Proxy 20260305105744
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20260306012807
+MobileSafari/8619.2.8.10.9_CFNetwork/1568.200.51_Darwin/24.1.0 20260308161551
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 8
+Chrome_Privacy_Preserving_Prefetch_Proxy 20260305105744
+NetworkingExtension/8623.1.14.10.9_Network/5569.60.39.0.3_iOS/26.2 20260312185955
+WhatsApp/2.23.20.0 20260312210704
+NetworkingExtension/8623.2.7.10.4_Network/5569.82.5_iOS/26.3.1 20260310092924
+MercadoPago_WebHook_v1.0_payment 20260306103925
+Iframely/1.3.1_(_https://iframely.com/docs/about)_Canva 20260305144618
+GoogleAssociationService 20260312003511
+NetworkingExtension/8623.2.7.10.4_Network/5569.82.5_iOS/26.3 20260305180345
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 395 485
+From1 0 5
+From2 1 4
+From3 3006 12606
+From4 68 116
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 1 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 145
+https://maryscarpe.ilinkbio.com.br 484 2897
+https://maryscarpe.ilinkbio.com.br/sacola 170 217
+https://preciosaamazonia.ilinkbio.com.br 158 1639
+https://maryscarpe.ilinkbio.com.br/pedido_balcao 152 160
+https://anamarinhosalaodebeleza.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 88 88
+https://anamarinhosalaodebeleza.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 88 88
+https://anamarinhosalaodebeleza.ilinkbio.com.br/categoria/516 74 922
+https://anamarinhosalaodebeleza.ilinkbio.com.br/categoria/487 73 919
+https://anamarinhosalaodebeleza.ilinkbio.com.br/produto/1460 72 1028
+https://preciosaamazonia.ilinkbio.com.br/categoria/560 71 93
+https://atelimariaantonia.ilinkbio.com.br 68 166
+https://bordadeiradeserrapelada.ilinkbio.com.br 67 180
+https://maryscarpe.ilinkbio.com.br/pedido_delivery 61 65
+https://maryscarpe.ilinkbio.com.br 55 134
+https://gurgueia.ilinkbio.com.br 53 421
+https://maryscarpe.ilinkbio.com.br/categoria 52 56
+https://maryscarpe.ilinkbio.com.br/produto/1923 50 64
+https://bordadeiradeserrapelada.ilinkbio.com.br/desativado 50 107
+https://maryscarpe.ilinkbio.com.br/produto/2007 48 123
+https://preciosaamazonia.ilinkbio.com.br 45 362
+https://ateliemm.ilinkbio.com.br 39 64
+https://maryscarpe.ilinkbio.com.br/produto/2010 37 66
+https://maryscarpe.ilinkbio.com.br/produto/2006 36 62
+https://preciosaamazonia.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 33 33
+https://preciosaamazonia.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 32 32
+https://maryscarpe-copy.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 1 1
+https://brancaelegance.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 2 2
+https://juraciclaudino.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 2 2
+https://preciosaamazonia.ilinkbio.com.br/produto/1765 3 5
+https://maryscarpe.ilinkbio.com.br/categoria/595 23 34
+https://cidabordados.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 1 1
+https://mercadopago.com.ar 2 2
+https://juraciclaudino.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 2 2
+https://maryscarpev2.ilinkbio.com.br 24 82
+https://maryscarpe.ilinkbio.com.br/produto/2009 3 7
+https://atelimariaantonia.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 2 2
+https://preciosaamazonia.ilinkbio.com.br/categoria 18 18
+https://maryscarpe.ilinkbio.com.br/categoria/617 3 4
+https://maryscarpe.ilinkbio.com.br/produto/1972 4 6
+https://maryscarpe.ilinkbio.com.br/produto/1925 4 7
+https://juraciclaudino.ilinkbio.com.br 18 94
+https://valarts.ilinkbio.com.br/serviceworker.js 0 1
+https://maryscarpe.ilinkbio.com.br/produto/1970 17 29
+https://maryscarpe.ilinkbio.com.br/categoria/613 25 63
+https://preciosaamazonia.ilinkbio.com.br/produto/1756 6 9
+https://maryscarpe.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 16 16
+https://brancaelegance.ilinkbio.com.br 7 72
+https://ateliemm.ilinkbio.com.br/serviceworker.js 0 16
+https://www.facebook.com 1 1
+https://preciosaamazonia.ilinkbio.com.br/pix 3 3
+https://ceonet.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 1 1
+https://maryscarpev2.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 1 1
+https://bordadeiradeserrapelada.ilinkbio.com.br/pedido_delivery 6 7
+https://maryscarpe.ilinkbio.com.br/produto/1877 8 14
+https://maryscarpe.ilinkbio.com.br/produto/pedidosabertos 3 4
+https://gurgueia.ilinkbio.com.br/serviceworker.js 0 16
+https://anafitness.ilinkbio.com.br 0 1
+https://maryscarpe.ilinkbio.com.br/categoria/614 29 96
+https://cidabordados.ilinkbio.com.br 15 50
+https://jbp.ilinkbio.com.br 21 122
+https://preciosaamazonia.ilinkbio.com.br/produto/1754 13 18
+https://maryscarpe.ilinkbio.com.br/produto/1926 7 9
+https://ateliemm.ilinkbio.com.br/desativado 3 31
+https://centersat.ilinkbio.com.br 3 34
+https://preciosaamazonia.ilinkbio.com.br/produto/1748 3 6
+https://preciosaamazonia.ilinkbio.com.br/sacola 13 13
+https://maryscarpe.ilinkbio.com.br/produto/1985 3 5
+https://centersat.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 1 1
+https://preciosaamazonia.ilinkbio.com.br/produto/1750 3 6
+https://maryscarpe.ilinkbio.com.br/produto/1918 5 37
+https://valarts.ilinkbio.com.br 4 180
+https://maryscarpe.ilinkbio.com.br/produto/1971 13 51
+https://demo4.ilinkbio.com.br/produto/151 4 68
+https://maryscarpev2.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 1 1
+https://cidabordados.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 1 1
+https://ceonet.ilinkbio.com.br 3 34
+https://gurgueia.ilinkbio.com.br/categoria/582 10 12
+https://centersat.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 1 1
+https://maryscarpe.ilinkbio.com.br/pedidosabertos 14 68
+https://gurgueia.ilinkbio.com.br/categoria/583 15 34
+https://preciosaamazonia.ilinkbio.com.br/produto/1759 8 17
+https://anamarinhosalaodebeleza.ilinkbio.com.br/produto/1518 3 35
+https://gurgueia.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 10 10
+https://atelimariaantonia.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 2 2
+https://anamarinhosalaodebeleza.ilinkbio.com.br/categoria/494 0 1
+https://maryscarpe.ilinkbio.com.br/produto/1975 5 39
+https://jbp.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 3 3
+https://maryscarpe.ilinkbio.com.br/_core/_cdn/bootstrap/css/bootstrap.min.css 3 3
+https://brancaelegance.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 2 2
+https://maryscarpe.ilinkbio.com.br/produto/1973 11 16
+https://cidabordados.ilinkbio.com.br 3 4
+https://maryscarpe.ilinkbio.com.br/categoria/615 22 98
+https://preciosaamazonia.ilinkbio.com.br/serviceworker.js 0 74
+https://maryscarpe.ilinkbio.com.br/categoria/622 4 5
+https://preciosaamazonia.ilinkbio.com.br/pedido_balcao 19 21
+https://preciosaamazonia.ilinkbio.com.br/produto/1762 6 9
+https://maryscarpe.ilinkbio.com.br/categoria/604 17 21
+https://jbp.ilinkbio.com.br/serviceworker.js 0 6
+https://preciosaamazonia.ilinkbio.com.br/produto/1767 22 32
+https://maryscarpe.ilinkbio.com.br/categoria/618 9 11
+https://maryscarpe.ilinkbio.com.br/categoria/584 17 21
+https://gurgueia.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 10 10
+https://maryscarpe.ilinkbio.com.br/produto/1917 3 6
+https://preciosaamazonia.ilinkbio.com.br/produto/1749 8 44
+https://preciosaamazonia.ilinkbio.com.br/produto/1764 22 31
+https://gurgueia.ilinkbio.com.br/categoria/580 3 4
+https://maryscarpe.ilinkbio.com.br/produto/1927 7 11
+https://ateliemm.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 1 1
+https://preciosaamazonia.ilinkbio.com.br/produto/1766 6 10
+https://bordadeiradeserrapelada.ilinkbio.com.br/produto/1888 18 25
+https://l.instagram.com 1 1
+https://demo4.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 2 2
+https://juraciclaudino.ilinkbio.com.br/serviceworker.js 0 6
+https://gurgueia.ilinkbio.com.br/categoria/581 8 10
+https://valarts.ilinkbio.com.br/produto/1594 3 6
+https://demo4.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 2 2
+https://maryscarpe-copy.ilinkbio.com.br 3 37
+https://maryscarpev2.ilinkbio.com.br/serviceworker.js 0 7
+https://karinasaboaria.ilinkbio.com.br/serviceworker.js 0 1
+https://valarts.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 1 1
+https://cidabordados.ilinkbio.com.br/serviceworker.js 0 5
+https://jbp.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 3 3
+https://maryscarpe.ilinkbio.com.br/categoria/597 22 27
+https://maryscarpe.ilinkbio.com.br/obrigado 14 14
+https://ateliemm.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 1 1
+https://maryscarpe.ilinkbio.com.br/categoria/616 10 43
+https://anamarinhosalaodebeleza.ilinkbio.com.br/categoria/485 0 1
+https://valarts.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 1 1
+https://maryscarpe.ilinkbio.com.br/serviceworker.js 0 140
+https://shopburge.ilinkbio.com.br/desativado 5 33
+https://maryscarpe-copy.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 1 1
+https://maryscarpe.ilinkbio.com.br/produto/1924 15 22
+https://bordadeiradeserrapelada.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 6 6
+https://bordadeiradeserrapelada.ilinkbio.com.br/sacola 27 27
+https://maryscarpe.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 16 16
+https://gurgueia.ilinkbio.com.br/produto/1873 3 6
+https://maryscarpe.ilinkbio.com.br/categoria/596 28 65
+https://atelimariaantonia.ilinkbio.com.br/serviceworker.js 0 24
+https://bordadeiradeserrapelada.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 6 6
+https://bordadeiradeserrapelada.ilinkbio.com.br 8 43
+https://maryscarpe.ilinkbio.com.br/produto/1879 11 16
+https://ceonet.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 1 1
+https://bordadeiradeserrapelada.ilinkbio.com.br/produto/1887 13 16
+https://bordadeiradeserrapelada.ilinkbio.com.br/serviceworker.js 0 51
+https://maryscarpe.ilinkbio.com.br/produto/1974 4 6
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+406 5 3895
+206 8 176621
+302 77 900843
+404 1 796
+403 189 7870
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1
+/robots.txt 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 134
+45.7.26.126 837 2000 60107042 20260312175929
+179.60.169.56 331 863 25989459 20260305180345
+74.125.218.39 224 1344 12441028 20260313044555
+181.213.19.165 170 337 12016191 20260311172825
+74.125.218.40 166 1131 10954487 20260313044559
+177.74.107.48 151 395 14216827 20260306174138
+177.74.105.89 139 328 8802719 20260303174812
+138.84.42.193 126 577 25020705 20260306190749
+74.125.218.41 113 678 5093628 20260313021906
+138.84.42.206 96 361 5717700 20260312200851
+177.87.166.47 69 190 2682023 20260310090651
+177.74.104.218 65 178 4101894 20260312181233
+179.60.169.0 62 189 7015388 20260310101636
+190.83.43.165 54 225 12167085 20260306204557
+177.8.29.68 42 168 2598575 20260310165702
+191.246.248.192 42 114 1557280 20260310131505
+200.9.67.64 39 110 1490176 20260310143022
+200.152.24.191 36 51 410339 20260303125513
+170.239.140.43 34 166 4773376 20260312222742
+177.8.26.71 31 96 1416564 20260312175043
+186.0.149.187 30 86 1667759 20260303215437
+186.0.149.147 26 83 1134216 20260310114954
+191.246.251.247 26 175 6788148 20260311230541
+138.0.244.0 26 152 4563498 20260309101750
+170.231.133.211 22 76 1643436 20260303221059
+31.13.115.2 2 2 388 20260308102805
+45.5.233.174 6 57 998479 20260305180030
+66.249.83.137 0 1 8536 
+50.17.245.9 1 1 9423 20260305144618
+74.125.210.164 0 4 13733 
+66.249.88.36 3 8 52137 20260303221052
+181.213.19.249 9 62 1090012 20260310080048
+191.246.252.178 6 53 1338399 20260302205851
+35.245.20.104 1 1 11283 20260308071135
+181.77.12.161 0 4 313490 
+170.239.143.19 10 51 3240176 20260310135727
+66.249.83.100 0 2 3089 
+74.125.210.166 2 5 56648 20260303221058
+66.249.83.36 0 2 1678 
+186.226.189.227 0 1 12577 
+74.125.218.102 1 18 236369 20260301112113
+74.125.210.165 2 10 32612 20260303221057
+74.125.218.100 5 28 304191 20260301112116
+177.87.165.245 6 48 362555 20260310115718
+209.242.212.70 5 57 3413525 20260307170442
+46.203.198.122 1 1 3907 20260302142235
+200.137.142.2 6 49 118701 20260310090044
+45.163.119.22 0 1 46185 
+66.102.8.38 2 13 46637 20260302205855
+138.255.22.63 10 63 1090198 20260310135930
+66.249.83.128 1 3 1052 20260303220829
+74.125.210.68 1 15 81380 20260304134710
+74.125.218.101 4 28 200799 20260301112116
+45.5.234.182 6 58 1078313 20260310084413
+170.83.2.217 17 125 2319200 20260312002908
+40.77.177.254 0 1 4184 
+66.249.85.129 1 1 8341 20260303220827
+201.149.125.140 6 58 1074925 20260310112949
+191.246.235.165 1 2 82325 20260310090708
+177.74.107.60 16 24 488358 20260309172641
+74.125.210.99 9 46 256744 20260312131532
+18.215.140.160 2 2 11309 20260307170439
+179.151.223.85 0 4 313490 
+35.213.199.242 4 7 88176 20260307172931
+165.232.180.116 1 1 3433 20260307095715
+191.246.236.205 14 65 1615129 20260304074050
+177.54.231.9 11 55 138874 20260310214951
+74.125.210.97 5 40 347336 20260312131532
+177.8.29.61 5 51 1506678 20260304070406
+162.120.186.85 1 1 8306 20260305105745
+177.55.68.250 11 191 13058405 20260311173159
+162.142.125.42 1 1 3433 20260306012807
+187.112.16.7 5 42 916962 20260302215817
+191.36.187.115 6 39 476367 20260302105256
+200.124.94.128 10 54 227265 20260312131921
+18.213.114.129 1 1 26 20260306103925
+148.222.209.123 6 58 1074925 20260310090724
+154.30.98.203 5 57 3413525 20260307170442
+45.168.111.9 4 6 16479 20260304214445
+45.174.146.195 10 65 3505593 20260310111647
+66.249.85.2 1 1 8044 20260302205851
+74.125.209.67 1 1 3761 20260303162905
+177.54.230.192 2 2 889 20260312210712
+45.7.26.121 21 79 1132750 20260311085150
+177.87.165.234 21 74 1726255 20260303221524
+74.125.210.65 1 1 3761 20260312003804
+66.249.77.39 1 1 5049 20260302135148
+66.102.8.37 3 22 189015 20260302205855
+40.77.178.53 0 1 4184 
+177.74.105.157 6 53 3362014 20260304173531
+66.249.85.137 1 1 5104 20260303221056
+66.249.85.44 1 1 3701 20260304134709
+77.174.229.188 6 58 1073788 20260301173809
+74.125.210.66 6 19 140525 20260312003511
+66.249.88.38 7 17 81631 20260303221057
+66.249.83.102 0 2 367 
+177.23.254.208 6 35 226393 20260308183210
+172.225.209.0 0 1 57 
+191.246.229.236 6 53 1582187 20260303215502
+179.151.216.181 18 38 29151 20260304134730
+179.151.221.164 6 58 1078313 20260310075912
+181.213.19.147 4 5 11630 20260302215800
+31.13.115.8 6 39 638653 20260308102805
+45.181.228.211 6 59 3489008 20260310104646
+45.7.26.108 14 69 1107065 20260310114314
+74.125.209.65 1 1 3761 20260304185744
+66.249.83.37 1 4 71669 20260303220829
+170.239.200.118 6 58 1078313 20260312174436
+170.231.134.49 6 57 1895677 20260304081517
+65.55.210.152 0 1 57 
+74.125.210.67 4 16 31315 20260312003804
+66.249.83.35 0 3 8503 
+66.249.83.101 2 2 11336 20260303220829
+66.249.88.230 1 1 4406 20260305105744
+45.7.26.90 6 58 1078313 20260310084236
+148.222.209.41 6 53 3362014 20260304165752
+179.151.223.167 6 48 11903 20260306114305
+66.249.88.37 3 13 84930 20260303221057
+74.125.210.98 10 45 201524 20260312131532
+177.23.254.246 20 111 3939320 20260306121739
+200.124.94.204 6 48 118644 20260310080027
+191.246.251.202 4 4 11895 20260304104052
+177.8.26.3 4 6 18751 20260312215256
+66.249.85.128 1 1 5034 20260303221051
+45.7.25.29 6 58 1078313 20260310113257
+167.71.1.56 1 1 3433 20260307142800
+74.244.222.2 6 63 3460313 20260310101535
+74.125.209.66 3 3 11283 20260304185754
+65.108.43.182 1 1 8306 20260303205411
+66.102.8.36 4 14 63809 20260302205855
+200.152.24.153 6 48 118644 20260310085117
+179.60.168.156 8 25 100710 20260309171210
+94.139.224.240 5 57 3413525 20260307170443
+191.246.255.69 0 10 441363 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 13
+20260301 54 382 4094061 20
+20260302 550 1536 25923152 32
+20260303 588 1657 41668484 42
+20260304 218 1075 36386454 33
+20260305 495 1476 43508501 24
+20260306 257 1129 34795731 29
+20260307 73 517 13805832 25
+20260308 62 373 3616342 19
+20260309 227 686 13869359 19
+20260310 411 2136 45821993 48
+20260311 126 776 29837529 16
+20260312 384 1325 21335311 32
+20260313 25 148 1373413 7
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30mn-1h 25
+2mn-5mn 24
+30s-2mn 11
+0s-30s 242
+5mn-15mn 15
+1h+ 13
+15mn-30mn 16
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 82
+/app/estabelecimento/css/style.php 674 2015395 38 49
+/app/estabelecimento/js/script.php 665 238376 51 59
+/manifest.webmanifest 415 74521 5 47
+/ 341 2788219 106 16
+/app/estabelecimento/_ajax/sacola.php 242 30264 0 2
+/_core/_cdn/lineicons/fonts/LineIcons.woff2 225 11110340 23 47
+/_core/_cdn/fonts/fonts/icomoon.ttf 224 159216 17 71
+/produto/manifest.webmanifest 109 462126 1 6
+/categoria/manifest.webmanifest 86 339284 0 5
+/sacola 67 346490 1 1
+/categoria/516 37 196211 26 10
+/categoria/487 37 199726 23 6
+/produto/1460 36 255251 22 7
+/pedido_balcao 28 140654 0 0
+/desativado 22 82259 6 5
+/categoria/560 21 110446 0 0
+/categoria 20 110012 0 0
+/_core/_cdn/bootstrap/fonts/glyphicons-halflings-regular.woff2 14 252392 0 0
+/pedido_delivery 11 74570 0 0
+/.well-known/assetlinks.json 10 37610 8 8
+/produto/1923 9 74220 0 0
+/produto/2010 9 73375 1 0
+/produto/2007 9 68004 0 0
+/categoria/583 7 35728 3 1
+/produto/2006 7 57029 0 0
+/produto/1971 3 24577 0 0
+/categoria/582 5 25170 1 1
+/produto/1750 1 6813 0 0
+/pedidosabertos 3 13404 0 0
+/categoria/595 6 31020 0 0
+/produto/1924 4 32304 0 0
+/categoria/617 1 5025 0 0
+/produto/1594 1 7203 0 0
+/categoria/584 5 25216 0 0
+/categoria/596 6 30052 0 0
+/produto/1927 2 16214 0 0
+/produto/1749 2 13766 0 0
+/categoria/580 1 5399 0 0
+/obrigado 5 22478 0 0
+/produto/1748 1 6847 0 0
+/produto/1767 5 34172 1 0
+/mercadopago 4 0 0 0
+/produto/1918 1 8042 0 0
+/categoria/622 1 5022 0 0
+/produto/1887 2 13780 0 0
+/categoria/604 4 18720 0 0
+/produto/1985 1 8074 0 0
+/produto/1973 3 24620 0 0
+/produto/1974 1 8241 0 0
+/produto/1756 1 6830 0 0
+/produto/pedidosabertos 1 4273 0 0
+/produto/1764 5 34213 2 0
+/produto/1888 3 20446 0 0
+/produto/1917 1 8252 0 0
+/produto/1754 3 20474 0 0
+/categoria/613 6 30837 0 0
+/produto/1766 3 20654 0 0
+/mercadopago_webhook 2 52 2 2
+/pix 1 5103 0 0
+/categoria/614 7 35651 1 0
+/produto/151 2 14255 2 0
+/produto/1879 3 24157 0 0
+/categoria/488 1 5049 1 1
+/shopping.xml 3 1318 1 1
+/produto/1925 1 8147 0 0
+/produto/1518 1 7001 1 0
+/produto/1975 1 8113 0 0
+/produto/1762 1 6843 0 0
+/categoria/616 2 10346 0 0
+/.well-known/traffic-advice 1 4406 1 1
+/produto/1972 1 8257 0 0
+/produto/1873 1 6739 0 0
+/categoria/581 2 10176 0 0
+/produto/1765 1 6841 0 0
+/categoria/597 5 25119 0 0
+/produto/1759 2 13710 0 0
+/categoria/615 6 30678 1 0
+/produto/1970 4 32917 0 0
+/categoria/618 2 9610 0 0
+/produto/2009 1 7914 0 0
+/produto/1926 1 8130 0 0
+/produto/1877 2 16116 1 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+1K-2K 1206
+5K+ 6066
+100-500 2456
+0-44 755
+2K-5K 2597
+500-1K 744
+44-100 866
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

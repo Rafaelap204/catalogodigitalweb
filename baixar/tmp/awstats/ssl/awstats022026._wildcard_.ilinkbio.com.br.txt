@@ -1,0 +1,1114 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202602 will be lost/reset.
+# Last config file used to build this data file was /backup/ilinkbiocom/tmp/awstats/ssl/awstats._wildcard_.ilinkbio.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2103                
+POS_TIME 2786                
+POS_VISITOR 24199               
+POS_DAY 36556               
+POS_DOMAIN 3735                
+POS_LOGIN 4325                
+POS_ROBOT 4480                
+POS_WORMS 5120                
+POS_EMAILSENDER 5251                
+POS_EMAILRECEIVER 5394                
+POS_SESSION 37414               
+POS_FILESIZE 41605               
+POS_REQUESTTIME 41760               
+POS_SIDER 37627               
+POS_FILETYPES 5529                
+POS_DOWNLOADS 5897                
+POS_OS 6029                
+POS_BROWSER 6329                
+POS_SCREENSIZE 7637                
+POS_UNKNOWNREFERER 7711                
+POS_UNKNOWNREFERERBROWSER 8434                
+POS_ORIGIN 9120                
+POS_SEREFERRALS 9264                
+POS_PAGEREFS 9427                
+POS_SEARCHWORDS 23312               
+POS_KEYWORDS 23464               
+POS_MISC 2450                
+POS_ERRORS 23523               
+POS_CLUSTER 4181                
+POS_SIDER_404 23675               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20260301031129 694 198891 11266553861073
+FirstTime 20260201003928
+LastTime 20260228235556
+LastUpdate 20260301091229 694 0 693 0 0
+TotalVisits 898                 
+TotalUnique 277                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 318                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 2 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 55 372 3585564 46 261 2258360
+1 46 266 2991697 43 249 3775303
+2 99 632 6303440 40 173 1682232
+3 74 467 4982874 31 181 3556646
+4 34 182 1961865 30 187 1828034
+5 69 400 4018767 25 134 2888380
+6 153 901 13084288 36 218 3331986
+7 110 775 17860193 18 94 1619292
+8 814 2158 49122220 20 107 1247020
+9 286 1604 35504268 10 60 513501
+10 413 1783 36690141 21 100 1778552
+11 164 969 13529188 28 108 2067478
+12 351 1763 40045168 72 161 1585121
+13 251 1459 24527623 28 105 1440296
+14 221 970 16009166 21 97 1562835
+15 297 1237 26516186 48 227 1857777
+16 499 1749 55492167 57 243 2495449
+17 191 949 21399080 51 264 2510078
+18 365 1559 33269191 46 181 2463089
+19 249 1376 31827073 47 116 2293058
+20 394 1758 36291335 44 181 3067714
+21 196 1052 26494580 121 213 3452371
+22 82 419 5859627 33 251 3342974
+23 136 669 6912459 24 96 1902625
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 26
+us 3400 18082 322110575
+br 1837 6213 171156574
+nl 108 377 7868674
+ch 60 277 4155586
+cl 54 229 3650960
+ar 22 169 3763153
+ca 15 16 137240
+se 14 14 65184
+in 11 63 1123445
+mx 4 4 24901
+ir 3 3 10773
+dz 3 3 18646
+cn 2 2 6866
+za 2 2 9547
+no 2 2 9312
+bd 2 2 12500
+at 1 1 6676
+sn 1 1 5519
+hu 1 1 5257
+pe 1 1 7200
+ma 1 2 101219
+id 1 1 7177
+om 1 1 5439
+kr 1 1 3907
+my 1 1 7174
+ru 1 1 4656
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+Googlebot/ 1621 9323520 20260228185130 328
+Applebot/ 828 4523515 20260227015353 41
+bingbot/ 496 3299238 20260228180509 57
+Googlebot\-Image/ 220 30520612 20260228103514 0
+facebookexternalhit/ 202 3639395 20260228121818 62
+AdsBot\-Google[\x20]\( 61 392274 20260226124227 0
+BW/ 7 88176 20260210205112 0
+survey 7 231431 20260213090628 0
+robot 5 18805 20260217071240 5
+bot[\s_+:,\.\;\/\\-] 5 21000 20260217021621 4
+Adsbot 3 17464 20260226123224 0
+unknown 3 13790 20260226193314 3
+GPTBot/ 1 2986 20260217080245 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 15
+woff2 479 23481363 0 0
+xml 1 1821 0 0
+js 5694 41098743 0 0
+jpeg 2980 76425904 0 0
+map 1 542194 0 0
+png 2252 282461270 0 0
+php 2427 3829632 0 0
+woff 17 615420 0 0
+txt 1 12439 0 0
+jpg 1722 54495473 0 0
+json 2 7520 0 0
+html 525 4323352 0 0
+css 7271 20274947 0 0
+Unknown 1637 6372504 0 0
+ttf 460 335578 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 3
+/sitemap.txt 7 0 22752
+/sitemap.xml.gz 3 0 8958
+/.well-known/security.txt 1 0 12439
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 15
+os/2 153 0
+win8.1 3 3
+android 875 153
+win10 4923 1456
+macosx 36 7
+Unknown 85 34
+androidmarshmallow 83 29
+macosx15 238 56
+android13 190 64
+unix 2 2
+android12 4 0
+linux 9481 1392
+android10 4371 1103
+ios_iphone 5024 1249
+linuxubuntu 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 61
+chrome145.0.0.0 2598 768
+firefox128.0 2 2
+safari26.3 142 32
+chrome122.0.0.0 3 3
+netscape5.0 6 6
+firefox115 3 3
+safari17.1.2 3 3
+chrome144.0.0.0 5018 1430
+firefox125.0 3 3
+safari16.3 58 6
+chrome140.0.0.0 58 6
+chrome142.0.7444.175 106 22
+chrome143.0.0.0 61 9
+chrome139.0.0.0 1 1
+chrome123.0.6312.118 128 54
+chrome120.0.0.0 3 3
+safari16.6 47 6
+chrome23.0.1271.64 4 0
+firefox142.0 1 1
+chrome126.0.0.0 1 1
+safari18.6 226 38
+chrome145.0.7632.49 348 47
+chrome121.0.0.0 2 2
+chrome112.0.5615.136 3 3
+firefox147.0 1 1
+chrome136.0.7103.49 14 0
+safari16.1 67 12
+safari17.6 57 6
+firefox137.0 2 2
+chrome128.0.0.0 1 1
+chrome123.0.6312.4 1 1
+chrome142.0.0.0 113 34
+iphone 229 34
+chrome144.0.7559.103 244 20
+chrome145.0.7632.75 117 41
+chrome142.0.7444.162 350 41
+chrome144.0.7559.109 76 10
+chrome129.0.0.0 16 0
+firefox133.0 1 1
+chrome114.0.0.0 6 2
+samsung 4 0
+chrome144.0.7559.132 4080 612
+safari18.3.1 3 3
+safari26.0 201 50
+chrome70.0.3538.77 4 0
+safari18.5 285 30
+chrome131.0.0.0 4 4
+chrome138.0.0.0 576 135
+safari26.2 2889 901
+chrome135.0.7049.79 159 44
+chrome135.0.0.0 152 36
+chrome133.0.0.0 2 2
+safari18.1.1 103 10
+safari18.2 349 59
+chrome130.0.0.0 58 6
+mozilla 4 4
+chrome136.0.0.0 520 110
+safari 504 96
+chrome134.0.0.0 6 6
+Unknown 228 24
+chrome143.0.7499.192 5218 762
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 10
+WhatsApp/2.23.20.0 20260228121442
+Iframely/1.3.1_(_https://iframely.com/docs/about)_Canva 20260202133433
+Mozilla/5.0 20260215191943
+Python/3.11_aiohttp/3.13.3 20260208170213
+WhatsApp/2.2587.10_W 20260213181525
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20260226055801
+NetworkingExtension/8619.2.8.10.9_Network/4277.42.2_iOS/18.1.1 20260207090755
+Iframely/1.3.1_(_https://iframely.com/docs/about) 20260202133434
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20260225084357
+GoogleAssociationService 20260224164655
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 9
+WhatsApp/2.23.20.0 20260228121442
+Iframely/1.3.1_(_https://iframely.com/docs/about)_Canva 20260202133433
+NetworkingExtension/8623.1.14.10.9_Network/5569.60.39.0.3_iOS/26.2 20260226073638
+Python/3.11_aiohttp/3.13.3 20260208170213
+Iframely/1.3.1_(_https://iframely.com/docs/about) 20260202133434
+NetworkingExtension/8619.2.8.10.9_Network/4277.42.2_iOS/18.1.1 20260207090755
+WhatsApp/2.2587.10_W 20260213181525
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20260225084357
+GoogleAssociationService 20260224164655
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 752 997
+From1 0 6
+From2 5 7
+From3 4705 24240
+From4 87 219
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 5 7
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 227
+https://preciosaamazonia.ilinkbio.com.br 541 4846
+https://karinasaboaria.ilinkbio.com.br 202 769
+https://gurgueia.ilinkbio.com.br 188 1139
+https://anamarinhosalaodebeleza.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 173 173
+https://anamarinhosalaodebeleza.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 172 172
+https://demo4.ilinkbio.com.br/produto/151 167 2739
+https://preciosaamazonia.ilinkbio.com.br/categoria/560 162 356
+https://anamarinhosalaodebeleza.ilinkbio.com.br/categoria/487 148 2080
+https://mercadinhoazevedo.ilinkbio.com.br/categoria 138 172
+https://anamarinhosalaodebeleza.ilinkbio.com.br/produto/1496 112 1834
+https://ateligourmet.ilinkbio.com.br 96 645
+https://bordadeiradeserrapelada.ilinkbio.com.br 91 311
+https://mercadinhoazevedo.ilinkbio.com.br 90 752
+https://demo4.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 81 81
+https://demo4.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 79 79
+https://anamarinhosalaodebeleza.ilinkbio.com.br/produto/1460 75 1102
+https://preciosaamazonia.ilinkbio.com.br/categoria 70 70
+https://canvafree.ilinkbio.com.br 64 278
+https://mercadinhoazevedo.ilinkbio.com.br/sacola 63 66
+https://mercadinhoazevedo.ilinkbio.com.br/categoria/569 63 117
+https://canvafree.ilinkbio.com.br/produto/1861 60 157
+https://mercadinhoazevedo.ilinkbio.com.br/categoria/570 52 95
+https://preciosaamazonia.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 52 52
+https://preciosaamazonia.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 51 51
+https://juraciclaudino.ilinkbio.com.br 50 137
+https://jbp.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 5 5
+https://juraciclaudino.ilinkbio.com.br/serviceworker.js 0 17
+https://qrtech-gestalt.netlify.app 1 1
+https://gurgueia.ilinkbio.com.br/sacola 3 3
+https://shopburge.ilinkbio.com.br/desativado 3 34
+https://gurgeia.ilinkbio.com.br/sacola 24 24
+https://mercadinhoazevedo.ilinkbio.com.br/produto/1846 27 36
+https://bordadeiradeserrapelada.ilinkbio.com.br/categoria/587 10 52
+https://valarts.ilinkbio.com.br/produto/1621 6 49
+https://ateligourmet.ilinkbio.com.br/produto/1737 4 7
+https://ateligourmet.ilinkbio.com.br/serviceworker.js 0 14
+https://ateliemm.ilinkbio.com.br/_core/_cdn/bootstrap/css/bootstrap.min.css 1 1
+https://ateliemm.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 3 3
+https://brancaelegancee.ilinkbio.com.br/desativado 3 32
+https://preciosaamazonia.ilinkbio.com.br/pedido_delivery 49 54
+https://demo2.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 2 2
+https://canvafree.ilinkbio.com.br/serviceworker.js 0 7
+https://gurgeia.ilinkbio.com.br/pedido_balcao 6 7
+https://demo2.ilinkbio.com.br/produto/74 0 2
+https://preciosaamazonia.ilinkbio.com.br/pedido_balcao 7 8
+https://preciosaamazonia.ilinkbio.com.br/produto/1759 6 11
+https://lu.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 1 1
+https://karinasaboaria.ilinkbio.com.br/produto/1858 9 12
+https://preciosaamazonia.ilinkbio.com.br/produto/1756 6 11
+https://gurgueia.ilinkbio.com.br/categoria 3 3
+https://preciosaamazonia.ilinkbio.com.br/produto/1753 3 6
+https://motorcycle.ilinkbio.com.br/desativado 3 35
+https://gurgueia.ilinkbio.com.br/produto/1865 6 9
+https://nexusdigital.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 1 1
+https://preciosaamazonia.ilinkbio.com.br/produto/1767 24 37
+https://preciosaamazonia.ilinkbio.com.br/produto/1751 5 10
+https://anamarinhosalaodebeleza.ilinkbio.com.br/produto/1514 8 43
+https://jbp.ilinkbio.com.br/serviceworker.js 0 16
+https://gurgeia.ilinkbio.com.br 28 114
+https://mercadinhoazevedo.ilinkbio.com.br/produto/1843 26 35
+https://gurgeia.ilinkbio.com.br/produto/1875 17 22
+https://bordadeiradeserrapelada.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 8 8
+https://valarts.ilinkbio.com.br/serviceworker.js 0 1
+https://drogariapopular.ilinkbio.com.br/serviceworker.js 0 17
+https://valarts.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 3 3
+https://gurgueia.ilinkbio.com.br/produto/1876 3 6
+https://preciosaamazonia.ilinkbio.com.br/produto/1762 4 24
+https://encantosdaserra.ilinkbio.com.br/categoria/563 3 4
+https://preciosaamazonia.ilinkbio.com.br/produto/1761 11 18
+https://lu.ilinkbio.com.br/serviceworker.js 0 2
+https://lu.ilinkbio.com.br 7 42
+https://juraciclaudino.ilinkbio.com.br 3 42
+https://encantosdaserra.ilinkbio.com.br/serviceworker.js 0 6
+https://demo2.ilinkbio.com.br/serviceworker.js 0 3
+https://canvafree.ilinkbio.com.br/sacola 7 7
+https://preciosaamazonia.ilinkbio.com.br/produto/1757 13 20
+https://anamarinhosalaodebeleza.ilinkbio.com.br/categoria/495 7 14
+https://drogariapopular.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 3 3
+https://brancaelegancee.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 1 1
+https://karinasaboaria.ilinkbio.com.br/produto/1855 12 18
+https://gurgeia.ilinkbio.com.br/produto/1871 3 5
+https://karinasaboaria.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 15 15
+https://maryscarpe.ilinkbio.com.br 28 106
+https://bordadeiradeserrapelada.ilinkbio.com.br/produto 3 3
+https://motorcycle.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 1 1
+https://jbp.ilinkbio.com.br 48 149
+https://karinasaboaria.ilinkbio.com.br/produto/1856 7 10
+https://gurgeia.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 2 2
+https://motorcycle.ilinkbio.com.br 11 11
+https://karinasaboaria.ilinkbio.com.br/produto/1853 6 8
+https://valarts.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 3 3
+https://gurgueia.ilinkbio.com.br/serviceworker.js 0 60
+https://maryscarpe.ilinkbio.com.br/categoria/584 5 6
+https://gurgueia.ilinkbio.com.br/produto/1869 3 6
+https://mercadinhoazevedo.ilinkbio.com.br/produto/1828 12 17
+https://mercadinhoazevedo.ilinkbio.com.br/produto/1845 18 24
+https://encantosdaserra.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 8 8
+https://encantosdaserra.ilinkbio.com.br/_core/_cdn/bootstrap/css/bootstrap.min.css 1 1
+https://mercadinhoazevedo.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 2 2
+https://pousadacurio.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 1 1
+https://gurgeia.ilinkbio.com.br/categoria 4 4
+https://demo2.ilinkbio.com.br 10 119
+https://nexusdigital.ilinkbio.com.br 3 31
+https://gurgueia.ilinkbio.com.br/categoria/581 8 10
+https://barberclinichair.ilinkbio.com.br/serviceworker.js 0 1
+https://mercadinhoazevedo.ilinkbio.com.br/serviceworker.js 0 3
+https://preciosaamazonia.ilinkbio.com.br/produto/1754 6 11
+https://karinasaboaria.ilinkbio.com.br/sacola 24 24
+https://canvafree.ilinkbio.com.br/categoria 6 8
+https://anamarinhosalaodebeleza.ilinkbio.com.br/produto/1508 3 33
+https://gurgueia.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 18 18
+https://casadesucosdaserra.ilinkbio.com.br 3 26
+https://anafitness.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 2 2
+https://motorcycle.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 1 1
+https://juraciclaudino.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 3 3
+https://gurgueia.ilinkbio.com.br/categoria/583 11 14
+https://atelimariaantonia.ilinkbio.com.br/serviceworker.js 0 9
+https://gurgeia.ilinkbio.com.br/serviceworker.js 0 23
+https://canvafree.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 1 1
+https://www.facebook.com 1 1
+https://encantosdaserra.ilinkbio.com.br/produto/1791 3 13
+https://anamarinhosalaodebeleza.ilinkbio.com.br/categoria/485 3 8
+https://mercadinhoazevedo.ilinkbio.com.br/produto/1837 6 9
+https://mercadinhoazevedo.ilinkbio.com.br/produto/1847 11 49
+https://ateliemm.ilinkbio.com.br 27 122
+https://ateligourmet.ilinkbio.com.br/desativado 3 32
+https://juraciclaudino.ilinkbio.com.br/produto/1898 10 17
+https://drogariapopular.ilinkbio.com.br 14 709
+https://anamarinhosalaodebeleza.ilinkbio.com.br/produto/1505 18 268
+https://presente-especialpara-werika.my.canva.site 4 4
+https://ateligourmet.ilinkbio.com.br/pedido_balcao 5 6
+https://ateligourmet.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 6 6
+https://preciosaamazonia.ilinkbio.com.br/produto/1755 6 11
+https://ateliemm.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 3 3
+https://ateligourmet.ilinkbio.com.br/produto/1729 8 10
+https://atelimariaantonia.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 2 2
+https://mercadinhoazevedo.ilinkbio.com.br/produto/1831 6 13
+https://brancaelegancee.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 1 1
+https://preciosaamazonia.ilinkbio.com.br/produto/1758 9 14
+https://demo2.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 2 2
+https://ateligourmet.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 6 6
+https://preciosaamazonia.ilinkbio.com.br/produto/1766 19 32
+https://gurgueia.ilinkbio.com.br/produto/1872 6 10
+https://mercadinhoazevedo.ilinkbio.com.br/produto/1849 6 10
+https://preciosaamazonia.ilinkbio.com.br/produto/1763 15 24
+https://gurgeia.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 2 2
+https://mercadinhoazevedo.ilinkbio.com.br/produto/1841 18 23
+https://maryscarpe.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 3 3
+https://jbp.ilinkbio.com.br/desativado 12 81
+https://drogariapopular.ilinkbio.com.br/categoria/393 12 16
+https://karinasaboaria.ilinkbio.com.br/categoria/578 5 6
+https://mercadinhoazevedo.ilinkbio.com.br 11 165
+https://juraciclaudino.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 3 3
+https://canvafree.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 1 1
+https://anamarinhosalaodebeleza.ilinkbio.com.br 38 40
+https://mercadinhoazevedo.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 2 2
+https://ateliemm.ilinkbio.com.br/serviceworker.js 0 6
+https://motorcycle.ilinkbio.com.br/categoria 6 6
+https://anamarinhosalaodebeleza.ilinkbio.com.br/_core/_cdn/bootstrap/css/bootstrap.min.css 18 18
+https://demo4.ilinkbio.com.br/produto/pedidosabertos 0 1
+https://gurgeia.ilinkbio.com.br/produto/1865 9 13
+https://anafitness.ilinkbio.com.br 3 46
+https://anafitness.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 2 2
+https://maryscarpe.ilinkbio.com.br/serviceworker.js 0 13
+https://bordadeiradeserrapelada.ilinkbio.com.br/categoria/588 11 13
+https://nexusdigital.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 1 1
+https://karinasaboaria.ilinkbio.com.br 6 76
+https://bordadeiradeserrapelada.ilinkbio.com.br/serviceworker.js 0 36
+https://anafitness.ilinkbio.com.br/desativado 6 64
+http://preciosaamazonia.ilinkbio.com.br 2 2
+https://gurgeia.ilinkbio.com.br/produto/1869 4 6
+https://karinasaboaria.ilinkbio.com.br/produto/1852 16 63
+https://l.instagram.com 4 4
+https://shopburge.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 1 1
+https://gurgueia.ilinkbio.com.br/produto/1868 9 53
+https://preciosaamazonia.ilinkbio.com.br/produto/1764 24 55
+https://bordadeiradeserrapelada.ilinkbio.com.br/_core/_cdn/bootstrap/css/bootstrap.min.css 1 1
+https://preciosaamazonia.ilinkbio.com.br/sacola 28 28
+https://motorcycle.ilinkbio.com.br/serviceworker.js 0 1
+https://demo2.ilinkbio.com.br/produto/278 0 1
+https://karinasaboaria.ilinkbio.com.br/categoria/572 4 5
+https://maryscarpe.ilinkbio.com.br/sacola 3 3
+https://bordadeiradeserrapelada.ilinkbio.com.br/produto/1886 9 15
+https://gurgueia.ilinkbio.com.br/categoria/582 13 17
+https://anamarinhosalaodebeleza.ilinkbio.com.br/produto/1506 40 508
+https://preciosaamazonia.ilinkbio.com.br/serviceworker.js 0 160
+https://ateligourmet.ilinkbio.com.br/produto/1735 11 17
+https://karinasaboaria.ilinkbio.com.br/pedido_delivery 38 40
+https://bordadeiradeserrapelada.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 8 8
+https://karinasaboaria.ilinkbio.com.br/serviceworker.js 0 80
+https://preciosaamazonia.ilinkbio.com.br/produto/1765 30 47
+https://bordadeiradeserrapelada.ilinkbio.com.br/categoria 22 22
+https://encantosdaserra.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 9 9
+https://pousadacurio.ilinkbio.com.br/desativado 3 32
+https://lu.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 1 1
+https://shopburge.ilinkbio.com.br/serviceworker.js 0 2
+https://drogariapopular.ilinkbio.com.br/categoria 37 66
+https://mercadinhoazevedo.ilinkbio.com.br/produto/1851 28 39
+https://karinasaboaria.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 15 15
+https://pousadacurio.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 1 1
+https://mercadinhoazevedo.ilinkbio.com.br/pedido_balcao 20 21
+https://karinasaboaria.ilinkbio.com.br/produto/1860 16 19
+https://preciosaamazonia.ilinkbio.com.br/obrigado 3 3
+https://preciosaamazonia.ilinkbio.com.br/produto/1760 6 8
+https://jbp.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 5 5
+https://gurgueia.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 18 18
+https://preciosaamazonia.ilinkbio.com.br/produto/1748 14 24
+https://ateligourmet.ilinkbio.com.br/sacola 7 7
+https://mercadinhoazevedo.ilinkbio.com.br/pedido_delivery 10 10
+https://shopburge.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 1 1
+https://valarts.ilinkbio.com.br 7 183
+https://maryscarpe.ilinkbio.com.br/produto/1881 7 44
+https://encantosdaserra.ilinkbio.com.br 25 291
+https://viladoartesanato.ilinkbio.com.br/desativado 3 3
+https://lu.ilinkbio.com.br/categoria/473 4 5
+https://maryscarpe.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 3 3
+https://atelimariaantonia.ilinkbio.com.br 33 104
+https://mercadinhoazevedo.ilinkbio.com.br/produto/1848 26 73
+https://anafitness.ilinkbio.com.br/_core/_cdn/bootstrap/css/bootstrap.min.css 1 1
+https://gurgueia.ilinkbio.com.br/categoria/580 18 23
+https://maryscarpe.ilinkbio.com.br/produto/1877 6 10
+https://mercadinhoazevedo.ilinkbio.com.br/pix 3 3
+https://drogariapopular.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 3 3
+https://mercadinhoazevedo.ilinkbio.com.br/categoria/571 17 23
+https://atelimariaantonia.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 2 2
+https://mercadinhoazevedo.ilinkbio.com.br/produto/1834 12 16
+https://anafitness.ilinkbio.com.br/serviceworker.js 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+406 14 10906
+403 282 71617
+404 7 5572
+206 14 490653
+302 152 1849217
+500 6 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 6
+/.env 2 -
+/wp-content/themes/seotheme/db.php 1 -
+/wp-content/plugins/fix/up.php 1 http://www.meunegocio.ilinkbio.com.br/wp-content/plugins/fix/up.php
+/dup-installer/main.installer.php 1 -
+/robots.txt 1 -
+//.env 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 318
+45.7.26.126 1164 4373 132646438 20260228142652
+191.246.239.218 587 1091 40867644 20260215084724
+74.125.216.66 357 2347 25914784 20260217085412
+45.7.26.114 168 320 4926995 20260220103206
+74.125.218.39 131 850 8769277 20260228232054
+74.125.216.67 120 917 9744126 20260217085407
+108.177.2.10 118 883 9109540 20260217104208
+181.213.19.10 115 236 2257042 20260218145425
+77.174.229.188 108 377 7868674 20260216091821
+186.192.67.10 101 142 670150 20260225080613
+74.125.218.40 101 644 5949714 20260228213954
+74.125.216.68 83 516 4279626 20260217070130
+74.125.218.100 73 502 5122466 20260228235555
+177.54.229.192 69 293 26278332 20260222211506
+200.9.67.64 62 289 4778214 20260225110002
+108.177.2.1 60 424 4144851 20260217104208
+170.239.200.167 60 277 4155586 20260201145809
+181.213.19.210 56 123 2055414 20260223152812
+170.231.134.182 54 128 1813612 20260201084905
+74.125.218.101 49 391 4100185 20260228235559
+74.125.218.41 49 334 2898196 20260228232055
+66.249.87.164 48 284 2728008 20260220093226
+138.255.23.141 47 348 5192630 20260213125404
+179.151.220.177 41 86 1532939 20260224164922
+177.55.72.214 41 121 1940070 20260214203246
+209.38.145.252 1 1 3433 20260207050207
+66.249.87.232 0 4 2066 
+173.252.82.3 1 1 2995 20260214203214
+45.7.25.16 14 71 1224409 20260201084149
+192.36.109.70 1 1 4656 20260219214313
+179.151.217.36 1 1 7030 20260202201709
+74.179.70.11 19 181 9112452 20260225124917
+66.249.85.46 3 3 20864 20260220103208
+192.178.11.100 2 16 86034 20260228201936
+65.55.210.101 0 1 57 
+173.252.82.2 1 1 186 20260214203214
+205.210.31.147 1 1 12439 20260225084357
+103.113.149.120 1 1 4012 20260220221424
+45.231.160.183 0 1 94215 
+177.87.165.142 6 58 1070400 20260201175237
+74.125.210.161 1 11 78156 20260218183319
+103.244.49.160 1 1 7174 20260211063633
+38.188.107.116 0 57 1831583 
+200.124.94.245 28 42 298044 20260201090423
+66.249.88.232 5 34 240375 20260211233335
+45.7.26.173 6 63 5400594 20260215090709
+66.249.91.229 0 1 12657 
+177.87.166.47 25 34 436303 20260224110726
+201.173.66.63 1 1 5314 20260209104642
+66.249.88.73 13 27 136096 20260216104105
+66.249.91.75 16 136 1572651 20260220030529
+45.7.26.0 5 38 672215 20260206105754
+167.94.138.168 1 1 3433 20260204020542
+131.103.49.254 1 1 9414 20260208062454
+66.249.91.161 0 1 207129 
+187.1.34.166 10 64 1090655 20260201101123
+66.249.77.5 5 7 62596 20260223151657
+170.231.133.218 5 7 20350 20260228030634
+172.253.228.88 5 41 1449562 20260224164646
+173.252.82.112 1 1 186 20260214203157
+170.231.134.41 4 5 11903 20260203074933
+47.82.11.226 1 1 6633 20260209113012
+179.151.208.222 5 56 998293 20260201130243
+179.151.221.116 4 5 11899 20260202105407
+177.8.29.1 6 58 1070400 20260201065957
+129.224.207.166 1 1 4167 20260210152422
+177.23.25.31 6 35 289271 20260204112040
+200.124.94.197 6 58 1073788 20260201101253
+66.249.88.38 1 8 79650 20260223201809
+192.121.136.190 1 1 4656 20260217052515
+181.213.19.215 4 5 7384 20260228215216
+74.125.210.164 4 20 176861 20260223201809
+206.168.34.127 1 1 3433 20260218170050
+47.82.11.157 1 1 7350 20260209101417
+181.213.19.205 11 55 2146410 20260213212856
+45.7.26.135 10 85 1148986 20260207102323
+198.235.24.143 1 1 12439 20260220103851
+170.231.134.105 4 5 11903 20260202090840
+149.200.51.69 1 1 5257 20260214173306
+74.125.210.193 4 27 154697 20260228201847
+170.231.133.229 6 58 1073788 20260201095335
+138.94.173.163 1 1 4498 20260211130218
+47.82.11.158 1 1 7211 20260209102947
+45.171.126.210 6 57 998479 20260201164949
+66.249.88.37 2 8 43831 20260223201808
+45.7.26.163 5 50 657020 20260224102842
+172.253.218.59 1 1 187 20260224164648
+54.201.117.6 1 1 10435 20260201070148
+45.5.233.191 18 122 2022317 20260201102107
+74.125.210.200 3 29 154518 20260228201847
+54.245.134.199 5 57 998350 20260201070151
+108.177.2.9 10 63 731265 20260213060625
+172.225.82.141 0 1 57 
+45.128.245.179 0 1 93992 
+47.82.11.144 1 1 7091 20260209113411
+45.7.26.178 0 1 57 
+177.54.229.170 6 58 1073788 20260204100834
+103.141.64.29 1 1 7270 20260211072254
+191.246.250.8 0 10 441363 
+74.179.67.143 18 102 1661805 20260225125202
+198.235.24.59 1 1 12439 20260221175027
+45.5.233.188 5 45 910829 20260226131654
+66.249.88.101 2 9 69848 20260218183320
+181.176.107.162 1 1 7200 20260211122257
+177.87.165.230 0 4 313490 
+173.252.82.23 5 57 1073777 20260214203158
+173.252.95.115 0 2 282134 
+191.246.248.29 20 119 3168270 20260221093618
+192.36.109.123 2 2 9312 20260219214311
+142.93.212.141 1 1 3433 20260207125504
+66.249.88.36 2 14 70342 20260223201809
+186.207.195.7 6 58 1073788 20260219095530
+66.249.88.103 1 4 24354 20260218183319
+189.40.104.9 4 5 11903 20260205120254
+168.0.196.218 0 1 46185 
+199.30.24.2 0 2 8801 
+47.82.11.106 1 1 5436 20260206012231
+179.151.220.196 12 27 203221 20260227062230
+187.190.141.31 1 1 7120 20260210155811
+66.249.85.134 1 1 7087 20260218183318
+177.8.26.2 10 52 337451 20260226230937
+186.0.148.145 6 58 1073788 20260201065150
+177.54.229.155 6 59 1073845 20260204115226
+40.77.179.251 0 1 57 
+34.68.225.19 1 1 8566 20260206160825
+201.149.126.206 6 58 1073788 20260202113558
+72.152.84.184 12 92 1353799 20260225121702
+41.13.118.181 1 1 4028 20260216080226
+189.89.13.25 6 58 1073788 20260201094027
+177.87.166.149 11 49 1411342 20260209203209
+34.34.253.242 0 4 313490 
+74.125.218.201 0 1 12657 
+150.228.105.104 1 1 7456 20260211051737
+187.24.243.47 0 5 248106 
+179.151.222.198 4 5 11385 20260225171311
+40.77.178.53 0 2 114 
+192.36.207.10 1 1 4656 20260217052513
+66.249.87.167 0 1 207129 
+47.82.11.185 1 1 6836 20260209103724
+66.249.77.99 2 2 9784 20260210193439
+189.89.11.25 6 58 1073788 20260204083535
+146.247.231.197 1 1 4656 20260217213744
+206.168.34.49 1 1 3433 20260211083110
+54.213.135.202 1 1 10435 20260201070148
+66.249.77.192 1 1 8243 20260222132807
+74.125.210.192 7 38 186367 20260228201847
+74.125.210.165 3 23 65216 20260222152114
+74.125.210.67 6 38 202047 20260226141601
+192.71.55.106 1 1 4656 20260223115122
+66.249.77.98 1 1 4758 20260210060421
+189.40.76.19 6 36 258427 20260202083707
+5.133.221.169 1 1 4656 20260224015654
+34.34.253.54 1 1 3433 20260208170213
+72.152.84.79 6 35 329916 20260212113116
+104.28.63.130 0 1 57 
+54.91.229.54 0 4 313490 
+45.228.139.237 1 1 7004 20260211174448
+187.254.97.41 1 1 6749 20260211010354
+74.125.218.102 28 199 1631236 20260228235556
+179.151.211.40 40 53 201554 20260201203709
+45.7.26.119 6 58 1073788 20260201140552
+40.77.177.245 0 1 57 
+74.125.218.166 5 26 155659 20260216164948
+181.77.13.154 4 5 11903 20260204134211
+45.7.26.127 6 53 1582187 20260223201807
+204.76.203.25 3 3 37317 20260225203639
+191.246.229.231 28 42 332727 20260222152116
+105.235.131.155 1 1 7224 20260211050645
+74.125.216.65 3 16 107331 20260211050641
+45.7.26.152 22 83 1310254 20260201100521
+66.249.85.33 3 3 22550 20260228201845
+193.43.159.224 1 1 6676 20260213045242
+191.10.39.133 6 62 5378821 20260216152112
+181.77.13.208 16 25 110118 20260204124830
+155.190.29.37 34 98 1324053 20260219102731
+65.55.210.121 0 1 57 
+66.249.87.231 3 17 163202 20260213175034
+66.249.85.32 2 2 15440 20260216103813
+177.54.229.202 6 47 4666581 20260221201332
+66.249.87.169 0 2 414258 
+74.125.210.160 3 11 103750 20260218183320
+72.152.84.156 4 4 33104 20260225121659
+66.249.85.64 2 2 16612 20260211233333
+177.87.166.48 10 52 4678924 20260223201853
+45.149.29.170 1 1 8405 20260208062454
+170.231.134.0 6 58 1073788 20260204121712
+66.249.87.230 2 16 205412 20260213175034
+177.8.18.25 6 53 1582187 20260224073433
+201.149.126.40 10 62 1010382 20260204091217
+200.198.138.130 22 67 642957 20260206154017
+191.10.37.49 6 58 1073788 20260201064952
+192.178.6.65 1 1 11 20260210053225
+177.87.165.65 4 5 12706 20260215143118
+74.125.210.174 1 8 10663 20260218183320
+74.125.216.40 0 1 75005 
+45.7.26.141 6 57 998479 20260201090722
+40.77.178.184 0 1 4411 
+66.249.88.231 8 38 189671 20260211233355
+47.82.11.244 1 1 7047 20260209092121
+173.252.95.55 0 1 12657 
+66.249.88.230 9 30 189208 20260211233355
+192.178.11.101 2 17 57611 20260228201936
+45.7.26.100 12 115 1997015 20260219102536
+45.7.26.96 0 4 313490 
+200.152.24.188 8 10 22770 20260226155351
+45.144.90.192 1 1 4007 20260208062455
+66.249.85.7 1 1 3800 20260228201934
+44.199.21.82 1 1 9110 20260202133433
+177.87.165.205 4 5 11903 20260204130618
+40.77.179.47 0 2 8368 
+177.174.210.249 34 107 1804387 20260218124754
+202.134.11.234 1 1 5269 20260209095710
+198.235.24.199 1 1 12439 20260220215120
+104.28.63.129 38 200 3236222 20260220111625
+189.90.217.2 1 1 7136 20260211060222
+200.152.24.153 6 58 1073788 20260204091658
+205.210.31.101 0 1 12439 
+191.246.231.229 6 53 1582115 20260219210426
+189.217.92.189 1 1 5718 20260206185124
+74.125.218.165 5 43 557878 20260216164955
+108.177.2.2 28 192 1608415 20260217095252
+45.5.233.162 29 94 1462886 20260211233422
+201.149.125.227 14 194 13033666 20260218183343
+103.118.85.198 1 1 7280 20260204022348
+177.87.165.173 6 58 1073788 20260213105505
+161.35.148.123 1 1 3433 20260221022545
+197.205.96.108 1 1 4191 20260211174908
+85.154.151.124 1 1 5439 20260209113857
+179.151.218.133 6 53 1582187 20260225172129
+181.213.19.157 6 58 1073788 20260201130523
+47.82.11.243 1 1 7424 20260209102549
+194.14.239.83 1 1 4656 20260223115120
+66.249.91.77 9 53 475636 20260220030519
+72.153.153.39 22 169 7911860 20260225125023
+45.7.26.156 6 53 1582187 20260224075538
+200.152.24.187 4 5 11385 20260225130539
+206.168.34.40 1 1 3433 20260226055801
+66.249.85.137 2 2 14890 20260223201806
+192.178.11.102 3 14 94908 20260228201936
+74.125.210.166 4 23 108202 20260223201809
+177.71.79.138 1 1 5002 20260211004505
+177.25.112.238 8 57 164639 20260218115354
+192.36.198.147 1 1 4656 20260217052511
+191.246.238.235 0 4 151425 
+138.197.40.212 1 1 2986 20260214152203
+177.55.72.40 39 103 1330491 20260201141439
+152.248.16.145 12 112 1010268 20260218132200
+74.125.218.42 0 1 75005 
+181.213.19.45 6 58 1073788 20260223165436
+146.247.233.7 1 1 4656 20260224015653
+201.149.126.233 12 114 1996958 20260202094750
+66.249.88.65 9 21 43359 20260216104105
+170.231.133.216 6 48 11903 20260213174604
+34.198.221.238 0 1 21763 
+177.8.18.9 6 49 234022 20260201095701
+209.14.118.242 1 1 7120 20260211133238
+15.235.125.77 2 2 6866 20260215180414
+200.124.94.175 20 129 2279128 20260202113323
+66.249.77.6 8 8 39710 20260225001626
+34.105.91.103 0 4 313490 
+177.8.26.68 11 102 1172979 20260207181608
+181.213.19.80 38 137 1624200 20260223222752
+161.123.235.50 1 1 3907 20260208062453
+66.249.91.76 15 107 917145 20260220030520
+66.249.77.201 1 1 8211 20260222124122
+185.150.114.108 1 1 4656 20260217213746
+41.82.211.4 1 1 5519 20260212233312
+66.249.88.64 12 27 167817 20260216104104
+116.62.34.156 2 2 6866 20260215191943
+31.57.42.17 1 1 3907 20260221024405
+66.249.88.102 1 6 10773 20260218183319
+187.1.34.227 31 91 1158862 20260204090827
+102.219.24.84 1 1 7177 20260210170325
+66.249.85.70 1 1 6842 20260211233354
+66.249.85.45 2 2 12833 20260226141558
+177.87.166.222 10 62 1010382 20260201080243
+66.249.87.166 15 124 1338253 20260220053234
+74.125.210.66 6 35 181263 20260226141600
+5.133.192.184 1 1 4656 20260215055315
+177.87.165.104 25 34 109084 20260226141614
+47.82.11.110 1 1 9390 20260206042658
+179.248.220.7 4 4 7286 20260201100516
+40.77.177.182 0 1 57 
+177.8.26.133 12 114 1996956 20260201151320
+91.99.196.84 2 2 6866 20260215100624
+173.252.95.8 0 1 18699 
+93.158.97.63 1 1 4656 20260223115118
+178.73.240.142 1 1 4656 20260224015656
+186.0.150.16 16 111 2689365 20260217090953
+45.7.26.109 5 58 1201375 20260228190002
+103.29.124.74 1 1 7231 20260215061357
+187.1.34.216 6 53 1582115 20260219215145
+177.8.26.3 24 101 1691392 20260219204223
+40.77.179.91 0 1 4455 
+138.255.23.108 20 244 4571190 20260201135554
+149.78.5.204 5 56 733647 20260201165837
+170.231.134.56 4 5 11903 20260201084553
+74.125.218.164 8 51 700151 20260216164955
+66.249.77.4 4 20 106486 20260223181542
+45.7.26.66 6 58 1073788 20260201155725
+187.24.97.17 0 10 441363 
+66.249.87.165 25 199 1774799 20260220093220
+40.77.177.169 0 1 57 
+45.7.25.80 20 183 14351721 20260215101423
+187.24.107.251 22 122 1982752 20260226134251
+47.82.11.225 1 1 7194 20260209121022
+177.8.18.34 6 53 1582115 20260219210443
+74.125.210.68 6 25 164102 20260226141601
+192.71.46.206 1 1 4656 20260217213748
+66.249.91.227 0 2 25314 
+179.151.223.117 30 107 5777854 20260215092845
+191.246.228.40 22 122 3285043 20260228201947
+41.97.145.222 1 1 7231 20260213052521
+170.231.134.188 11 16 35580 20260205174117
+179.151.218.22 5 56 427946 20260201072741
+185.12.151.99 1 1 4656 20260215055317
+137.184.25.176 1 1 3433 20260221061646
+196.189.225.211 1 1 5519 20260209111944
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20260201 614 3150 51901328 58
+20260202 208 1149 16413167 29
+20260203 56 366 4635462 15
+20260204 164 1012 14548220 35
+20260205 143 557 6608545 22
+20260206 85 492 5900745 27
+20260207 60 448 4959383 28
+20260208 60 409 4452952 24
+20260209 173 1028 21606563 26
+20260210 47 313 3686367 22
+20260211 129 616 7771764 43
+20260212 78 557 11913584 21
+20260213 463 1674 26847570 32
+20260214 126 567 8273358 27
+20260215 707 1798 70143447 35
+20260216 267 948 16217595 45
+20260217 57 383 5676545 23
+20260218 266 1200 24173497 43
+20260219 220 1222 24680905 33
+20260220 142 670 9089188 35
+20260221 200 1096 51496022 36
+20260222 187 574 9501072 33
+20260223 215 948 20538625 42
+20260224 424 1574 37411015 43
+20260225 157 995 26342366 32
+20260226 127 619 7082108 29
+20260227 65 394 3840358 24
+20260228 109 710 18566409 36
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 46
+2mn-5mn 18
+5mn-15mn 15
+1h+ 20
+30mn-1h 60
+0s-30s 715
+15mn-30mn 24
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 135
+/app/estabelecimento/css/style.php 1137 3401393 131 116
+/app/estabelecimento/js/script.php 1114 398306 137 137
+/manifest.webmanifest 554 101923 6 92
+/ 525 4323352 206 44
+/_core/_cdn/fonts/fonts/icomoon.ttf 460 335578 43 171
+/_core/_cdn/lineicons/fonts/LineIcons.woff2 457 23102775 49 129
+/app/estabelecimento/_ajax/sacola.php 175 25905 2 6
+/produto/manifest.webmanifest 151 639592 0 8
+/categoria/manifest.webmanifest 105 407561 0 7
+/produto/151 84 598684 74 26
+/categoria 81 456537 2 1
+/categoria/487 74 399452 57 24
+/produto/1496 57 418977 45 19
+/sacola 48 275909 2 2
+/categoria/560 46 255414 1 0
+/produto/1460 39 276534 29 16
+/desativado 34 144272 26 20
+/pedido_delivery 23 163517 0 1
+/_core/_cdn/bootstrap/fonts/glyphicons-halflings-regular.woff2 22 378588 0 8
+/produto/1506 22 148455 15 9
+/produto/1861 19 129092 2 0
+/categoria/569 18 95520 0 0
+/categoria/570 13 74132 0 0
+/produto/1765 10 68414 1 1
+/produto/1505 10 66321 8 5
+/produto/1883 1 6953 0 0
+/categoria/563 1 5114 0 0
+/categoria/393 4 27995 0 0
+/categoria/pedidosabertos 1 4167 1 1
+/produto/1500 1 7200 1 1
+/produto/1855 6 42296 1 0
+/categoria/588 4 20088 0 0
+/produto/pedidosabertos 1 4498 1 1
+/categoria/515 1 5257 1 1
+/404 1 4012 1 1
+/produto/1881 2 15654 1 0
+/produto/1497 2 14462 2 2
+/produto/1502 1 7177 1 1
+/produto/279 1 8243 1 1
+/produto/1886 3 21033 0 0
+/obrigado 1 5148 0 0
+/produto/1517 1 7120 1 1
+/categoria/519 1 5314 1 1
+/produto/278 1 8211 1 1
+/produto/1759 2 13714 0 0
+/produto/1518 1 7004 1 1
+/produto/1754 2 13648 0 0
+/produto/1498 1 7047 1 1
+/produto/1876 1 6523 0 0
+/produto/1849 1 6723 0 0
+/produto/1871 1 6615 0 0
+/produto/1763 6 40980 1 0
+/produto/1762 2 13686 1 0
+/produto/1545 1 7456 1 1
+/categoria/578 1 5180 0 0
+/produto/1748 4 27391 0 0
+/produto/1760 1 6862 0 0
+/produto/1858 5 35599 1 0
+/produto/1766 7 48186 1 0
+/produto/1761 4 27542 0 1
+/produto/1872 2 13250 0 0
+/_core/_cdn/bootstrap/fonts/glyphicons-halflings-regular.woff 1 23424 0 0
+/produto/1767 6 41007 1 1
+/produto/1508 2 13353 2 1
+/categoria/583 3 15018 0 0
+/produto/1737 1 6996 0 0
+/categoria/495 3 16308 1 1
+/produto/1875 3 21407 0 0
+/categoria/587 5 25110 3 1
+/produto/1735 2 13589 0 0
+/produto/1877 2 14718 0 0
+/.well-known/assetlinks.json 2 7520 0 2
+/produto/1853 4 28832 0 1
+/produto/1852 7 57002 2 0
+/produto/1510 1 7211 1 1
+/_core/_cdn/bootstrap/css/bootstrap.min.css.map 1 542194 0 0
+/produto/1511 1 7224 1 1
+/produto/1869 2 13060 0 0
+/produto/1898 3 21137 0 0
+/produto/1516 1 7120 1 1
+/categoria/pedidosfechados 2 8158 2 2
+/produto/1851 5 34318 0 0
+/produto/1834 2 14302 0 0
+/produto/1856 2 15978 0 0
+/produto/1507 1 6836 1 1
+/produto/1512 1 7136 1 1
+/produto/1513 1 7270 1 1
+/pedido_balcao 6 38112 0 0
+/produto/1729 2 13962 0 0
+/categoria/571 4 19925 0 0
+/produto/1753 2 13728 0 0
+/produto/1752 1 6872 1 1
+/categoria/580 5 26773 0 0
+/produto/1843 5 35535 0 0
+/produto/1764 6 41060 1 1
+/produto/1868 5 32744 3 1
+/produto/1756 2 13661 0 0
+/_core/_cdn/fonts/fonts/icomoon.woff 7 9408 0 0
+/produto/1751 2 13806 0 0
+/produto/1846 5 35624 0 0
+/produto/1828 2 14243 0 0
+/categoria/473 1 5153 0 0
+/produto/1841 3 21497 0 0
+/produto/1865 3 20137 0 0
+/_core/_cdn/lineicons/fonts/LineIcons.woff 9 582588 0 4
+/categoria/485 2 11436 1 1
+/categoria/491 2 11038 2 2
+/produto/1509 1 7174 1 1
+/produto/1837 1 7151 0 0
+/produto/1504 1 7194 1 1
+/produto 1 4207 0 0
+/sacola.php 1 4028 1 1
+/categoria/581 2 10054 0 0
+/produto/1791 1 7058 0 0
+/webshell 1 12439 1 1
+/categoria/584 1 4942 0 0
+/produto/1831 1 7158 0 0
+/produto/1621 4 28349 3 3
+/categoria/572 1 5328 0 0
+/produto/1749 1 6881 0 0
+/produto/1848 5 35433 0 0
+/pix 1 5363 0 0
+/produto/1860 2 14239 0 0
+/categoria/494 1 5269 1 1
+/produto/1514 3 21834 2 1
+/produto/1758 2 13650 0 0
+/produto/1845 4 28123 1 1
+/categoria/488 1 5002 1 1
+/produto/1757 4 29563 0 0
+/produto/1755 2 13652 0 0
+/produto/1847 7 49646 1 0
+/categoria/582 4 19780 0 0
+/shopping.xml 1 1821 0 1
+/produto/1544 1 7424 1 1
+/categoria/501 2 9541 2 2
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+0-44 751
+44-100 1428
+1K-2K 2708
+2K-5K 5294
+5K+ 12927
+500-1K 1766
+100-500 4602
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

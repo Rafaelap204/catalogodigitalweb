@@ -1,0 +1,946 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202506 will be lost/reset.
+# Last config file used to build this data file was /backup/ilinkbiocom/tmp/awstats/ssl/awstats.conheca.ilinkbio.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2063                
+POS_TIME 2749                
+POS_VISITOR 11174               
+POS_DAY 13372               
+POS_DOMAIN 3674                
+POS_LOGIN 4113                
+POS_ROBOT 4268                
+POS_WORMS 4671                
+POS_EMAILSENDER 4802                
+POS_EMAILRECEIVER 4945                
+POS_SESSION 13558               
+POS_FILESIZE 26394               
+POS_SIDER 13726               
+POS_FILETYPES 5080                
+POS_DOWNLOADS 6011                
+POS_OS 6420                
+POS_BROWSER 6711                
+POS_SCREENSIZE 7460                
+POS_UNKNOWNREFERER 7534                
+POS_UNKNOWNREFERERBROWSER 8015                
+POS_ORIGIN 8277                
+POS_SEREFERRALS 8414                
+POS_PAGEREFS 8577                
+POS_SEARCHWORDS 8725                
+POS_KEYWORDS 8877                
+POS_MISC 2413                
+POS_ERRORS 8936                
+POS_CLUSTER 3969                
+POS_SIDER_404 9051                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250701000001 2636 814874 18645130606693
+FirstTime 20250626014444
+LastTime 20250630012016
+LastUpdate 20250701231153 2636 0 2635 0 0
+TotalVisits 46                  
+TotalUnique 45                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 58                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 140 185 1641256 734 11104 83509392
+1 26 131 23849698 828 11873 89180084
+2 38 150 31421400 982 11790 88604752
+3 0 0 0 1020 11856 89156393
+4 11 52 7994012 617 11871 89240901
+5 0 0 0 792 11840 89036277
+6 0 1 75309 813 11791 88661089
+7 0 5 173259 645 11794 88781446
+8 0 1 7586 720 11857 89163953
+9 0 0 0 603 11859 89156217
+10 1 5 174400 954 11627 87525376
+11 0 0 0 919 11855 89142214
+12 36 36 314712 516 11728 89120662
+13 308 323 2979618 747 13191 116897742
+14 2 2 55022 929 14517 110103951
+15 6 9 210590 1027 14843 111728975
+16 1 1 8742 724 14817 111403946
+17 46 62 632635 1618 14855 111701852
+18 46 61 557326 883 14819 111431676
+19 0 1 7520 818 14621 109560560
+20 20 20 925600 740 14669 110310469
+21 0 1 75309 1420 13602 102286601
+22 1 1 46280 619 14199 109487117
+23 4 4 147582 842 14644 113247302
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 16
+ru 581 674 6071847
+us 52 150 24906185
+br 28 157 32041506
+au 5 5 72120
+gb 5 21 246516
+de 5 29 7712616
+gr 2 2 17484
+ca 2 2 55022
+rs 2 2 92560
+cz 1 1 7520
+ro 1 1 8742
+fr 1 2 17484
+nl 1 1 8742
+no 0 1 15703
+in 0 2 15067
+za 0 1 8742
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+bot[\s_+:,\.\;\/\\-] 311417 2367449736 20250630235959 58
+Go\-http\-client/ 55 462048 20250628121400 0
+bingbot/ 7 52719 20250629134148 2
+checker 4 34968 20250630150854 0
+no_user_agent 2 76386 20250626014439 0
+crawl 1 8742 20250628011913 0
+unknown 1 46280 20250628141812 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 51
+php3 1 8742 0 0
+zip 2 17484 0 0
+Unknown 114 993453 0 0
+dist 2 17484 0 0
+yaml 5 43704 0 0
+jpg 21 332962 0 0
+local 12 104904 0 0
+png 95 58526408 0 0
+cache 1 8742 0 0
+prod 6 52452 0 0
+2 1 8742 0 0
+c 1 8742 0 0
+config 1 8742 0 0
+conf 3 26226 0 0
+js 155 1605503 0 0
+gz 3 26226 0 0
+save 5 43710 0 0
+env1 1 8742 0 0
+woff2 24 2562080 0 0
+phpd 1 8742 0 0
+stage 5 43710 0 0
+old 6 52452 0 0
+8 1 8742 0 0
+map 5 802691 0 0
+yml 45 393384 0 0
+css 72 604638 0 0
+test 3 26226 0 0
+bak1 1 8742 0 0
+django 1 8742 0 0
+csproj 1 8742 0 0
+log 15 131130 0 0
+envs 1 8742 0 0
+sql 6 52452 0 0
+sample 2 17484 0 0
+json 20 174840 0 0
+cfg 1 8742 0 0
+backup 4 34968 0 0
+html 66 794695 0 0
+dev 3 26226 0 0
+ini 1 8742 0 0
+smtp 1 8742 0 0
+bak 6 52446 0 0
+pyo 1 8742 0 0
+swp 1 8742 0 0
+orig 1 8742 0 0
+py 10 87420 0 0
+php 61 570788 0 0
+env 233 2036862 0 0
+txt 2 17484 0 0
+xml 21 859266 0 0
+b 1 8742 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 13
+/storage/logs/laravel.log 3 0 26226
+/backup.tar.gz 3 0 26226
+/backup.zip 3 0 26226
+/storage/logs/error.log 2 0 17484
+/logs/debug.log 2 0 17484
+/error.log 2 0 17484
+/logs/app.log 2 0 17484
+/debug.log 2 0 17484
+/var/log/cloud-init-output.log 1 0 8742
+/.env.txt 1 0 8742
+/wp-config.php.gz 1 0 8742
+/wp-config.backup.txt 1 0 8742
+/var/log/nginx/error.log 1 0 8742
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 15
+Unknown 18 6
+androidoreo 1 0
+androidmarshmallow 2 2
+androidnougat 1 1
+androidlollipop 1 0
+android10 9 0
+macosx10 1 0
+androidpie 1 0
+ios_iphone 35 5
+win10 905 645
+linux 61 18
+linuxubuntu 5 5
+win7 8 1
+macosx15 2 2
+macosx14 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 34
+chrome117.0.0.0 4 4
+chrome125.0.6422.60 28 4
+sonyericsson 1 1
+chrome91.0.4472.124 666 579
+chrome76.0.3809.111 3 1
+chrome116.0.0.0 2 2
+safari12.0 1 0
+chrome79.0.3945.79 28 4
+chrome137.0.0.0 167 38
+chrome117.0.5938.132 28 4
+iphone 1 0
+chrome62.0.3191.0 1 0
+chrome58.0.3029.110 2 2
+chrome76.0.3809.132 1 1
+chrome130.0.0.0 4 1
+chrome78.0.3904.108 20 20
+firefox124.0 1 1
+chrome106.0.0.0 1 1
+chrome83.0.4103.61 8 1
+safari18.5 1 0
+chrome134.0.6998.35 16 1
+chrome131.0.0.0 5 2
+chrome131.0.6778.33 1 0
+safari18.1.1 4 1
+netscape5.0 7 1
+Unknown 10 4
+chrome38.0.2125.102 1 0
+firefox134.0 4 4
+chrome39.0.2171.95 1 0
+chrome76.0.3809.87 1 1
+safari16.5 28 4
+firefox137.0 2 1
+firefox89.0 1 1
+chrome52.0.2970.98 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+Mozilla/5.0_(l9scan/2.0.932323e24353e21313e2737313;__https://leakix.net) 20250626014450
+fasthttp 20250628141812
+Mozilla/5.0 20250628012200
+python-requests/2.32.3 20250629044454
+okhttp/4.9.2 20250629010338
+WhatsApp/2.23.20.0 20250627101225
+Chrome_Privacy_Preserving_Prefetch_Proxy 20250626021641
+SonyEricssonK810i/R1KG_Browser/NetFront/3.3_Profile/MIDP-2.0_Configuration/CLDC-1.1 20250628022935
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+fasthttp 20250628141812
+okhttp/4.9.2 20250629010338
+WhatsApp/2.23.20.0 20250627101225
+Chrome_Privacy_Preserving_Prefetch_Proxy 20250626021641
+python-requests/2.32.3 20250629044454
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 653 759
+From1 0 0
+From2 1 1
+From3 0 0
+From4 32 291
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+206 4 212058
+403 34 26758
+404 87 69252
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 79
+/storage/logs/error.log 1 -
+/assets/vendor/glightbox/js/'.concat(S,' 1 -
+/credentials.json 1 -
+/vendor/swiper/swiper-bundle.min.js 1 -
+/.env.backup 1 http://www.conheca.ilinkbio.com.br/.env.backup
+/backend/.env 1 -
+/database.sql 1 -
+/about 1 -
+/secrets.yml 1 -
+/telescope/requests 1 -
+/.github/workflows/ 1 -
+/.env.test 1 -
+/.env.example 1 -
+/.gitignore 1 -
+/.env.stage 1 -
+/error.log 1 -
+/admin/.env 1 -
+/.env 5 -
+/index.html 1 -
+/.aws/credentials 2 http://www.conheca.ilinkbio.com.br/.aws/credentials
+/assets/img/cta-bg.jpg 1 -
+/db.sql 1 -
+/.env.dev 1 -
+/.backup 1 -
+/logs/debug.log 1 -
+/config.json 2 -
+/js/main.js 1 -
+/config.yml 1 -
+/.gitlab-ci.yml 1 -
+/.env.local 1 -
+/secrets.json 1 -
+/.env.prod 1 -
+/.DS_Store 2 -
+/.env.production 1 -
+/vendor/bootstrap/js/bootstrap.bundle.min.js 1 -
+/.git-credentials 1 -
+/server/.env 1 -
+/server-status 1 -
+/actuator/env 1 -
+/docker-compose.dev.yml 1 -
+/config/aws.yml 1 -
+/.vscode/settings.json 1 -
+/config/config.json 1 -
+/config.yaml 1 -
+/s/932323e24353e21313e2737313/_/ 1 -
+/app/.env 1 -
+/.env.bak 1 -
+/config/aws.json 1 -
+/server 1 -
+/.aws/config 1 -
+/dump.sql 1 -
+/.env.old 2 http://www.conheca.ilinkbio.com.br/.env.old
+/vendor/aos/aos.js 1 -
+/logs/app.log 1 -
+/backup.zip 1 -
+/.idea/workspace.xml 1 -
+/config/config.env 1 -
+/debug/default/view 1 -
+/vendor/php-email-form/validate.js 1 -
+/.env.development 1 -
+/storage/logs/laravel.log 1 -
+/backup.tar.gz 1 -
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 1 -
+/docker-compose.yml 1 -
+/.vscode/sftp.json 1 -
+/login.action 1 -
+/docker-compose.override.yml 1 -
+/info.php 1 -
+/robots.txt 1 -
+/docker-compose.prod.yml 1 -
+/debug.log 1 -
+/config/.env 1 -
+/apps/.env 1 -
+/@vite/env 1 -
+/api/.env 1 -
+/aws/credentials 1 -
+/v2/_catalog 1 -
+/_all_dbs 1 -
+/vendor/purecounter/purecounter.js 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 58
+185.177.72.201 344 356 3136192 20250628130510
+185.177.72.106 140 185 1641256 20250629002052
+185.177.72.10 46 61 557326 20250629183101
+185.177.72.179 46 61 557326 20250629173333
+132.255.84.17 26 138 31334967 20250626022654
+3.145.157.91 20 20 925600 20250627202208
+205.169.39.163 5 36 7633556 20250627045138
+34.122.147.229 4 28 7703873 20250626014807
+205.169.39.57 4 28 7703875 20250626015343
+193.142.132.33 4 28 7703874 20250626015118
+104.164.173.108 4 4 26996 20250626021639
+124.198.132.249 3 3 26226 20250629044454
+146.70.185.32 3 18 155707 20250626014849
+139.59.143.102 2 2 45894 20250626014450
+13.221.3.129 2 8 69936 20250628022935
+104.164.173.253 2 2 13498 20250626021617
+178.128.18.34 2 2 17484 20250627015732
+47.237.167.136 2 2 55022 20250628141812
+146.70.239.13 1 1 6758 20250626015222
+185.196.9.254 1 7 70925 20250628012155
+143.110.171.206 1 1 8742 20250628161132
+66.249.88.167 1 1 7704 20250626021641
+15.204.182.106 1 1 8742 20250627234724
+161.35.143.90 1 1 8742 20250626154315
+66.249.88.165 1 1 7704 20250626021641
+181.213.18.131 0 2 150618 
+177.37.191.118 0 3 90442 
+45.187.161.70 0 1 7520 
+149.202.79.129 0 1 8742 
+152.248.20.57 0 1 75309 
+154.41.95.1 0 1 75309 
+45.187.161.29 0 1 7547 
+45.7.26.124 0 1 75309 
+91.231.89.34 1 1 46280 20250628230444
+178.20.55.182 1 1 8742 20250627043829
+156.67.94.168 1 1 8742 20250628153356
+72.14.201.241 1 1 6749 20250626021641
+54.174.140.70 0 5 243411 
+146.59.126.232 0 1 15703 
+198.44.129.56 1 1 6758 20250626014809
+91.196.152.78 1 1 46280 20250628230520
+165.232.83.229 1 2 84051 20250629155550
+189.11.191.9 1 4 108496 20250627043716
+196.251.84.106 0 1 8742 
+84.239.42.143 1 1 8742 20250628153404
+146.190.242.161 1 1 38193 20250626014444
+91.196.152.152 1 1 46280 20250628230918
+205.169.39.46 1 1 7701 20250626014458
+185.77.218.3 1 1 7520 20250629023844
+152.248.21.209 0 5 173178 
+194.32.122.6 1 1 8742 20250628153154
+159.203.112.22 1 2 84051 20250627153456
+45.7.26.71 0 4 165685 
+91.231.89.32 1 1 46280 20250628225700
+87.249.134.24 1 1 7520 20250629023838
+186.227.198.149 1 4 108496 20250627043716
+194.26.192.144 1 1 8742 20250627103450
+167.172.40.160 1 2 84051 20250630012016
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 5
+20250626 57 269 55215845 16
+20250627 33 80 9321161 9
+20250628 357 381 3552163 13
+20250629 238 318 3049327 7
+20250630 1 3 159360 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+0s-30s 43
+30s-2mn 1
+5mn-15mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 421
+/ 60 742243 39 29
+/assets/vendor/remixicon/remixicon.woff2 8 1002144 0 4
+/assets/vendor/boxicons/fonts/boxicons.woff2 8 823904 0 0
+/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2 8 736032 0 1
+/.env 7 61194 4 2
+/.aws/credentials 5 43710 0 0
+/app/.env 5 43710 0 0
+/.env.old 5 43710 0 0
+/api/.env 5 43710 0 0
+/.env.production 5 43704 0 1
+/apps/.env 5 43710 0 0
+/.env.prod 5 43710 0 0
+/.env.stage 4 34968 0 0
+/.env.development 4 34968 0 0
+/admin/.env 4 34968 0 0
+/backend/.env 4 34968 0 0
+/.aws/config 4 34968 1 0
+/.env.bak 4 34968 0 0
+/.env.example 4 34968 0 0
+/docker/.env 4 34968 0 0
+/aws/credentials 4 34968 0 0
+/.env.local 4 34968 0 0
+/laravel/.env 3 26226 0 0
+/development/.env 3 26226 0 0
+/config/aws.yml 3 26226 0 0
+/website/.env 2 17484 0 0
+/.env_mail_login 1 8742 0 0
+/.env.smtp_host 1 8742 0 0
+/wp-config.old.old 1 8742 0 0
+/phpinfo3.php 1 8742 0 0
+/packages/plugin-qiankun/examples/app2/.env 1 8742 0 0
+/protected/.env 1 8742 0 0
+/results/.env 1 8742 0 0
+/.env.project 1 8742 0 0
+/google-cloud-sdk/lib/googlecloudsdk/gcloud.pyo 1 8742 0 0
+//xmlrpc.php 1 46280 0 0
+/sitemap.xml 1 46280 0 1
+/src/main/resources/logback.xml 1 8742 0 0
+/test_phpinfo.php 1 8742 0 0
+/template/.env 1 8742 0 0
+/wp-content/themes/twentyfourteen/archive.php 1 8742 0 0
+/xampp/info.php 1 8742 0 0
+/api/shared/config.env 2 17478 0 0
+/debug/default/view 2 17478 0 0
+/php_info.php 1 8742 0 0
+/kyc/.env 2 17484 0 0
+/marketing/.env.staging 1 8742 0 0
+/icon/.env 1 8742 0 0
+/.env~ 1 8742 0 0
+/test/integration/env-config/app/.env 1 8742 0 0
+/env/.env 2 17478 0 0
+/testphpinfo 1 8742 0 0
+/packages/plugin-qiankun/examples/app1/.env 1 8742 0 0
+/path/.env 1 8742 0 0
+/production/.env 1 8742 0 0
+/app.py 2 17484 0 0
+/my_env/newsletter.py 1 8742 0 0
+/develop/.env 1 8742 0 0
+/_profiler/phpinfo/info.php 2 17484 0 0
+/django_project_path/.env 1 8742 0 0
+/repo/.env 1 8742 0 0
+/.env.smtp_login 1 8742 0 0
+/tools/phpinfo.php 1 8742 0 0
+/wordpress/ 1 8742 0 1
+/.vscode/.env 2 17484 0 0
+/beta/.env 1 8742 0 0
+/wp-config.phpd 1 8742 0 0
+/.DS_Store 2 17484 0 0
+/_profiler/phpinfo 2 17484 0 0
+/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map 1 331017 0 0
+/redis-*.conf 1 8742 0 0
+/wp-config.php_new 1 8742 0 0
+/sendgrid.env 1 8742 0 0
+/config/application.yml 2 17484 0 0
+/api/v2/proxy 1 8742 0 0
+/wp-config.staging 1 8742 0 0
+/mail/.env 2 17484 0 0
+/config/env 1 8742 0 0
+//media/wp-includes/wlwmanifest.xml 1 46280 0 0
+/cms/.env 1 8742 0 0
+/info2.php 1 8742 0 0
+/wp-config.swp 1 8742 0 0
+/info.php 2 17484 0 0
+/.gitlab-ci/.env 1 8742 0 0
+/Nuke.App.Ui/.env 1 8742 0 0
+/.aws/policies 1 8742 0 0
+/admin/server_info.php 2 17478 0 0
+/dep.php 1 8742 0 0
+/packages/api/.env 1 8742 0 0
+/etc/nginx/snippets/self-signed-example.com.conf 1 8742 0 0
+/application.properties 2 17484 0 0
+/pictures/.env 1 8742 0 0
+/restapi/.env 1 8742 0 0
+/cronlab/.env 1 8742 0 0
+/config/config.env 2 17484 0 0
+/config/secrets.json 1 8742 0 0
+//2019/wp-includes/wlwmanifest.xml 1 46280 0 0
+/marketing/.env.production 1 8742 0 0
+/tests/default_settings/v11.0/.env 1 8742 0 0
+/.envs 1 8742 0 0
+/.gitmodules 1 8742 0 0
+/docker-compose.yml 2 17484 0 0
+/config/sendgrid.php 1 8742 0 0
+/films/.env 1 8742 0 0
+/server-info 1 8742 0 0
+/index.php 1 8742 0 0
+/test_phpinfo3.php 1 8736 0 0
+/cp/.env 1 8742 0 0
+/config/settings.json 1 8742 0 0
+/image_data/.env 1 8742 0 0
+/info1.php 1 8742 0 0
+/js/.env 1 8742 0 0
+/.env.mail_settings.local 1 8742 0 0
+/database.sql 2 17484 0 2
+/inf.php 1 8742 0 0
+/docs/.env 1 8742 0 0
+/ftpmaster/.env 1 8742 0 0
+/legal/.env 1 8742 0 0
+/dashboard/admin/phpinfo.php 1 8742 0 0
+/09-managing-state/begin/vue-heroes/.env 1 8742 0 0
+/api/shared/config/config.env 2 17478 0 0
+/config/storage.yml 1 8736 0 0
+/wp-config.php.sample 1 8742 0 0
+/blog.env 1 8742 0 0
+/ch6-mytodo/.env 1 8742 0 0
+/node/.env_example 2 17484 0 0
+/engine/.env 1 8742 0 0
+/babel-plugin-dotenv/test/fixtures/empty-values/.env 1 8742 0 0
+/html/.env 1 8742 0 0
+//site/wp-includes/wlwmanifest.xml 1 46280 0 0
+//info.php 1 8742 0 0
+/myproject/.env 1 8742 0 0
+/mailer/.env 2 17484 0 0
+/aws-secret.yaml 2 17478 0 0
+/test/fixtures/app_types/node/.env 1 8742 0 0
+/temanr10/.env 1 8742 0 0
+/portal/.env 2 17484 0 0
+/wp-config.php.2 1 8742 0 0
+/.env.smtp.local 1 8742 0 0
+/.idea/workspace.xml 2 17484 0 0
+/.env.orig 1 8742 0 0
+/phpinfo/php-details.php 1 8742 0 0
+/vendor/github.com/gobuffalo/envy/.env 1 8742 0 0
+/linusadmin-phpinfo.php 1 8742 0 0
+/config/aws.json 2 17484 0 0
+/lara/info.php 2 17484 0 0
+/user/.env.staging 1 8742 0 0
+/auth/bigquery 1 8742 0 0
+/wp-config.save 1 8742 0 0
+/.gitattributes 1 8742 0 0
+//help/info.php 1 8742 0 0
+/secrets.json 2 17484 0 0
+/libs/.env 1 8742 0 0
+/docker/app/.env 1 8736 0 0
+/agora/.env 1 8742 0 0
+/main_user/.env 1 8742 0 0
+/src/main/resources/application-dev.yml 1 8742 0 0
+/backend/config/default.yml 2 17484 0 0
+/wp-config.production 1 8742 0 0
+/bin/ 1 8742 0 0
+/.travis.yml 2 17484 0 0
+/info 1 8742 0 0
+/product/.env.production 1 8742 0 0
+/admin/internal/api 1 8742 0 0
+/assets/vendor/purecounter/purecounter.js.map 1 6749 0 0
+/credentials.json 2 17484 0 0
+/wp-config.php.staging 1 8742 0 0
+/test.php 2 17484 0 0
+/test_info2.php 1 8742 0 0
+/product/.env 1 8742 0 0
+/app/config.yml 1 8742 0 0
+/swagger.json 1 8742 0 0
+/roundcubemail/.env 1 8742 0 0
+/test/bdd/fixtures/couchdb/.env 1 8742 0 0
+/docker-compose/platform/.env 1 8742 0 0
+/config/local.yml 1 8742 0 0
+/websocket/.env 1 8742 0 0
+/site/.env 2 17484 0 0
+/lab/.env 1 8742 0 0
+/api/shared/config/.env 2 17484 0 0
+/node_modules/.env 1 8742 0 0
+/computeMetadata/v1 1 8742 0 0
+/my_env/chakaash.py 2 17484 0 0
+/deploy/.env 1 8742 0 0
+/marketing/.env 1 8742 0 0
+/_all_dbs 1 7701 0 1
+/p.php 2 17484 0 0
+/.config/.env 1 8742 0 0
+/getcpuutil.php-bakworking 1 8742 0 0
+/api/v1/proxy 1 8742 0 0
+/.env.smtp_access 1 8742 0 0
+/_profiler/phpinfo/phpinfo.php 2 17484 0 0
+/hotpot-app-frontend/.env 1 8742 0 0
+/env.development.local 1 8742 0 0
+/en/.env 1 8742 0 0
+/dump.sql 2 17484 0 0
+/.env_sample 2 17484 0 0
+//shop/wp-includes/wlwmanifest.xml 1 46280 0 0
+/config/settings.prod 1 8742 0 0
+/phpinfo.php 2 17484 0 0
+/backend/config/development.yml 2 17484 0 0
+/laravel/info.php 1 8742 0 0
+/configs/s3_config.json 1 8742 0 0
+/etc/named.conf 1 8742 0 0
+/awstats/.env 2 17484 0 0
+/.vscode/settings.json 2 17484 0 0
+/aws.yml 2 17484 0 0
+/new/.env.staging 2 17484 0 0
+/wp-config 2 17484 0 0
+/frontend/.env 1 8742 0 0
+/.env.production.local 2 17484 0 0
+/laravel/core/.env 2 17484 0 0
+/settings.py 1 8742 0 0
+/wp-config.cache 1 8742 0 0
+/.envs/.production/.django 1 8742 0 0
+/.env.backup 1 8742 0 0
+/script/.env 1 8742 0 0
+/conf/.env 2 17484 0 0
+/api/config/config.yml 2 17484 0 0
+/.gitignore 3 26226 0 0
+/wp-config.php.csproj 1 8742 0 0
+/public/.env 2 17484 0 0
+/php-info 1 8742 0 0
+/test/bdd/fixtures/did-rest/.env 1 8742 0 0
+/images/.env 1 8742 0 0
+/qa/.env 1 8742 0 0
+/main.yml 2 17484 0 0
+/wp-config.php.bak 1 8742 0 0
+/assets/vendor/swiper/swiper-bundle.min.js.map 2 13498 0 0
+/application/.env 3 26226 0 0
+/www/.env 2 17484 0 0
+/docker-compose.prod.yml 2 17484 0 0
+/shop/.env 1 8742 0 0
+/new/.env.local 1 8742 0 0
+/demo/.env 1 8742 0 0
+/download/.env 1 8742 0 0
+/phpinfo 2 17484 0 0
+/env.backup 1 8742 0 0
+/shared/.env 1 8742 0 0
+/services/traefik/.env 1 8742 0 0
+//wordpress/wp-includes/wlwmanifest.xml 1 46280 0 0
+/app/config/.env 1 8742 0 0
+/new/.env 2 17484 0 0
+/tests/drupal-test/.env 1 8742 0 0
+/.env.sample 1 8742 0 0
+/config/settings.local 1 8742 0 0
+/private/.env 2 17484 0 0
+/blog/.env 1 8742 0 0
+/main/.env 2 17484 0 0
+/library/.env 1 8742 0 0
+/wp-config.bak 1 8736 0 0
+/dashboard/phpinfo.php 1 8742 0 0
+/appsettings.json 1 8742 0 0
+/karma.conf.json 1 8742 0 0
+/docker-compose.dev.yml 2 17484 0 0
+/api/config.env 2 17484 0 0
+/rest/.env 1 8742 0 0
+/.env_mail_admin 1 8742 0 0
+//news/wp-includes/wlwmanifest.xml 1 46280 0 0
+/root/.env 1 8742 0 0
+/nextjs-app/.env 1 8742 0 0
+//helper/phpinfo.php 1 8742 0 0
+/.env_backup 1 8742 0 0
+/xampp/.env 1 8742 0 0
+/wp-content/.env 1 8742 0 0
+/qa/.env.staging 1 8742 0 0
+/developerslv/.env 1 8742 0 0
+/enviroments/.env.production 2 17484 0 0
+/test4.php 1 8742 0 0
+/dev/.env 2 17484 0 0
+/db.sql 2 17484 0 0
+/.env.dev 3 26226 0 0
+/.env1 1 8742 0 0
+/etc/apache2/mods-enabled/ 1 8742 0 0
+/new/.env.production 1 8742 0 0
+/phpinfo2.php 1 8742 0 0
+/app_dev.php/_profiler/phpinfo 2 17484 0 0
+/_phpinfo.php 2 17484 0 0
+/app/config/parameters.yml 2 17484 0 0
+/v1/.env 1 8742 0 0
+/.env.config 1 8742 0 0
+/local/.env 3 26226 0 0
+/.gitkeep 1 8742 0 0
+/downloads/.env 1 8742 0 0
+/.env.save 2 17484 0 0
+/dev.php 1 8742 0 0
+/dodoswap-client/.env 1 8742 0 0
+/wp-config.php-original 1 8742 0 0
+/wp-config.php.c 1 8742 0 0
+/admin-app/.env 2 17484 0 0
+//blog/wp-includes/wlwmanifest.xml 1 46280 0 0
+/public_html/.env 1 8742 0 0
+/react-app/.env.production 1 8742 0 0
+/prod/.env 2 17484 0 0
+/.env.mail_keys 1 8742 0 0
+/crm/.env.production 1 8742 0 0
+/sources/.env 2 17484 0 0
+/configs/development.yml 1 8742 0 0
+/home/.env 1 8742 0 0
+/storage/.env 1 8742 0 0
+/client/mutual-fund-app/.env 1 8742 0 0
+//wp-includes/wlwmanifest.xml 1 46280 0 0
+/system/.env 2 17484 0 0
+/server/.env.local 1 8742 0 0
+/test_info.php 1 8742 0 0
+/latest/user-data 1 8742 0 0
+/resources/docker/phpmyadmin/.env 1 8742 0 0
+/wp-config.b 1 8742 0 0
+/fedex/.env 1 8742 0 0
+/content/.env 1 8742 0 0
+/config/parameters.yml 2 17484 0 0
+/vendor/.env 1 8742 0 0
+/config.yaml 3 26226 0 0
+/rasax/.env 1 8742 0 0
+/live_env 1 8742 0 0
+/phpinfo.php3 1 8742 0 0
+/information 1 8742 0 0
+/src/.env 1 8742 0 0
+/xampp/phpinfo.php 1 8742 0 0
+/secured/phpinfo.php 1 8742 0 0
+/admin/infophp.php 1 8742 0 0
+/backup/.env 1 8742 0 0
+/mongodb/config/dev/.env 1 8742 0 0
+/admin/phpinfo 1 8742 0 0
+/wp-config.stage 1 8742 0 0
+/latest/meta-data 1 8742 0 0
+/apache/i.php 1 8742 0 0
+/crm/.env 2 17484 0 0
+/.AWS_/credentials 2 17478 0 0
+/server_info.php 1 8742 0 0
+/config/.env 2 17484 0 0
+/config.env 1 8742 0 0
+//website/wp-includes/wlwmanifest.xml 1 46280 0 0
+/wp-config.cfg 1 8742 0 0
+/my_env/palash.py 2 17484 0 0
+/.env.smtp 1 8742 0 0
+/.env.php 1 8742 0 0
+/v2/.env 1 8742 0 0
+/old/.env 1 8742 0 0
+/rust-backend/dao/.env 1 8742 0 0
+/temanr9/.env 1 8742 0 0
+/vendor/github.com/subosito/gotenv/.env 1 8742 0 0
+/.env_mail_server 1 8742 0 0
+/login/.env 1 8742 0 0
+/docker-node-mongo-redis/.env 1 8742 0 0
+/wp-config.sublime-project 1 8742 0 0
+//wp/wp-includes/wlwmanifest.xml 1 46280 0 0
+//web/wp-includes/wlwmanifest.xml 1 46280 0 0
+/.env.dist 1 8742 0 0
+/doc/.env 1 8742 0 0
+/.well-known/traffic-advice 2 15408 2 2
+/.backup 2 17484 0 0
+/next/.env 1 8742 0 0
+/config/config.json 3 26226 0 0
+/node/.env 1 8742 0 0
+/admin/proxy 1 8742 0 0
+/admin/config 3 26226 0 0
+/node-api/.env 1 8742 0 0
+/.env_mail 1 8742 0 0
+/.git-credentials 2 17484 0 0
+/api/shared/.env 2 17484 0 0
+/api/objects/codes.php.save 2 17484 0 0
+/backend/config/settings.yml 1 8742 0 0
+/server-info.php 1 8742 0 0
+/developer.php 1 8742 0 0
+/export/.env 1 8742 0 0
+//server/phpinfo.php 1 8742 0 0
+/.env.smtp_server 1 8742 0 0
+//test/wp-includes/wlwmanifest.xml 1 46280 0 0
+/staging/.env 1 8742 0 0
+/.env.bak1 1 8742 0 0
+/collab-connect-web-application/server/.env 1 8742 0 0
+/api/proxy 1 8742 0 0
+/core/.env 3 26226 0 0
+/bin 1 8742 0 0
+//current/phpinfo.php 1 8742 0 0
+/phpsysinfo/phpsysinfo.php 1 8742 0 0
+/docker-compose.override.yml 2 17484 0 0
+/wp-config.dist 1 8742 0 0
+/ClientApp/.env 1 8742 0 0
+/latest/meta-data/iam/security-credentials/ 1 8742 0 0
+/.sendgrid/config 1 8742 0 0
+/product/.env.staging 1 8742 0 0
+/sms.py 1 8742 0 0
+/assets/vendor/bootstrap/css/bootstrap.min.css.map 1 451427 0 0
+/cron/.env 1 8742 0 0
+//__tests__/test-become/.env 1 8742 0 0
+/wp-config.php.8 1 8742 0 0
+/gists/cache/.env 1 8742 0 0
+/examples/sdl-first/.env 1 8742 0 0
+//wp2/wp-includes/wlwmanifest.xml 1 46280 0 0
+//sito/wp-includes/wlwmanifest.xml 1 46280 0 1
+/service/email_service.py 1 8742 0 0
+/resources/docker/rediscommander/.env 1 8742 0 0
+/back/.env 2 17484 0 0
+/i.php 2 17484 0 0
+/oldsanta/.env 1 8742 0 0
+/root/infophp 1 8742 0 0
+/config.yml 3 26226 0 0
+/.gitlab-ci.yml 2 17484 0 0
+/test/.env 1 8742 0 0
+//cms/wp-includes/wlwmanifest.xml 1 46280 0 0
+//service/phpinfo.php 1 8742 0 0
+/.circleci/configs/development.yml 2 17484 0 1
+/config.json 3 26226 0 0
+/enviroments/.env 1 8742 0 0
+/babel-plugin-dotenv/test/fixtures/default/.env 1 8742 0 0
+//2018/wp-includes/wlwmanifest.xml 1 46280 0 0
+/server/.env 3 26226 0 0
+/react-app/.env 1 8742 0 0
+/secrets.yml 3 26226 0 0
+/web/.env 2 17484 0 0
+/project/.env 1 8742 0 0
+/.env.test 3 26226 0 0
+/.github/workflows/ 2 17484 0 0
+/examples/with-dotenv/.env 1 8742 0 0
+/lara/phpinfo.php 2 17484 0 0
+//wp1/wp-includes/wlwmanifest.xml 1 46280 0 0
+/wp-config.php_old2014 1 8742 0 0
+/.env.ini 1 8742 0 0
+/nginx/.env 1 8742 0 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 5
+5K+ 312429
+500-1K 148
+1K-2K 46
+2K-5K 41
+0-44 9
+END_FILESIZE

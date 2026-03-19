@@ -1,0 +1,102 @@
+[2025-05-31 15:05:02] Configurando URLs
+erar comprovante - {
+    "itens_array": [
+        {
+            "produto_id": "983",
+            "produto_nome": "Colares ",
+            "quantidade": "1",
+            "preco": "50.00",
+            "subtotal_item": "50",
+            "estoque": "-1"
+        }
+    ],
+    "subtotal_passado": 50,
+    "desconto_valor_passado": 0,
+    "taxa_entrega_passada": 0,
+    "total_final_passado": 50
+}
+[2025-05-31 15:05:02] URLs configuradas com sucesso
+[2025-05-31 15:05:02] Status do Pedido ID 254 atualizado para 6 (Confirmado)
+[2025-05-31 15:05:02] Erro ao atualizar visibilidade do pedido no painel - "Unknown column 'visivel_painel' in 'field list'"
+[2025-05-31 15:05:02] Estoque do produto ID 983 atualizado para -4
+[2025-05-31 15:05:02] Processamento do Pedido ID 254 concluído com sucesso.
+[2025-05-31 15:05:02] Config.php correto carregado com sucesso
+[2025-05-31 15:05:02] Dados recebidos no backend (completo) - {
+    "itens": [
+        {
+            "produto_id": "983",
+            "produto_nome": "Colares ",
+            "quantidade": "1",
+            "preco": "50.00",
+            "subtotal_item": "50",
+            "estoque": "-1"
+        }
+    ],
+    "cliente": {
+        "token": "225",
+        "rel_segmentos_id": "7",
+        "rel_estabelecimentos_id": "225",
+        "nome": "Juliana Medeiro  Da cruz",
+        "whatsapp": "(85) 9860-0099",
+        "estado": "6",
+        "cidade": "",
+        "forma_entrega": "0",
+        "forma_entrega_nome": "Retirar no Local",
+        "endereco_cep": "",
+        "endereco_numero": "",
+        "endereco_bairro": "",
+        "endereco_rua": "",
+        "endereco_complemento": "",
+        "endereco_referencia": "",
+        "forma_pagamento": "1",
+        "forma_pagamento_nome": "Dinheiro",
+        "forma_pagamento_informacao": "",
+        "data_hora": "2025-05-31 15:03:50",
+        "vpedido": "50.00",
+        "cupom": "0"
+    }
+}
+[2025-05-31 15:05:02] Itens recebidos do frontend (array $itens) - [
+    {
+        "produto_id": "983",
+        "produto_nome": "Colares ",
+        "quantidade": "1",
+        "preco": "50.00",
+        "subtotal_item": "50",
+        "estoque": "-1"
+    }
+]
+[2025-05-31 15:05:02] Item para cálculo - {
+    "id": "983",
+    "preco_recebido": "50.00",
+    "preco_float": 50,
+    "qtd": 1
+}
+[2025-05-31 15:05:02] Valores Recalculados - {
+    "subtotal": 50,
+    "desconto_valor": 0,
+    "taxa_entrega": 0,
+    "total_final": 50
+}
+[2025-05-31 15:05:02] Pedido PDV Inserido com Sucesso ID: 255
+[2025-05-31 15:05:02] Valores ANTES de gerar comprovante - {
+    "itens_array": [
+        {
+            "produto_id": "983",
+            "produto_nome": "Colares ",
+            "quantidade": "1",
+            "preco": "50.00",
+            "subtotal_item": "50",
+            "estoque": "-1"
+        }
+    ],
+    "subtotal_passado": 50,
+    "desconto_valor_passado": 0,
+    "taxa_entrega_passada": 0,
+    "total_final_passado": 50
+}
+[2025-05-31 15:05:02] Comprovante gerado (texto) - "CARLA PINHEIRO \nPedido #255\n31\/05\/2025 às 15:05\n------\nCliente: Juliana Medeiro  Da cruz\nWhatsApp: (85) 9860-0099\n\nEntrega: Retirar no Local\n\nForma de pagamento: Dinheiro\n------\n* 1 x Colares\nValor: R$ 50,00\n------\nSubtotal: R$ 50,00\nTaxa de entrega: R$ 0,00\nTotal: R$ 50,00\n\nObrigado pela preferência!\nVolte sempre!"
+[2025-05-31 15:05:02] Status do Pedido ID 255 atualizado para 6 (Confirmado)
+[2025-05-31 15:05:02] Erro ao atualizar visibilidade do pedido no painel - "Unknown column 'visivel_painel' in 'field list'"
+[2025-05-31 15:05:02] Estoque do produto ID 983 atualizado para -5
+[2025-05-31 15:05:02] Processamento do Pedido ID 255 concluído com sucesso.

@@ -1,0 +1,331 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202603 will be lost/reset.
+# Last config file used to build this data file was /backup/ilinkbiocom/tmp/awstats/ssl/awstats.conheca.ilinkbio.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2100                
+POS_TIME 2777                
+POS_VISITOR 7086                
+POS_DAY 7899                
+POS_DOMAIN 3390                
+POS_LOGIN 3647                
+POS_ROBOT 3802                
+POS_WORMS 4163                
+POS_EMAILSENDER 4294                
+POS_EMAILRECEIVER 4437                
+POS_SESSION 8197                
+POS_FILESIZE 8663                
+POS_REQUESTTIME 8781                
+POS_SIDER 8354                
+POS_FILETYPES 4572                
+POS_DOWNLOADS 4770                
+POS_OS 4859                
+POS_BROWSER 5035                
+POS_SCREENSIZE 5374                
+POS_UNKNOWNREFERER 5448                
+POS_UNKNOWNREFERERBROWSER 5720                
+POS_ORIGIN 5901                
+POS_SEREFERRALS 6034                
+POS_PAGEREFS 6178                
+POS_SEARCHWORDS 6401                
+POS_KEYWORDS 6553                
+POS_MISC 2441                
+POS_ERRORS 6612                
+POS_CLUSTER 3503                
+POS_SIDER_404 6734                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20260313020955 20 3858 9427141987126
+FirstTime 20260301134826
+LastTime 20260312153412
+LastUpdate 20260313091405 20 0 20 0 0
+TotalVisits 17                  
+TotalUnique 13                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 22                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 8747 0 1 0
+1 0 0 0 2 2 92560
+2 0 0 0 2 2 92560
+3 2 2 17494 0 0 0
+4 0 0 0 1 2 17494
+5 0 0 0 0 0 0
+6 1 1 8747 0 1 796
+7 0 0 0 0 0 0
+8 0 1 75309 1 1 8742
+9 0 0 0 1 4 8747
+10 8 8 69956 3 11 406230
+11 1 1 8747 1 6 23786
+12 6 34 7657176 1 6 9543
+13 2 2 55022 1 2 16269
+14 1 2 84056 1 6 8309
+15 5 6 119044 0 6 15044
+16 1 3 92803 0 1 0
+17 1 1 8747 2 6 9096
+18 0 5 298984 1 1 787
+19 0 10 338846 2 5 153105
+20 1 1 8747 1 2 15044
+21 0 1 7522 0 2 0
+22 2 2 15044 1 5 797
+23 0 2 82831 1 1 8747
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+us 25 41 1034659
+br 6 40 7905669
+np 1 2 17494
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+facebookexternalhit/ 9 389961 20260308102736 0
+Googlebot/ 5 37610 20260310112730 5
+bingbot/ 5 37610 20260308204241 2
+survey 5 231400 20260313020955 0
+checker 5 43725 20260310131353 0
+bot[\s_+:,\.\;\/\\-] 4 34988 20260312044416 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 8 67182 0 0
+php 1 7522 0 0
+html 28 277518 0 0
+jpg 3 45492 0 0
+png 32 8149334 0 0
+js 7 81767 0 0
+txt 1 8747 0 0
+woff2 3 320260 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/sitemap.txt 2 0 15044
+/ads.txt 1 0 8747
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+android10 43 6
+linux 13 12
+macosx13 1 1
+macosx 1 1
+win10 13 5
+ios_iphone 1 0
+Unknown 4 0
+win7 1 1
+macosx15 6 6
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 16
+chrome139.0.0.0 1 1
+mozilla 1 0
+chrome142.0.0.0 3 2
+Unknown 3 0
+chrome78.0.3904.108 1 1
+chrome67.0.3396.99 1 1
+chrome110.0.0.0 1 1
+firefox141.0 1 1
+safari26.2 1 0
+msie11.0 1 1
+firefox118.0 1 1
+safari17.2 1 1
+chrome145.0.0.0 52 7
+chrome131.0.0.0 13 13
+chrome114.0.0.0 1 1
+firefox139.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Iframely/1.3.1_(_https://iframely.com/docs/about) 20260312181419
+WhatsApp/2.23.20.0 20260312190145
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20260307153956
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Iframely/1.3.1_(_https://iframely.com/docs/about) 20260312181419
+WhatsApp/2.23.20.0 20260312190145
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 25 30
+From1 0 0
+From2 0 0
+From3 3 4
+From4 4 49
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+https://bordadeiradeserrapelada.ilinkbio.com.br 3 3
+https://trello.com 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+404 3 2388
+403 34 3148
+307 1 797
+206 2 106029
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 3
+/license.txt 1 -
+/robots.txt 1 -
+/.env 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 22
+200.152.24.191 6 34 7657176 20260303125513
+35.92.35.42 4 4 34988 20260304101426
+54.183.67.206 4 4 34968 20260303103733
+54.200.16.63 4 4 34988 20260304155310
+52.200.211.242 2 2 17494 20260307065202
+159.54.151.59 2 2 15044 20260306224554
+34.230.220.241 2 2 17494 20260312153412
+100.50.36.245 2 2 17494 20260307003748
+98.95.90.211 2 2 17494 20260307035143
+104.236.233.180 1 2 84056 20260309141315
+34.24.33.111 1 1 46280 20260301134826
+146.190.229.77 1 1 8742 20260301135000
+202.51.91.128 1 2 17494 20260308162617
+167.94.138.168 0 1 75309 
+45.7.26.126 0 4 301236 
+179.151.223.85 0 2 82831 
+177.54.230.192 0 1 7522 
+138.84.42.206 0 7 180706 
+52.4.205.167 0 2 73057 
+181.213.19.165 0 1 75309 
+179.151.222.164 0 2 82831 
+170.231.134.49 0 1 75309 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 11
+20260301 2 2 55022 2
+20260302 0 1 75309 0
+20260303 10 38 7692144 2
+20260304 8 11 228116 2
+20260305 0 1 75309 0
+20260306 4 4 32538 3
+20260307 4 5 110297 4
+20260308 1 2 17494 1
+20260309 1 3 159365 1
+20260311 0 1 75309 0
+20260312 2 15 436919 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+2mn-5mn 1
+0s-30s 16
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 6
+/ 27 269996 16 16
+/wp-login.php 1 7522 1 0
+/assets/vendor/remixicon/remixicon.woff2 1 125268 0 0
+/wp-admin/ 1 7522 0 1
+/assets/vendor/boxicons/fonts/boxicons.woff2 1 102988 0 0
+/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2 1 92004 0 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 5
+2K-5K 6
+0-44 31
+1K-2K 3
+5K+ 107
+500-1K 9
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

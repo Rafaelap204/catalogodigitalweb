@@ -1,0 +1,1168 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202509 will be lost/reset.
+# Last config file used to build this data file was /backup/ilinkbiocom/tmp/awstats/ssl/awstats._wildcard_.ilinkbio.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2103                
+POS_TIME 2786                
+POS_VISITOR 22869               
+POS_DAY 36399               
+POS_DOMAIN 3754                
+POS_LOGIN 4245                
+POS_ROBOT 4400                
+POS_WORMS 5184                
+POS_EMAILSENDER 5315                
+POS_EMAILRECEIVER 5458                
+POS_SESSION 37296               
+POS_FILESIZE 42858               
+POS_REQUESTTIME 43013               
+POS_SIDER 37509               
+POS_FILETYPES 5593                
+POS_DOWNLOADS 5995                
+POS_OS 6090                
+POS_BROWSER 6422                
+POS_SCREENSIZE 7695                
+POS_UNKNOWNREFERER 7769                
+POS_UNKNOWNREFERERBROWSER 8716                
+POS_ORIGIN 9428                
+POS_SEREFERRALS 9577                
+POS_PAGEREFS 9757                
+POS_SEARCHWORDS 22185               
+POS_KEYWORDS 22337               
+POS_MISC 2450                
+POS_ERRORS 22396               
+POS_CLUSTER 4101                
+POS_SIDER_404 22540               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20251001001922 925 279820 16834377682219
+FirstTime 20250901053456
+LastTime 20250930184425
+LastUpdate 20251001091342 925 0 924 0 0
+TotalVisits 801                 
+TotalUnique 309                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 340                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 1 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 230 521 7336005 50 121 756951
+1 270 555 13736983 51 125 1200241
+2 56 351 18874605 43 75 674451
+3 33 207 10761013 69 210 2110850
+4 61 382 19151501 64 84 1529346
+5 37 252 8842050 63 163 1472593
+6 56 344 13504682 273 430 6190213
+7 201 790 24328703 108 234 3660062
+8 220 1103 46075025 114 175 2788993
+9 269 1166 19872780 67 97 1061646
+10 450 1985 49613112 140 203 1555900
+11 476 2259 50345785 79 135 1769043
+12 216 1142 27174123 125 234 2701594
+13 510 1879 41764634 147 208 1038441
+14 543 2519 49914357 124 452 4832478
+15 521 1787 28775700 466 742 6656780
+16 500 1466 26545774 129 193 1796115
+17 335 1204 37353514 69 147 1349270
+18 669 1877 36289813 114 202 1254148
+19 597 2048 50623635 153 220 2082610
+20 443 1488 30771112 137 290 1825441
+21 335 925 32190215 68 117 1342973
+22 210 836 17106713 54 108 921626
+23 65 328 14143657 69 232 1349270
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 17
+br 5503 16847 296250974
+us 1454 8672 346452074
+in 103 672 9756876
+ar 81 387 12064430
+ma 75 264 3756211
+ie 35 239 2166899
+mx 11 81 2293005
+cl 10 75 893610
+ca 9 9 62295
+fr 6 35 238351
+nz 6 53 195808
+ru 5 45 193310
+jp 3 25 129770
+uy 1 1 6763
+id 1 1 8135
+cr 0 4 313490
+za 0 4 313490
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 16
+AhrefsBot/ 1057 9611827 20250913195335 101
+bot[\s_+:,\.\;\/\\-] 755 7417252 20250913190955 60
+Googlebot/ 613 3099565 20250930231409 120
+bingbot/ 471 9163992 20250930225921 57
+facebookexternalhit/ 357 6380817 20250930205217 59
+Applebot/ 286 1505426 20250928185019 16
+AdsBot\-Google[\x20]\( 268 1515012 20250930234954 0
+Adsbot 129 1931715 20250930231409 0
+Dalvik/ 69 592372 20250918182730 0
+crawl 68 431694 20250922013249 0
+Googlebot\-Image/ 27 4735238 20250930051134 0
+YandexBot/ 17 224965 20250912234009 9
+BW/ 7 97827 20250909195143 0
+yandex 5 85075 20250919080625 0
+[\s_+:,\.\;\/\\-]bot 1 7206 20250902140956 0
+YandexImages/ 1 15703 20250905083517 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 17
+css 6968 19478368 0 0
+php 3263 5208022 0 0
+woff 3 130000 0 0
+png 2539 484382913 0 0
+json 2 8004 0 0
+cgi 10 40120 0 0
+jpeg 2789 51779035 0 0
+Unknown 2262 8217855 0 0
+ttf 406 294624 0 0
+local 1 2986 0 0
+env 30 89579 0 0
+remote 1 2986 0 0
+html 773 6163170 0 0
+js 6042 40169740 0 0
+woff2 551 23127024 0 0
+jpg 1773 36000299 0 0
+xml 1 766 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/sitemap.xml.gz 2 0 7618
+/sitemap.txt 2 0 7588
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 16
+androidmarshmallow 101 47
+ios_ipad 51 10
+ios_iphone 5679 1180
+android12 270 33
+Unknown 309 73
+android11 295 36
+androidpie 79 9
+android 2559 423
+linux 5707 856
+unix 1 1
+macosx15 276 48
+android13 588 79
+winunknown 1 1
+win10 6047 2356
+android10 5417 2117
+macos11 34 34
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 56
+chrome136.0.7103.125 33 5
+safari17.4.1 1 1
+chrome131.0.0.0 4 0
+chrome139.0.7258.164 61 6
+chrome140.0.7339.156 23 5
+Unknown 193 50
+chrome140.0.7339.51 1488 228
+opera121.0.0.0 47 10
+chrome130.0.0.0 1878 786
+safari18.6 2038 348
+netscape5.0 2 2
+safari16.6.1 62 7
+chrome138.0.7204.180 54 6
+safari17.3.1 53 6
+chrome139.0.7258.154 124 27
+chrome138.0.0.0 77 30
+firefox137.0 2 2
+chrome139.0.7258.158 99 15
+chrome140.0.7339.188 54 7
+firefox119.0 1 0
+safari18.5 465 88
+chrome139.0.0.0 220 17
+chrome 4 4
+iphone 3020 725
+chrome134.0.0.0 342 182
+chrome140.0.7339.97 207 27
+chrome140.0.7339.155 173 45
+safari18.3 113 18
+chrome140.0.7339.154 1135 145
+chrome109.0.0.0 41 8
+chrome114.0.0.0 35 5
+chrome140.0.0.0 8706 3397
+chrome140.0.7339.52 210 80
+chrome119.0.0.0 4 2
+chrome135.0.7049.38 33 5
+chrome139.0.7258.127 5660 870
+chrome140.0.7339.207 23 5
+chrome138.0.7204.179 25 3
+chrome129.0.0.0 9 1
+samsung 99 0
+firefox24.0 34 34
+chrome107.0.0.0 64 7
+chrome135.0.0.0 62 26
+chrome122.0.0.0 36 8
+mozilla 47 11
+android 60 0
+chrome139.0.7258.160 33 5
+firefox139.0 1 1
+chrome138.0.7204.139 33 5
+chrome140.0.7339.127 13 3
+chrome47.0.2526.83 3 3
+chrome120.0.0.0 10 0
+chrome136.0.7103.49 5 0
+firefox125.0 1 1
+safari26.0 190 31
+chrome117.0.5938.132 4 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 13
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20250906232835
+Google-Adwords-DisplayAds 20250926143122
+Mozilla/5.0_(en-us)_AppleWebKit/537.36(KHTML,_like_Gecko;_Google-Adwords-DisplayAds-WebRender;)_Chrome/139.0.7258.127Safari/537.36 20250926143120
+Google-AdWords-Express 20250926140039
+Google-Ads-Creatives-Assistant 20250926140045
+NetworkingExtension/8621.3.11.10.3_Network/4277.140.33_iOS/18.6.2 20250928214230
+WhatsApp/2.2535.3_W 20250922191732
+WhatsApp/2.23.20.0 20250927194018
+Iframely/1.3.1_(_https://iframely.com/docs/about)_Canva 20250917203713
+GoogleAssociationService 20250925133812
+Mozilla/5.0_AppleWebKit/537.36_(KHTML,_like_Gecko;_Mozilla/5.0,_Google-AdWords-Express)_Chrome/139.0.7258.127_Safari/537.36 20250926140039
+Iframely/1.3.1_(_https://iframely.com/docs/about) 20250917203713
+Mozilla/5.0_zgrab/0.x 20250909021114
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 11
+Microsoft_Windows_Network_Diagnostics 20250929185457
+Iframely/1.3.1_(_https://iframely.com/docs/about) 20250917203713
+Iframely/1.3.1_(_https://iframely.com/docs/about)_Canva 20250917203713
+Instagram_399.0.0.34.84_(iPad15,7;_iPadOS_18_5;_pt_BR;_pt;_scale=2.00;_1640x2360;_795719514)_AppleWebKit/420_ 20250929202138
+WhatsApp/2.23.20.0 20250927194018
+GoogleAssociationService 20250925133812
+Google-AdWords-Express 20250926140039
+WhatsApp/2.2535.3_W 20250922191732
+Google-Ads-Creatives-Assistant 20250926140045
+NetworkingExtension/8621.3.11.10.3_Network/4277.140.33_iOS/18.6.2 20250928214230
+Google-Adwords-DisplayAds 20250926143122
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 680 1079
+From1 1 55
+From2 35 37
+From3 6473 25924
+From4 114 319
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 35 35
+google_com 0 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 208
+https://anafitness.ilinkbio.com.br 984 5388
+https://brancaelegance.ilinkbio.com.br 305 1207
+https://anamarinhosalaodebeleza.ilinkbio.com.br 229 1245
+https://viladoartesanato.ilinkbio.com.br/desativado 199 2275
+https://anafitness.ilinkbio.com.br/categoria/446 197 283
+https://valarts.ilinkbio.com.br 191 635
+https://lu.ilinkbio.com.br 167 917
+https://meudocecantinho.ilinkbio.com.br 160 485
+https://closetdamarcia.ilinkbio.com.br 147 443
+https://anafitness.ilinkbio.com.br/pedidosabertos 134 134
+https://oficinadocouro.ilinkbio.com.br 130 448
+https://anelitavariedades.ilinkbio.com.br 130 357
+https://demo2.ilinkbio.com.br/produto/77 118 1860
+https://anafitness.ilinkbio.com.br/categoria/449 111 135
+https://l.instagram.com 107 107
+https://shopburge.ilinkbio.com.br/produto/777 106 1724
+https://shopburge.ilinkbio.com.br/produto/768 103 1434
+https://anafitness.ilinkbio.com.br/categoria/445 95 114
+https://anafitness.ilinkbio.com.br/produto/1431 94 152
+https://anafitness.ilinkbio.com.br/pedido_delivery 92 96
+https://shopburge.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 86 86
+https://shopburge.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 84 84
+https://anafitness.ilinkbio.com.br/sacola 73 73
+https://anafitness.ilinkbio.com.br/produto/1466 68 104
+https://anafitness.ilinkbio.com.br/categoria/499 64 132
+https://anamarinhosalaodebeleza.ilinkbio.com.br/categoria/485 24 32
+https://anafitness.ilinkbio.com.br/desativado 37 206
+https://anamarinhosalaodebeleza.ilinkbio.com.br/sacola 4 4
+https://anelitavariedades.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 9 9
+https://maosungidas.ilinkbio.com.br 21 83
+https://demo2.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 51 51
+https://brancaelegance.ilinkbio.com.br/sacola 28 57
+https://anafitness.ilinkbio.com.br/produto/1520 3 7
+https://meudocecantinho.ilinkbio.com.br/pedido_balcao 5 6
+https://drogariapopular.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 2 2
+https://brancaelegance.ilinkbio.com.br 21 89
+https://anafitness.ilinkbio.com.br/produto/1467 16 26
+https://anamarinhosalaodebeleza.ilinkbio.com.br/serviceworker.js 0 111
+https://lu.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 12 12
+https://anafitness.ilinkbio.com.br/produto/1440 9 23
+https://motorcycle.ilinkbio.com.br 1 4
+https://anafitness.ilinkbio.com.br/produto/1464 18 27
+https://anamarinhosalaodebeleza.ilinkbio.com.br/categoria/515 11 14
+https://anamarinhosalaodebeleza.ilinkbio.com.br/produto/1497 3 6
+https://shopburge.ilinkbio.com.br 1 1
+https://anamarinhosalaodebeleza.ilinkbio.com.br/categoria/487 16 20
+https://brancaelegance.ilinkbio.com.br/pedido_balcao 28 29
+https://oficinadocouro.ilinkbio.com.br/categoria/444 6 8
+https://closetdamarcia.ilinkbio.com.br/categoria/463 27 35
+https://casadesucosdaserra.ilinkbio.com.br 5 44
+https://anafitness.ilinkbio.com.br/produto/1436 28 55
+https://bombomgourmet.ilinkbio.com.br/serviceworker.js 0 3
+https://anafitness.ilinkbio.com.br/produto/1443 23 93
+http://instagram.com 60 60
+https://closetdamarcia.ilinkbio.com.br/_core/_cdn/bootstrap/css/bootstrap.min.css 2 2
+https://closetdamarcia.ilinkbio.com.br/categoria/498 13 16
+https://visaomoderna.ilinkbio.com.br 5 55
+https://anafitness.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 43 43
+https://anafitness.ilinkbio.com.br/categoria/447 40 46
+https://fsdepilacao.ilinkbio.com.br/serviceworker.js 0 8
+https://anamarinhosalaodebeleza.ilinkbio.com.br/categoria/491 34 47
+https://viladoartesanato.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 39 39
+https://maosungidas.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 1 1
+https://bombomgourmet.ilinkbio.com.br 11 47
+https://maosungidas.ilinkbio.com.br/produto/1474 5 35
+https://oficinadocouro.ilinkbio.com.br/categoria/478 3 4
+https://lu.ilinkbio.com.br/produto/1471 9 47
+https://anafitness.ilinkbio.com.br/produto/1519 6 15
+https://anafitness.ilinkbio.com.br/produto/1529 3 9
+https://fsdepilacao.ilinkbio.com.br/categoria/514 3 4
+https://anamarinhosalaodebeleza.ilinkbio.com.br/obrigado 6 6
+https://anafitness.ilinkbio.com.br/produto/1446 17 78
+https://anafitness.ilinkbio.com.br/serviceworker.js 0 421
+https://anafitness.ilinkbio.com.br/pedidosfechados 6 6
+https://brancaelegance.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 15 15
+https://valarts.ilinkbio.com.br/serviceworker.js 0 67
+https://brancaelegance.ilinkbio.com.br/serviceworker.js 0 98
+https://l.instagram.com 4 4
+https://drogariapopular.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 2 2
+https://closetdamarcia.ilinkbio.com.br/produto/1482 39 88
+https://anafitness.ilinkbio.com.br/obrigado 11 11
+https://brancaelegance.ilinkbio.com.br/categoria/471 15 20
+https://closetdamarcia.ilinkbio.com.br/categoria/465 16 20
+https://lu.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 12 12
+https://lu.ilinkbio.com.br/categoria/473 20 59
+https://anamarinhosalaodebeleza.ilinkbio.com.br 17 246
+https://anelitavariedades.ilinkbio.com.br/serviceworker.js 0 47
+https://anelitavariedades.ilinkbio.com.br/categoria/458 3 4
+https://anafitness.ilinkbio.com.br/produto/1439 13 33
+https://drogariapopular.ilinkbio.com.br/serviceworker.js 0 11
+https://fsdepilacao.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 2 2
+https://anelitavariedades.ilinkbio.com.br/produto/1481 9 45
+https://meudocecantinho.ilinkbio.com.br/categoria 4 8
+https://lu.ilinkbio.com.br/serviceworker.js 0 35
+https://closetdamarcia.ilinkbio.com.br/produto/1457 25 38
+https://bombomgourmet.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 1 1
+https://valarts.ilinkbio.com.br/produto/1487 7 11
+https://anafitness.ilinkbio.com.br/produto/1451 16 26
+https://demo2.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 50 50
+https://anafitness.ilinkbio.com.br/produto/1437 11 22
+https://meudocecantinho.ilinkbio.com.br/serviceworker.js 0 72
+https://meudocecantinho.ilinkbio.com.br/categoria/454 54 70
+https://anafitness.ilinkbio.com.br/produto/1438 9 28
+https://anamarinhosalaodebeleza.ilinkbio.com.br/categoria/495 46 90
+https://brancaelegance.ilinkbio.com.br/pedido_delivery 25 27
+https://viladoartesanato.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 39 39
+https://valarts.ilinkbio.com.br/produto/1541 6 9
+https://anafitness.ilinkbio.com.br/produto/1442 28 64
+http://meunegocio.ilinkbio.com.br 2 2
+https://valarts.ilinkbio.com.br/categoria/512 3 6
+https://anafitness.ilinkbio.com.br/produto/1445 5 17
+https://bombomgourmet.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 1 1
+https://www.instagram.com 1 1
+https://valarts.ilinkbio.com.br/sacola 18 18
+https://anamarinhosalaodebeleza.ilinkbio.com.br/_core/_cdn/bootstrap/css/bootstrap.min.css 19 19
+https://anelitavariedades.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 9 9
+https://anafitness.ilinkbio.com.br/produto/1526 33 45
+https://anamarinhosalaodebeleza.ilinkbio.com.br/categoria 3 3
+https://meudocecantinho.ilinkbio.com.br/produto/1448 9 44
+https://meudocecantinho.ilinkbio.com.br/produto/1435 11 17
+https://valarts.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 10 10
+https://anafitness.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 42 42
+https://brancaelegance.ilinkbio.com.br/produto/1449 55 153
+https://oficinadocouro.ilinkbio.com.br/produto/1427 3 5
+https://shopburge.ilinkbio.com.br 33 102
+https://closetdamarcia.ilinkbio.com.br/categoria/464 23 28
+https://oficinadocouro.ilinkbio.com.br/produto/1459 6 25
+https://meudocecantinho.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 12 12
+https://viladoartesanato.ilinkbio.com.br/serviceworker.js 0 5
+https://closetdamarcia.ilinkbio.com.br/produto/1493 3 8
+https://brancaelegance.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 15 15
+https://closetdamarcia.ilinkbio.com.br/produto/1480 12 20
+https://www.facebook.com 8 8
+https://anelitavariedades.ilinkbio.com.br/categoria/456 3 4
+https://anamarinhosalaodebeleza.ilinkbio.com.br/pedido_balcao 19 20
+https://anelitavariedades.ilinkbio.com.br/produto/1434 3 6
+https://closetdamarcia.ilinkbio.com.br/categoria/497 50 62
+https://anafitness.ilinkbio.com.br/produto/1527 3 6
+https://anafitness.ilinkbio.com.br/produto/1444 12 18
+https://meudocecantinho.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 10 10
+https://meudocecantinho.ilinkbio.com.br/categoria/506 7 12
+https://casadesucosdaserra.ilinkbio.com.br/serviceworker.js 0 1
+https://brancaelegance.ilinkbio.com.br/categoria 16 16
+https://maosungidas.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 1 1
+https://anamarinhosalaodebeleza.ilinkbio.com.br/produto/1460 7 10
+https://demo2.ilinkbio.com.br/_core/_cdn/bootstrap/css/bootstrap.min.css 50 50
+https://brancaelegance.ilinkbio.com.br/categoria/501 18 24
+https://anafitness.ilinkbio.com.br/produto/1472 9 23
+https://fsdepilacao.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 2 2
+https://anafitness.ilinkbio.com.br/produto/ 4 5
+https://demo2.ilinkbio.com.br 7 90
+https://anafitness.ilinkbio.com.br/produto/1450 6 19
+https://oficinadocouro.ilinkbio.com.br/_core/_cdn/bootstrap/css/bootstrap.min.css 3 3
+https://anamarinhosalaodebeleza.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 22 22
+https://oficinadocouro.ilinkbio.com.br/desativado 6 34
+https://closetdamarcia.ilinkbio.com.br/produto/1486 9 14
+https://drogariapopular.ilinkbio.com.br 2 220
+https://oficinadocouro.ilinkbio.com.br/categoria/483 4 5
+https://anafitness.ilinkbio.com.br/produto/1521 6 14
+https://closetdamarcia.ilinkbio.com.br/categoria/462 15 19
+https://oficinadocouro.ilinkbio.com.br/categoria/474 3 4
+https://brancaelegance.ilinkbio.com.br/produto/1469 15 22
+https://closetdamarcia.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 5 5
+https://oficinadocouro.ilinkbio.com.br/produto/1428 45 70
+https://shopburge.ilinkbio.com.br/serviceworker.js 0 1
+https://demo2.ilinkbio.com.br/serviceworker.js 0 2
+https://anafitness.ilinkbio.com.br/produto/1441 3 7
+https://maosungidas.ilinkbio.com.br/serviceworker.js 0 3
+https://anamarinhosalaodebeleza.ilinkbio.com.br/categoria/488 8 10
+https://closetdamarcia.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 5 5
+https://valarts.ilinkbio.com.br/produto/1488 3 6
+https://oficinadocouro.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 8 8
+https://valarts.ilinkbio.com.br/desativado 3 30
+https://oficinadocouro.ilinkbio.com.br/produto/1452 6 14
+https://anelitavariedades.ilinkbio.com.br/_core/_cdn/bootstrap/css/bootstrap.min.css 2 2
+https://anafitness.ilinkbio.com.br/categoria 27 27
+https://anelitavariedades.ilinkbio.com.br/desativado 12 59
+https://meudocecantinho.ilinkbio.com.br/desativado 9 11
+https://anafitness.ilinkbio.com.br/produto/1447 13 30
+https://oficinadocouro.ilinkbio.com.br/produto/1433 12 20
+https://motorcycle.ilinkbio.com.br/serviceworker.js 0 1
+https://closetdamarcia.ilinkbio.com.br/produto/1463 15 23
+https://meudocecantinho.ilinkbio.com.br/sacola 10 10
+https://valarts.ilinkbio.com.br/categoria/511 7 10
+https://fsdepilacao.ilinkbio.com.br 30 99
+https://oficinadocouro.ilinkbio.com.br/_core/_cdn/fonts/style.min.css 8 8
+https://demo2.ilinkbio.com.br/produto/280 5 13
+https://valarts.ilinkbio.com.br/pedido_balcao 9 10
+https://oficinadocouro.ilinkbio.com.br/serviceworker.js 0 53
+https://brancaelegance.ilinkbio.com.br/_core/_cdn/bootstrap/css/bootstrap.min.css 4 4
+https://oficinadocouro.ilinkbio.com.br/categoria 5 5
+https://bombomgourmet.ilinkbio.com.br/sacola 4 4
+https://valarts.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 10 10
+https://anafitness.ilinkbio.com.br/produto/1458 3 8
+https://anamarinhosalaodebeleza.ilinkbio.com.br/_core/_cdn/lineicons/css/LineIcons.min.css 22 22
+https://anelitavariedades.ilinkbio.com.br/categoria/468 6 8
+https://anafitness.ilinkbio.com.br/produto/1522 3 7
+https://anafitness.ilinkbio.com.br/produto/1465 8 18
+https://anafitness.ilinkbio.com.br/produto/1523 9 18
+https://valarts.ilinkbio.com.br/produto/1494 4 6
+https://valarts.ilinkbio.com.br/categoria 5 5
+https://anamarinhosalaodebeleza.ilinkbio.com.br/categoria/494 33 41
+https://meudocecantinho.ilinkbio.com.br/_core/_cdn/bootstrap/css/bootstrap.min.css 1 1
+https://closetdamarcia.ilinkbio.com.br/serviceworker.js 0 96
+https://anafitness.ilinkbio.com.br/_core/_cdn/bootstrap/css/bootstrap.min.css 23 23
+https://anafitness.ilinkbio.com.br/pedido_balcao 17 18
+https://anafitness.ilinkbio.com.br/categoria/470 28 31
+https://drogariapopular.ilinkbio.com.br 7 373
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+302 440 3978373
+206 30 741432
+403 529 374612
+406 11 8569
+404 2 1592
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 2
+/wiki 1 -
+/.env 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 340
+138.0.54.43 2229 5783 100907789 20250930104227
+177.55.68.225 1010 1897 40882884 20250925092826
+138.0.54.34 353 667 6843843 20250919125337
+201.149.126.172 187 472 28280821 20250925150923
+66.249.92.132 166 1257 86879673 20250923040828
+177.55.68.251 140 447 5759290 20250930152706
+138.255.203.222 121 411 11081055 20250930140809
+66.249.92.133 115 729 45909366 20250923040828
+66.249.92.10 110 735 29352422 20250923075309
+138.0.54.124 102 230 1765721 20250920011355
+66.249.92.11 81 481 19430550 20250923075313
+132.255.228.65 75 211 2400080 20250919194238
+177.23.25.1 72 382 4432872 20250918115544
+189.14.117.29 71 161 1896650 20250919105926
+66.249.92.134 65 382 10163484 20250923040828
+45.239.142.21 59 120 990227 20250922104349
+74.125.217.137 57 384 29027390 20250930081457
+179.151.214.57 48 137 1230782 20250920195218
+179.151.222.183 47 107 759841 20250920144421
+177.55.76.213 43 129 2490577 20250922192949
+186.0.148.11 42 155 9987416 20250924064106
+138.0.54.107 39 155 3064923 20250923123036
+138.255.202.209 39 106 1048318 20250919171102
+186.232.203.248 38 112 3196063 20250921210224
+189.14.117.62 38 56 665255 20250920072053
+18.224.192.118 1 1 3433 20250909021114
+201.149.125.18 12 17 40983 20250921160059
+189.127.143.75 1 1 8080 20250924083142
+66.249.92.167 0 1 390446 
+45.70.157.50 6 53 195808 20250920095428
+69.171.251.6 5 34 282303 20250923082059
+64.233.172.70 11 78 1080873 20250926143120
+138.255.203.81 10 70 623500 20250918191230
+201.149.126.15 6 60 605477 20250923055852
+177.55.73.214 31 92 822500 20250922150041
+138.255.203.80 10 41 278321 20250928085223
+170.79.53.43 1 16 55147 20250920133341
+66.249.92.45 2 9 62313 20250921053222
+66.249.92.160 8 54 3084498 20250922060926
+66.249.92.6 7 48 2698550 20250920023510
+201.17.159.173 3 25 111360 20250920082121
+74.125.217.106 14 86 3215325 20250930175531
+186.232.203.56 7 59 878236 20250919183319
+138.255.203.224 33 82 1450607 20250924191047
+201.4.96.237 5 35 224700 20250920112548
+66.249.92.194 1 9 390853 20250917062425
+138.0.54.31 5 38 775657 20250925123402
+40.77.179.201 0 1 57 
+179.151.222.217 27 76 2888341 20250925105022
+66.249.92.38 8 37 3185539 20250920023510
+186.225.186.40 3 23 129770 20250920135045
+47.82.11.96 1 1 8763 20250921183246
+45.176.74.91 6 60 309034 20250920092223
+179.151.215.154 24 97 1518659 20250918172357
+205.169.39.58 0 4 313490 
+170.150.132.47 8 39 231860 20250920134233
+177.55.228.13 3 24 139285 20250920085137
+31.13.115.10 5 34 282303 20250920074234
+45.190.202.29 1 1 5737 20250923212019
+40.77.179.173 0 1 57 
+177.193.18.223 5 35 224700 20250920123543
+47.82.11.48 1 1 4431 20250923113117
+45.173.175.31 11 70 886925 20250922101751
+191.5.36.252 5 35 224700 20250920102143
+66.249.92.44 5 23 1516399 20250921053227
+74.125.217.105 32 203 7867972 20250930175532
+49.12.96.243 0 4 313490 
+138.118.111.110 23 79 670217 20250922092532
+66.249.92.12 36 225 4371202 20250923075308
+200.124.94.205 6 45 744880 20250920113755
+152.255.121.151 4 39 200816 20250920092615
+179.108.52.213 0 4 313490 
+45.175.218.132 5 35 224700 20250915190609
+170.231.134.104 6 54 5493992 20250924131137
+195.201.168.79 5 45 193310 20250904001515
+186.193.220.56 6 53 284287 20250920125956
+138.255.203.58 11 94 2748708 20250922204640
+47.82.11.86 1 1 8137 20250919183154
+200.124.94.196 1 1 2986 20250907181502
+179.151.217.254 10 57 1881765 20250918162004
+187.86.162.187 6 12 145814 20250919214535
+187.105.9.16 5 35 224700 20250907171926
+66.249.92.197 1 20 2025237 20250911164222
+173.252.87.5 1 1 183 20250915161118
+201.149.125.126 12 30 5787386 20250923085911
+177.17.127.57 6 25 7545 20250924152724
+138.0.54.179 31 190 3926580 20250923094415
+138.118.111.128 11 83 1978991 20250930185336
+179.151.218.205 6 84 2415406 20250923123412
+31.13.115.112 1 1 183 20250920074235
+138.0.245.162 5 35 224699 20250917144921
+177.23.27.45 0 10 353140 
+189.40.103.29 3 23 55411 20250920105641
+191.246.225.219 7 77 2284630 20250923072301
+173.252.95.16 1 1 183 20250915161256
+66.220.149.12 1 1 183 20250920074018
+64.227.155.216 1 1 3433 20250906093953
+177.23.27.86 21 85 494528 20250923153114
+45.7.25.21 6 224 4503678 20250914144634
+173.252.127.10 1 1 175 20250918191255
+69.171.251.4 1 1 183 20250923082100
+177.54.229.180 5 230 3968650 20250930185001
+45.226.36.228 5 33 206994 20250918125346
+148.222.209.36 11 81 2293005 20250923122604
+66.249.89.65 0 1 75005 
+177.55.68.254 9 31 90022 20250930130304
+201.86.225.24 5 35 224700 20250915201845
+173.252.127.20 5 61 616275 20250918191252
+66.249.92.39 2 14 100599 20250922061647
+138.0.54.12 23 169 1532533 20250918103200
+187.64.29.230 6 33 207120 20250916103826
+187.94.6.155 8 62 349476 20250920125234
+131.0.141.195 6 53 204426 20250920080539
+138.255.203.132 22 68 1461401 20250917155130
+170.80.234.165 1 1 6969 20250928045229
+179.151.217.175 6 62 616358 20250918155311
+74.125.217.129 11 83 3080849 20250930080421
+54.74.216.114 34 34 101523 20250903082006
+152.255.109.252 6 60 541115 20250919224246
+173.252.127.8 6 40 853942 20250927192531
+186.54.201.79 1 1 6763 20250930084158
+66.249.92.168 1 2 3641 20250922060931
+201.149.125.230 11 67 494495 20250930184426
+191.38.231.13 1 4 17618 20250920125237
+66.249.89.64 0 1 75005 
+170.231.134.132 4 30 54719 20250923093055
+45.224.121.18 6 84 2415394 20250923084936
+69.171.251.10 1 1 183 20250923082125
+177.17.127.167 4 4 10838 20250916165139
+179.84.150.182 5 35 224700 20250916153850
+186.209.200.129 1 1 4123 20250930131318
+173.252.127.61 2 2 354 20250927192531
+152.255.104.9 5 35 224700 20250920135116
+177.8.29.59 4 6 7445 20250929135653
+138.0.54.37 6 36 298949 20250916153527
+66.220.149.1 5 33 206994 20250920073943
+45.191.242.236 11 68 825865 20250918210002
+177.25.125.122 0 5 69948 
+45.171.253.55 6 77 2284519 20250923181154
+200.187.164.87 5 35 224700 20250917114623
+177.72.230.211 1 1 6953 20250930055306
+138.255.203.24 7 15 177252 20250924115200
+177.25.127.133 1 1 2986 20250925115659
+47.82.11.90 1 1 8158 20250922032204
+186.233.192.150 6 55 284287 20250920130337
+66.249.92.169 24 131 7545371 20250921053227
+177.44.18.253 5 35 224700 20250920124439
+138.94.82.134 7 59 928467 20250919171052
+177.37.191.236 0 4 313490 
+66.249.92.198 2 12 434460 20250922061646
+177.17.125.109 15 116 1898911 20250918160921
+173.252.95.114 1 1 4377 20250915161330
+170.247.29.11 1 1 6846 20250928085235
+201.149.125.142 6 53 5418683 20250924190751
+69.171.251.8 1 1 2994 20250923082125
+94.239.111.156 6 35 238351 20250924012402
+170.79.230.2 1 1 4439 20250926120217
+45.7.26.165 0 4 313490 
+45.4.119.167 1 1 8763 20250925235329
+201.149.125.253 7 9 21862 20250919074803
+177.174.195.135 6 48 349983 20250917120218
+3.146.111.124 1 1 3433 20250905025129
+187.86.162.230 13 89 2486827 20250923141241
+138.255.203.117 32 163 1454910 20250920144701
+45.183.10.216 3 30 113361 20250920083447
+74.125.217.128 24 155 7371448 20250930081457
+177.101.32.23 6 55 284287 20250920123118
+201.149.126.221 26 42 307386 20250925214030
+187.21.13.25 1 14 52058 20250920084155
+177.37.237.211 5 35 224700 20250915191100
+181.191.1.81 3 29 145744 20250920082959
+179.151.215.40 1 1 2986 20250925082500
+66.102.7.167 0 17 282044 
+132.255.228.26 14 68 566534 20250919134725
+45.191.240.245 25 95 1009987 20250919222855
+200.75.178.186 11 43 239020 20250920134726
+66.220.149.3 1 2 78303 20250920074018
+170.231.134.181 7 62 945271 20250920153940
+45.184.123.70 3 23 129770 20250920130745
+45.162.238.251 19 89 2322290 20250923142729
+170.245.221.25 5 35 224700 20250920134649
+138.122.148.93 10 39 232112 20250915195847
+138.122.83.121 5 35 224700 20250916130837
+179.151.217.148 16 56 1006478 20250930134342
+177.8.26.106 4 5 11339 20250917173944
+66.249.92.138 5 17 854864 20250919214526
+138.0.54.29 31 93 2275651 20250917184141
+170.83.102.31 1 7 37571 20250920091507
+104.28.47.132 11 48 446900 20250916183412
+189.13.215.83 1 1 5351 20250929154006
+64.233.172.69 12 82 985671 20250926143119
+170.247.230.131 1 1 5353 20250924021248
+138.36.49.115 5 43 851680 20250920080857
+173.252.95.115 1 1 183 20250920075335
+192.178.9.68 0 7 192929 
+47.82.11.85 1 1 6945 20250925202225
+31.13.127.8 5 34 282303 20250915161225
+66.249.92.43 8 37 198435 20250919045944
+45.169.64.125 6 55 265386 20250920125040
+160.178.246.193 1 1 6910 20250927234228
+177.25.112.57 4 4 12531 20250919222236
+66.220.149.112 1 1 183 20250920073944
+179.151.216.166 0 4 313490 
+168.0.23.86 7 59 928467 20250919170825
+138.255.203.74 4 9 625658 20250918164758
+177.37.185.163 5 33 206994 20250915223528
+38.9.6.42 6 33 200266 20250920094032
+170.231.133.97 7 63 620231 20250920054709
+177.54.229.178 5 161 1494965 20250902143012
+64.225.66.78 1 1 3433 20250920162012
+45.7.26.115 10 47 789685 20250918104033
+66.249.92.37 8 55 1848387 20250921213632
+181.77.10.253 5 35 224700 20250916061250
+177.173.235.18 5 35 224700 20250918113737
+66.249.92.7 2 23 1423083 20250921213624
+179.151.212.122 3 10 397963 20250926112506
+179.151.220.141 5 9 100981 20250925104915
+201.162.87.144 3 30 154517 20250920131935
+173.252.87.1 1 1 2986 20250907181216
+138.0.54.10 11 68 1033419 20250920094813
+40.77.177.210 0 1 57 
+69.171.234.33 1 1 4377 20250915161153
+138.186.0.6 0 4 313490 
+45.225.77.171 3 25 129770 20250920140906
+74.125.217.107 9 47 604068 20250930175529
+201.149.126.235 7 77 2284631 20250923084938
+66.249.70.35 8 8 51249 20250927142313
+66.249.88.1 1 1 9261 20250926140045
+66.249.92.5 9 66 5669728 20250920141707
+165.232.33.27 1 1 3433 20250906041018
+177.54.229.179 0 6 114 
+66.102.7.169 0 16 457494 
+179.145.12.173 3 23 129770 20250920133344
+31.13.115.2 2 2 366 20250915161200
+200.103.231.68 5 32 246935 20250929202740
+138.255.202.164 7 84 2415523 20250923141603
+173.252.87.3 5 34 282303 20250915161116
+64.233.172.68 15 84 1125878 20250926143121
+138.0.54.30 25 66 834377 20250923133322
+138.255.203.102 15 80 837479 20250918221627
+179.151.219.254 6 60 541086 20250918202647
+66.249.84.10 1 1 4002 20250925133812
+66.249.70.34 21 21 133259 20250927140001
+52.4.205.167 1 2 32928 20250917203713
+187.61.100.236 5 32 129770 20250920133643
+138.0.54.38 21 90 810305 20250922112503
+45.7.26.71 0 13 940527 
+47.82.11.92 1 1 6911 20250926040246
+177.100.123.191 5 33 206994 20250918101629
+38.50.58.196 7 58 908974 20250919170242
+66.249.92.139 1 5 16226 20250919214522
+170.231.133.137 11 54 1245020 20250918192819
+31.13.127.39 1 1 183 20250915161226
+138.255.203.196 7 77 2284638 20250923140034
+47.82.11.41 1 1 5163 20250921223155
+187.86.162.141 20 90 1078809 20250918190711
+102.64.220.240 1 1 8135 20250923180239
+177.8.25.209 25 263 6212336 20250923083750
+69.171.249.113 1 1 4377 20250915161302
+177.87.161.62 4 6 7462 20250927114410
+138.185.191.25 1 1 5356 20250923153125
+187.10.246.229 1 1 4120 20250928102514
+189.123.183.24 5 35 224700 20250915223901
+186.0.150.72 1 1 2986 20250928193100
+201.149.126.34 17 24 80325 20250917181400
+66.249.92.200 0 3 432957 
+66.249.92.161 4 38 2722005 20250920023156
+179.151.211.247 8 45 1177897 20250927194018
+66.249.92.162 0 1 2463 
+40.77.178.207 0 2 114 
+192.178.9.70 1 8 122300 20250926140136
+38.190.89.170 5 32 129770 20250920112622
+177.223.26.66 5 35 224700 20250920104456
+45.227.55.206 1 1 6916 20250928081151
+170.231.134.146 2 6 319462 20250922230944
+187.108.91.63 5 35 224700 20250920133344
+186.193.22.46 3 25 129770 20250920120153
+192.178.9.69 0 4 86362 
+177.85.3.148 6 53 204426 20250920105334
+66.249.92.137 5 54 2218429 20250919045947
+152.255.113.118 6 53 197139 20250920113610
+179.127.109.142 1 1 6892 20250927180253
+186.194.253.161 3 26 139203 20250920121053
+31.13.115.114 1 1 175 20250918191017
+31.13.127.4 0 1 57 
+64.23.217.183 1 1 3433 20250920052632
+66.249.92.193 1 12 690281 20250919045937
+45.6.130.145 5 35 224700 20250920110240
+173.252.95.8 5 34 282423 20250920075334
+170.246.80.139 1 1 5299 20250924093224
+173.252.87.13 1 1 2986 20250913192246
+179.151.222.200 6 63 620111 20250920030916
+179.151.208.143 1 3 30136 20250923083725
+179.151.219.232 7 66 704147 20250922151432
+173.252.95.17 5 34 282303 20250915161254
+149.19.175.58 6 112 2503917 20250923111544
+168.0.81.40 1 1 6899 20250927202158
+179.151.214.185 6 59 1216242 20250930115050
+179.106.150.194 3 23 49909 20250920103339
+167.94.138.202 1 1 3433 20250906232835
+31.13.127.10 1 1 175 20250922085830
+45.191.240.131 7 65 1065812 20250930150958
+201.149.125.187 27 91 953885 20250922111635
+66.249.92.163 1 1 359 20250922060927
+177.55.68.230 14 72 642687 20250923094254
+138.0.54.13 10 46 14426 20250930150923
+143.137.64.182 3 25 129770 20250920144412
+66.249.92.196 4 48 1087511 20250920023202
+31.13.127.44 6 64 695359 20250922085826
+69.171.251.113 0 1 57 
+31.13.115.14 5 61 616275 20250918191014
+191.217.46.186 1 1 6887 20250929020308
+138.0.54.84 10 39 287854 20250930132600
+179.151.211.118 6 42 824328 20250918183114
+168.90.226.9 0 4 313490 
+187.16.187.121 1 1 0 20250920104731
+66.249.70.36 5 5 22834 20250927140658
+66.249.92.165 0 2 5523 
+74.125.210.165 1 1 4002 20250925133812
+177.8.18.20 6 46 262325 20250920143400
+138.255.202.195 7 77 2284630 20250923093032
+189.40.100.198 14 45 535182 20250915155638
+47.82.11.47 1 1 6874 20250920010155
+177.8.26.32 24 31 71174 20250916183337
+200.189.74.38 5 35 224700 20250917223927
+66.102.7.168 0 21 437452 
+177.87.165.9 1 1 2986 20250907222127
+47.82.11.101 1 1 6913 20250925141157
+189.106.20.81 3 30 113361 20250920115924
+179.151.220.248 0 5 69948 
+179.151.219.157 8 69 623391 20250919103251
+66.249.92.15 1 1 359 20250920141656
+179.60.169.184 37 230 2069124 20250922121004
+34.11.191.204 0 4 313490 
+170.78.160.205 3 26 129770 20250920081519
+138.122.240.195 6 54 5493992 20250924135753
+186.189.71.71 1 1 4904 20250923232323
+31.13.115.15 8 39 289520 20250915161159
+66.249.92.192 3 40 1664947 20250921053220
+138.0.54.58 7 77 2284635 20250923112308
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20250901 28 165 9015459 12
+20250902 37 383 13065363 15
+20250903 64 230 11249914 17
+20250904 53 385 17549638 23
+20250905 28 190 9655913 14
+20250906 40 270 13813248 20
+20250907 51 352 16073313 24
+20250908 40 271 14352222 15
+20250909 29 209 8813966 15
+20250910 8 8 32094 6
+20250911 30 214 9974023 14
+20250912 21 170 8633613 13
+20250913 19 134 6236255 16
+20250914 15 266 5159452 9
+20250915 108 602 12194442 38
+20250916 959 2895 55898739 33
+20250917 747 1831 31879907 38
+20250918 1631 4670 70904313 49
+20250919 603 2061 33898428 58
+20250920 829 3232 33390113 96
+20250921 66 335 17220780 28
+20250922 662 2353 68434892 37
+20250923 419 2359 83495713 53
+20250924 198 839 42124599 28
+20250925 196 586 22146476 29
+20250926 132 784 19325135 31
+20250927 41 152 4899913 16
+20250928 12 25 424397 9
+20250929 95 525 16048636 20
+20250930 142 918 19184535 25
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30mn-1h 22
+30s-2mn 48
+1h+ 18
+5mn-15mn 17
+0s-30s 653
+15mn-30mn 22
+2mn-5mn 21
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 192
+/app/estabelecimento/css/style.php 1549 4632453 113 86
+/app/estabelecimento/js/script.php 1541 552142 92 167
+/manifest.webmanifest 789 141228 20 89
+/ 771 6152868 195 35
+/_core/_cdn/lineicons/fonts/LineIcons.woff2 408 20567048 36 110
+/_core/_cdn/fonts/fonts/icomoon.ttf 406 294624 35 112
+/categoria/manifest.webmanifest 250 981623 0 10
+/produto/manifest.webmanifest 210 890144 2 5
+/app/estabelecimento/_ajax/sacola.php 173 23427 1 2
+/_core/_cdn/bootstrap/fonts/glyphicons-halflings-regular.woff2 143 2559976 10 45
+/desativado 119 446472 69 11
+/produto/77 62 493446 58 24
+/produto/777 62 428563 59 24
+/produto/768 58 468610 50 32
+/categoria/446 53 274924 2 0
+/sacola 41 224846 2 1
+/categoria/449 35 190248 0 0
+/pedidosabertos 34 130326 0 0
+/produto/1431 30 218433 1 0
+/categoria/445 27 142218 0 0
+/categoria 22 117965 3 3
+/produto/1466 20 167759 0 0
+/categoria/499 18 85732 0 0
+/categoria/495 16 83553 2 2
+/categoria/454 15 78167 1 0
+/produto/1501 1 7228 0 0
+/categoria/308 1 5356 1 1
+/produto/1502 1 7176 0 0
+/categoria/501 6 28350 0 0
+/categoria/ 1 6007 0 0
+/produto/1434 1 7595 0 0
+/produto/971 1 6763 1 1
+/produto/774 1 6953 1 1
+/categoria/514 1 4927 0 0
+/categoria/464 5 24855 0 0
+/produto/1465 3 22939 0 0
+//core/app/.env 1 2986 0 0
+/categoria/307 1 5353 1 1
+/produto/1506 1 6746 0 0
+//cron/.env 1 2986 0 0
+/produto/1463 5 32123 0 0
+/categoria/471 5 25415 0 0
+/produto/1496 1 7352 1 0
+/produto/780 1 6899 1 1
+/produto/775 1 6945 1 1
+/categoria/470 9 45094 0 0
+/produto/1523 3 24737 0 0
+/produto/1544 1 7426 0 1
+//apps/.env 1 2986 0 0
+/produto/1503 1 7222 1 0
+/produto/1428 14 96118 1 1
+/produto/778 1 6911 1 1
+/produto/1493 1 6444 0 0
+/categoria/pedidosabertos 2 8287 2 2
+//laravel/.env 1 2986 0 1
+/produto/1526 9 74934 0 0
+/shopping.xml 1 766 0 0
+/produto/1437 3 24601 0 0
+/produto/782 1 6846 1 1
+/produto/pedidosfechados 1 4431 1 1
+/produto/1474 1 6472 0 0
+/produto/1521 2 16374 0 0
+/produto/1505 1 6617 0 0
+/categoria/506 2 10314 0 0
+/categoria/309 1 4904 1 1
+/obrigado 5 22537 1 0
+//tools/.env 1 2986 0 0
+/categoria/463 8 39608 0 0
+/produto/1522 1 8333 0 0
+/categoria/347 1 5163 1 1
+/categoria/468 2 10166 0 0
+//v2/.env 1 2986 0 0
+/pedido_balcao 9 58258 0 0
+/produto/1445 3 27089 0 0
+/produto/1439 4 33137 0 0
+/produto/1486 3 19143 0 0
+/.local 1 2986 0 0
+/produto/776 1 6910 1 1
+/produto/1443 7 60080 0 0
+/categoria/517 1 5343 0 1
+//core/.env 1 2986 0 0
+/produto/1481 3 20295 1 0
+/produto/781 1 6892 1 1
+/categoria/pedidosfechados 2 8314 2 1
+/produto/1482 12 78170 2 0
+//vendor/.env 1 2986 0 0
+/categoria/485 9 50616 2 2
+/produto/1446 6 50518 0 0
+/produto/1451 5 41687 0 0
+/produto/1452 2 15298 0 0
+//assets/.env 1 2986 0 0
+//app/.env 1 2986 0 0
+//api/.env 1 2986 0 0
+/categoria/458 1 4840 0 0
+/produto/pedidosabertos 1 4439 1 1
+//uploads/.env 1 2986 0 0
+/produto/1513 1 7268 0 0
+/produto/1441 1 7636 0 0
+/produto/783 1 6887 1 1
+//public/.env 1 2985 0 0
+/produto/1515 1 7489 0 0
+/produto/1427 1 6738 0 0
+/categoria/491 9 47293 0 0
+/produto/1442 9 75140 0 0
+/categoria/519 1 5314 1 0
+/produto/1438 3 24865 0 0
+/produto/779 1 6916 1 1
+//core/Datavase/.env 1 2986 0 0
+/produto/1529 1 8072 0 0
+//database/.env 1 2986 0 0
+/produto/1487 2 13198 0 0
+//administrator/.env 1 2986 0 0
+//cronlab/.env 1 2986 0 0
+/produto/1444 3 25412 0 0
+//v1/.env 1 2986 0 0
+/produto/773 1 6969 1 1
+/produto/1498 1 7054 0 0
+/categoria/478 1 4763 0 0
+//psnlink/.env 1 2986 0 0
+/produto/1480 4 25735 0 0
+//sitemaps/.env 1 2986 0 0
+/produto/1469 4 26803 0 0
+/produto/1508 1 6705 0 0
+/cgi-sys/suspendedpage.cgi 10 40120 8 8
+/produto/1450 2 16970 0 0
+/produto/1509 1 7191 0 0
+/produto/1457 8 52169 0 0
+/categoria/447 14 123430 0 0
+//en/.env 1 2986 0 0
+/produto/771 1 8135 1 1
+/categoria/483 1 5016 0 0
+/.env 1 2986 0 0
+/produto/1440 3 23632 0 0
+/categoria/494 8 39475 0 0
+/produto/1447 4 33927 0 0
+//admin/.env 1 2986 0 0
+/categoria/306 1 5299 1 1
+//web/.env 1 2986 0 0
+/.remote 1 2986 0 0
+/produto/1433 5 32549 0 0
+/produto/1500 1 7173 0 0
+/produto/1488 1 6521 0 0
+//lab/.env 1 2986 0 0
+/produto/541 1 6874 1 1
+/.well-known/assetlinks.json 2 8004 2 2
+/produto/1459 2 13198 0 0
+/categoria/488 2 9853 0 0
+/produto/1545 1 7455 0 1
+/produto/1497 2 14454 0 0
+/categoria/511 2 10594 0 0
+//saas/.env 1 2986 0 0
+//site/.env 1 2986 0 0
+/categoria/474 1 5026 0 0
+/_core/_cdn/lineicons/fonts/LineIcons.woff 2 128656 0 0
+/categoria/456 1 4843 0 0
+/produto/1449 14 94176 1 0
+/produto/ 1 4295 0 0
+/categoria/487 6 31825 0 1
+/produto/1435 3 20093 0 0
+/produto/1471 3 20436 0 0
+/produto/1472 4 33961 0 0
+/produto/280 2 16422 0 0
+/produto/1464 5 38575 0 0
+//config/.env 1 2986 0 0
+//exapi/.env 1 2986 0 0
+/categoria/512 1 5344 0 0
+/categoria/462 4 19400 0 0
+/categoria/473 6 30918 1 0
+/produto/1519 2 16040 0 0
+/pedido_delivery 13 87624 0 0
+/produto/769 1 8158 1 1
+/produto/1504 1 7205 0 0
+/_core/_cdn/fonts/fonts/icomoon.woff 1 1344 0 0
+/categoria/465 4 19372 0 0
+/produto/1494 1 6847 0 0
+/categoria/515 4 20937 0 0
+/categoria/497 12 59460 0 0
+/produto/1448 2 16113 0 0
+/produto/1460 2 13080 0 0
+/produto/1436 8 65677 0 0
+/produto/1527 1 8246 0 0
+/produto/1541 1 6893 0 0
+/categoria/444 2 9680 1 0
+/.production 1 2986 0 0
+/categoria/498 3 14190 0 0
+/produto/1458 1 8399 0 0
+//lib/.env 1 2986 0 0
+/pedidosfechados 2 8524 0 0
+/categoria/516 1 5339 1 0
+/produto/1520 1 8220 0 0
+/produto/1467 5 39737 0 0
+/produto/770 1 8137 1 1
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+1K-2K 2582
+2K-5K 6322
+500-1K 2081
+44-100 1789
+0-44 666
+100-500 5048
+5K+ 14123
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

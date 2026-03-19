@@ -1,0 +1,13 @@
+{
+  "name": "ilinkbio-site",
+  "version": "1.0.0",
+  "description": "iLinkBio - Plataforma de Delivery",
+  "scripts": {
+    "dev": "C:\\Users\\Gestalt\\Downloads\\php\\php.exe -S localhost:8080 -t baixar/public_html",
+    "dev:3000": "C:\\Users\\Gestalt\\Downloads\\php\\php.exe -S localhost:3000 -t baixar/public_html",
+    "server": "C:\\Users\\Gestalt\\Downloads\\php\\php.exe -S 0.0.0.0:8080 -t baixar/public_html"
+  },
+  "keywords": ["php", "delivery", "ilinkbio"],
+  "author": "",
+  "license": "ISC"
+}
