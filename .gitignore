@@ -36,6 +36,13 @@ npm-debug.log*
 # OS
 .DS_Store
 Thumbs.db
+__MACOSX/
+
+# Documentation, tests and samples (cause UTF-8 errors in build)
+docs/
+tests/
+samples/
+*.phar
 
 # Large binary files
 *.node
