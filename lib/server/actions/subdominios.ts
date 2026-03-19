@@ -281,6 +281,6 @@ export async function listarTodosSubdominios(): Promise<Subdominio[]> {
   }
 }
 
-export function getTipoSubdominioLabel(tipo: number): string {
+export async function getTipoSubdominioLabel(tipo: number): Promise<string> {
   return TIPOS_SUBDOMINIO[tipo] || 'Desconhecido';
 }
