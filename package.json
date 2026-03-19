@@ -1,14 +1,22 @@
 {
   "name": "ilinkbio-site",
   "version": "1.0.0",
-  "description": "iLinkBio - Plataforma de Delivery",
+  "private": true,
   "scripts": {
-    "start": "php -S 0.0.0.0:$PORT -t baixar/public_html",
-    "dev": "php -S localhost:8080 -t baixar/public_html",
-    "dev:3000": "php -S localhost:3000 -t baixar/public_html",
-    "server": "php -S 0.0.0.0:8080 -t baixar/public_html"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
   },
-  "keywords": ["php", "delivery", "ilinkbio"],
-  "author": "",
-  "license": "ISC"
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "typescript": "^5.0.0"
+  }
 }

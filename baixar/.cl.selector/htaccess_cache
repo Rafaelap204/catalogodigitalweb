@@ -1,6 +1,0 @@
-[/backup/ilinkbiocom/public_html]
-htaccess_list = /backup/ilinkbiocom/public_html/.htaccess,/backup/ilinkbiocom/public_html/_core/_ajax/.htaccess,/backup/ilinkbiocom/public_html/_core/_uploads/.htaccess,/backup/ilinkbiocom/public_html/conheca/.htaccess
-
-[/backup/ilinkbiocom/public_html/conheca]
-htaccess_list = /backup/ilinkbiocom/public_html/conheca/.htaccess
-
